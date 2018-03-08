@@ -221,8 +221,8 @@ class SampleChef(SushiChef):
         channel.add_child(topic2)
 
         exercise2a = ExerciseNode(
-                source_id='asisis9',
-                title='Basic questions',
+                source_id='asisis92',
+                title='A literary question',
                 author='LE content team',
                 description='Showcase of the simple exercises supported by Ricecooker and Studio',
                 language=getlang('en').id,
@@ -235,26 +235,54 @@ class SampleChef(SushiChef):
                     'n': 3,
                 },
                 questions=[
-                    MultipleSelectQuestion(
-                            id='ex2aQ1',
-                            question = "Which numbers are even?",
-                            correct_answers = ["2", "4",],
-                            all_answers = ["1", "2", "3", "4", "5"],
-                            # hints?
-                    ),
+                    # MultipleSelectQuestion(
+                    #         id='ex2aQ1',
+                    #         question = "Which numbers are even?",
+                    #         correct_answers = ["2", "4",],
+                    #         all_answers = ["1", "2", "3", "4", "5"],
+                    #         # hints?
+                    # ),
+                    # SingleSelectQuestion(
+                    #         id='ex2aQ2',
+                    #         question = "What is 2 times 3?",
+                    #         correct_answer = "6",
+                    #         all_answers = ["2", "3", "5", "6"],
+                    #         # hints?
+                    # ),
+                    # InputQuestion(
+                    #         id='ex2aQ3',
+                    #         question = "Name a factor of 10.",
+                    #         answers = ["1", "2", "5", "10"],
+                    #         # hints?
+                    # ),
                     SingleSelectQuestion(
-                            id='ex2aQ2',
-                            question = "What is 2 times 3?",
-                            correct_answer = "6",
-                            all_answers = ["2", "3", "5", "6"],
+                            id='exampleMarkdownText2',
+                            question = """
+Dr. Martin Luther King, Jr. (1929-1968) was a Baptist minister and a leader of the African American Civil Rights Movement. This article shares key details about Dr. King’s life and accomplishments, including his belief in equality and non-violence.
+
+Dr. Martin Luther King, Jr., was a great leader. He inspired many people. He brought about changes that are important to everyone in the United States. In fact, he is known around the world. He was the youngest person to win the Nobel Peace Prize. That is a prize given to a person who is important to the world. It is a peace prize. He wanted people to change things peacefully. He thought that violence only led to more problems.
+
+Dr. King used a way of changing things called non-violent protest. He saw that people were not treated fairly. He protested for civil rights. When he led marches, people were angry. But he was determined. Even though people shouted at him, he kept marching.
+
+People who had been afraid to protest before were encouraged. They joined him. He was able to give them confidence. Together they would overcome. Soon thousands of people were with him. He was changing America.
+
+He organized boycotts. A boycott means that people do not buy something or shop at a store or use a service. The boycott he led was the Montgomery Bus Boycott. Before that boycott in 1955, African Americans could not ride in the front of buses. They had to sit or stand in the back even if there were seats in the front. Only whites could have those front seats. It took months, but they won. They got the right to sit anywhere in the bus.
+
+Dr. King influenced many people. He reached them with his books and speeches. He gave a very inspiring speech in Washington, D.C. People call it his “I Have a Dream” speech. In it he told about what he had seen, the changes that had happened, and what would happen in the future.
+
+Today the United States celebrates his life with a special holiday every year. On that day, people remember what he accomplished. They think about how he has made a difference to everyone in America.
+
+*What made Dr. Martin Luther King, Jr. a unique leader in the Civil Rights Movement?*
+""",
+                            correct_answer = "He worked for change through non-violent, peaceful protests.",
+                            all_answers = [
+                                "He worked for change through non-violent, peaceful protests.",
+                                "He called for equal rights among all people.",
+                                "He was the first Civil Rights leader to win a Nobel Peace Prize.",
+                                "He was very afraid to march with other protesters.",
+                            ],
                             # hints?
                     ),
-                    InputQuestion(
-                            id='ex2aQ3',
-                            question = "Name a factor of 10.",
-                            answers = ["1", "2", "5", "10"],
-                            # hints?
-                    )
                 ]
         )
         topic2.add_child(exercise2a)
