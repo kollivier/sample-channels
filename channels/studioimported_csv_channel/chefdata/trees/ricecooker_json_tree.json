@@ -1195,7 +1195,7 @@
                       "all_answers": [
                         "<",
                         ">",
-                        "#ERROR!"
+                        "="
                       ],
                       "hints": []
                     },
@@ -1669,11 +1669,11 @@
                       "question_type": "single_selection",
                       "id": "672ff2aaa62c4fd4b0a6d7afb0ba8003",
                       "question": "$$\\frac{42}{56}$$ ……………….. $$\\frac{6}{8}$$",
-                      "correct_answer": "#ERROR!",
+                      "correct_answer": "=",
                       "all_answers": [
                         "<",
                         ">",
-                        "#ERROR!"
+                        "="
                       ],
                       "hints": []
                     },
@@ -1716,11 +1716,11 @@
                       "question_type": "single_selection",
                       "id": "4d8db3798f2347efae253af128e2a892",
                       "question": "$$\\frac{2}{7}$$ ……………….. $$\\frac{16}{56}$$",
-                      "correct_answer": "#ERROR!",
+                      "correct_answer": "=",
                       "all_answers": [
                         "<",
                         ">",
-                        "#ERROR!"
+                        "="
                       ],
                       "hints": []
                     },
@@ -1767,7 +1767,7 @@
                       "all_answers": [
                         "<",
                         ">",
-                        "#ERROR!"
+                        "="
                       ],
                       "hints": []
                     },
@@ -1814,7 +1814,7 @@
                       "all_answers": [
                         "<",
                         ">",
-                        "#ERROR!"
+                        "="
                       ],
                       "hints": []
                     },

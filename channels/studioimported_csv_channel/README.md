@@ -47,5 +47,20 @@ Restored channel API result showing identical info:
 http://develop.studio.learningequality.org/api/get_nodes_by_ids_complete/0a6c6429f91c4325a3b567da8fc5b242
 
 
+
 Note the all-the-questions-still-in-the-last exercise is still present, but 
 after modifying the first column in `ExerciseQuestions.csv` this won't be the case anymore.
+
+
+Restored channel [WIP]: https://studio.learningequality.org/channels/094097ce6f395ec0b50aabd04943c6b3/view/6ff33f3
+
+Issue ticket: https://github.com/learningequality/studio/issues/1047#issuecomment-435458297
+
+
+TODO
+----
+
+If used in the future --- have to watch out for string "=" which Spreasheet software interpets as bad formula, and shows up as `#ERROR` in CSV.
+Can manually change `=` to `'=` when this occurs.
+
+
