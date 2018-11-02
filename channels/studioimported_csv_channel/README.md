@@ -24,6 +24,7 @@ Usage
 
 1. Import from Studio
 
+    rm -rf VGISrestore/* ExerciseQuestions.csv Exercises.csv Content.csv
     ./linecook.py -v  --importstudioid=58c962a919cd4bb2854e230ca4d07ea1 \
                       --token=<TOKENVALUE> \
                       --channeldir=VGISrestore
@@ -34,3 +35,17 @@ Usage
 
     ./linecook.py -v --reset --token=/Users/ivan/.studiotoken --channeldir=VGISrestore
 
+
+
+More info
+---------
+
+Original channel API result (sample Exercise)
+https://studio.learningequality.org/api/get_nodes_by_ids_complete/8c3cfa8ec9e34d3f878b16291392e631
+
+Restored channel API result showing identical info:
+http://develop.studio.learningequality.org/api/get_nodes_by_ids_complete/0a6c6429f91c4325a3b567da8fc5b242
+
+
+Note the all-the-questions-still-in-the-last exercise is still present, but 
+after modifying the first column in `ExerciseQuestions.csv` this won't be the case anymore.
