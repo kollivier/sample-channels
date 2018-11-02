@@ -1,17 +1,17 @@
 Source ID *,Question ID *,Question type *,Question *,Option A,Option B,Option C,Option D,Option E,Options F...,Correct Answer *,Correct Answer 2,Correct Answer 3,Hint 1,Hint 2,Hint 3,Hint 4,Hint 5,Hint 6+
-Exercise_5_-_Greetings_and_responses,ed091ac98c7040e091489b43f09e4e21,single_selection,New Year,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Happy New Year,,,,,,,,
-Exercise_5_-_Greetings_and_responses,66e4b020672741459f66a04b0db9f248,single_selection,Birthday,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Happy Birthday,,,,,,,,
-Exercise_5_-_Greetings_and_responses,0b9b9e173fd2461caf4f5678e72c7f9e,single_selection,Christmas,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Merry Christmas,,,,,,,,
-Exercise_5_-_Greetings_and_responses,1b184eaad09a4204b2caed4a8435696b,single_selection,Evening,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Good Evening,,,,,,,,
-Exercise_5_-_Greetings_and_responses,a5d55e2f46944a969c67bfaacee3a16f,multiple_selection,On which days do we go to school?,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday🍣Saturday,Monday,Tuesday,Wednesday,,,,,,
-Exercise_5_-_Greetings_and_responses,629bc124cb6b4250babc1df67a5c4a6d,multiple_selection,Select all the letters of the alphabet that are in lower case.,T,t,J,j,B,b,t,j,b,,,,,,
+Exercise_2_-_Greetings,ed091ac98c7040e091489b43f09e4e21,single_selection,New Year,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Happy New Year,,,,,,,,
+Exercise_2_-_Greetings,66e4b020672741459f66a04b0db9f248,single_selection,Birthday,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Happy Birthday,,,,,,,,
+Exercise_2_-_Greetings,0b9b9e173fd2461caf4f5678e72c7f9e,single_selection,Christmas,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Merry Christmas,,,,,,,,
+Exercise_2_-_Greetings,1b184eaad09a4204b2caed4a8435696b,single_selection,Evening,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Good Evening,,,,,,,,
+Exercise_1_-_Days_of_the_week,a5d55e2f46944a969c67bfaacee3a16f,multiple_selection,On which days do we go to school?,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday🍣Saturday,Monday,Tuesday,Wednesday,,,,,,
+Exercise_3_-_Letters_of_the_alphabet,629bc124cb6b4250babc1df67a5c4a6d,multiple_selection,Select all the letters of the alphabet that are in lower case.,T,t,J,j,B,b,t,j,b,,,,,,
 Exercise_5_-_Greetings_and_responses,5e20414d8df44a45838b117af99b25d3,single_selection,Afternoon,Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Good Afternoon,,,,,,,,
-Exercise_5_-_Greetings_and_responses,78e1d716b14f449494f9baeda4eaaa3a,multiple_selection,Mention all the days of the week from the first day to the seventh day.,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday🍣Saturday🍣Sunday,Sunday,Monday,Tuesday,,,,,,
-Exercise_5_-_Greetings_and_responses,c972b4a022f34a01816028439f40f0eb,multiple_selection,Select all the letters of the alphabets that are in upper case.,a,A,Y,y,I,i,A,Y,I,,,,,,
-Exercise_5_-_Greetings_and_responses,c24589bc30054b7683af1b331dfd3e67,single_selection,"How do you greet at the following times?  
+Exercise_1_-_Days_of_the_week,78e1d716b14f449494f9baeda4eaaa3a,multiple_selection,Mention all the days of the week from the first day to the seventh day.,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday🍣Saturday🍣Sunday,Sunday,Monday,Tuesday,,,,,,
+Exercise_3_-_Letters_of_the_alphabet,c972b4a022f34a01816028439f40f0eb,multiple_selection,Select all the letters of the alphabets that are in upper case.,a,A,Y,y,I,i,A,Y,I,,,,,,
+Exercise_5_-_Greetings_and_responses,c24589bc30054b7683af1b331dfd3e67,single_selection,"How do you greet at the following times? 
 
 Morning",Good Morning,Good Afternoon,Happy Birthday,Happy New Year,Good Evening,Merry Christmas,Good Morning,,,,,,,,
-Exercise_5_-_Greetings_and_responses,18e77f59d5344742baff93fa127b7c9e,single_selection,How many days do we have in a week?,There are **Seven days** in a week.,There are **Six days** in a week,There are **Ten days** in a week.,There are **Five days** in a week,,,There are **Seven days** in a week.,,,,,,,,
+Exercise_1_-_Days_of_the_week,18e77f59d5344742baff93fa127b7c9e,single_selection,How many days do we have in a week?,There are **Seven days** in a week.,There are **Six days** in a week,There are **Ten days** in a week.,There are **Five days** in a week,,,There are **Seven days** in a week.,,,,,,,,
 Exercise_5_-_Greetings_and_responses,da2885bfb4b84ea982eba93ac3729c92,single_selection,Happy birthday,Thank you,Good evening,Good afternoon,Good morning,Good night,Many happy returns,Thank you,,,,,,,,
 Exercise_5_-_Greetings_and_responses,30a26c465e154f2d8f7e0a70f4407a14,single_selection,Good night,Thank you,Good evening,Good afternoon,Good morning,Good night,Man happy returns,Good night,,,,,,,,
 Exercise_5_-_Greetings_and_responses,07c9cbd0e2b6425ea8dc94a1827a43a3,single_selection,Good evening,Thank you,Good evening,Good afternoon,Good morning,Good night,Many happy returns,Good evening,,,,,,,,
@@ -27,7 +27,7 @@ Exercise_5_-_Introduction_to_the_idea_of_mass,47a07aea3b90405586472a7e44e6ce5d,s
 Exercise_5_-_Introduction_to_the_idea_of_mass,24d0862abdb84ac399dd803e72692705,single_selection,The side drum or the bass drum,The side drum,The bass drum,,,,,The bass drum,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,c1ae7afd42d54f65880e9ed25ec29dc6,single_selection,"Which object is taller?
 
- ![](exerciseimages/9982fa2fa94980142997d343b9ea51f8.png)",A,B,,,,,B,,,,,,,,
+ ![](exerciseimages/9982fa2fa94980142997d343b9ea51f8.png)",A,B,,,,,B,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,be3e4e53f33c4d25848ac2c615bbe3e9,single_selection,![](exerciseimages/2669bd8088243314b285e129f2a1262e.png),E holds more water than F,F holds less water than E,,,,,E holds more water than F,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,aa80f51def4e46c2ad0bc3ffb232914b,single_selection,A teacher's palm or a pupil's palm,A teacher's palm,A pupil's palm,,,,,A teacher's palm,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,666ff6e289eb4d9aaa8bfaeb377da83b,single_selection,![](exerciseimages/1df4f2e1304a41ea53061331d8cc8c17.png),E,F,,,,,F,,,,,,,,
@@ -35,12 +35,12 @@ Exercise_5_-_Introduction_to_the_idea_of_mass,87b52c1d430f4273bcca31bcd79bfea6,s
 Exercise_5_-_Introduction_to_the_idea_of_mass,7d6e523b7c494979ab85f201b4a5a277,single_selection,A slate or a door,A slate,A door,,,,,A door,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,dc3ef8587f414925830eb0dc1e6c1278,single_selection,![](exerciseimages/5e294df2e1cdf317caf2ebf56f1c4475.png),C,D,,,,,C,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,94bb9669128745b1a1c015a73113683b,single_selection,Choose the right option. ![](exerciseimages/d2986da57267352afcca639410ea9f78.png),A holds more water than B,B holds more water than A,,,,,B holds more water than A,,,,,,,,
-Exercise_5_-_Introduction_to_the_idea_of_mass,2fb7ab42ba774deda1d0529f2eab9a37,single_selection,"Which is bigger?  
+Exercise_5_-_Introduction_to_the_idea_of_mass,2fb7ab42ba774deda1d0529f2eab9a37,single_selection,"Which is bigger? 
 
 An exercise book or a slate",An exercise book,A slate,,,,,A slate,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,6b8849ee98c34e3eb55f2295087eed1c,single_selection,Which object is longer? ![](exerciseimages/036a7ed0b8fc25baed5ef282d84757ac.png),Stick A,Stick B,,,,,Stick B,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,a4370453f3d547b4a0dbaa0e215e7414,single_selection,![](exerciseimages/044209188b7252dceb341f291201c0f1.png),A ruler is lighter than a textbook,A ruler is heavier than a textbook,,,,,A ruler is lighter than a textbook,,,,,,,,
-Exercise_5_-_Introduction_to_the_idea_of_mass,a97c6881a2914f2f8fd16e2c1af0dced,single_selection,![](exerciseimages/28e62cfde7b26a9620c07fed78a550bf.png),A coconut is heavier than an orange,An  coconut is lighter than an orange,,,,,A coconut is heavier than an orange,,,,,,,,
+Exercise_5_-_Introduction_to_the_idea_of_mass,a97c6881a2914f2f8fd16e2c1af0dced,single_selection,![](exerciseimages/28e62cfde7b26a9620c07fed78a550bf.png),A coconut is heavier than an orange,An coconut is lighter than an orange,,,,,A coconut is heavier than an orange,,,,,,,,
 Exercise_5_-_Introduction_to_the_idea_of_mass,169edb2c8d7048a8be3521831bb4071a,single_selection,"Which is heavier or lighter?
 
 ![](exerciseimages/806be923720bfd117123c3529aeb925b.png)",A tin of milk is heavier than a tin of milo,A tin of milk is lighter than a tin of milo,,,,,A tin of milk is lighter than a tin of milo,,,,,,,,
@@ -52,31 +52,31 @@ Exercise_5_-_Nouns_II,229b76fbcde24fe3845a527c748c2de5,multiple_selection,A boy 
 Exercise_5_-_Nouns_II,5326bd9852494559bd8a7429c060923e,single_selection,a. The cat is in the ……………,Bag,Book,Box,Eraser,Pen,,Box,,,,,,,,
 Exercise_5_-_Nouns_II,130ace3e4c11436bb3b9c32537f8df2f,single_selection,A girl laughing,A,Girl,Laughing,,,,Laughing,,,,,,,,
 Exercise_5_-_Nouns_II,1c1518aacb8a4d52aef64baed42d2df5,single_selection,The …………. is on the floor.,Bag,Book,Box,Eraser,Pen,,Book,,,,,,,,
-Exercise_5_-_Nouns_II,032e9a9cfb124b31b58b429e390146ae,single_selection,"Choose the action words (verbs) in the following sentences.  
+Exercise_5_-_Nouns_II,032e9a9cfb124b31b58b429e390146ae,single_selection,"Choose the action words (verbs) in the following sentences. 
 
 An old man sitting in a chair.",Old,Man,Chair,Sitting,,,Sitting,,,,,,,,
-Exercise_5_-_Nouns_II,49bf8a5ceab3402bb2112fc808b61b96,single_selection,"Complete the sentences below.  
+Exercise_5_-_Nouns_II,49bf8a5ceab3402bb2112fc808b61b96,single_selection,"Complete the sentences below. 
 
 Esi has her ………….. at her back.",Bag,Book,Box,Eraser,Pen,,Bag,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,08cf8c391c7f43e5889d34a38d7120a8,single_selection,How many Pupils are in the class?,`19,7,9,20,,,20,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,2a1ed225076b46af89b3243ed21a5882,single_selection,Those who walk to school are more than those who go by trotro.,True,False,,,,,True,,,,,,,,
+Exercise_3_-_Collecting_and_handling_data,2a1ed225076b46af89b3243ed21a5882,single_selection,Those who walk to school are more than those who go by trotro.,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,62933592ffc748f3b94449367b025fb2,single_selection,How many pupils go to school by taxi?,4,7,9,5,,,4,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,8cb83c2cf4d045b6864b287e506c3a21,single_selection,How many Pupils walk to school?,4,7,9,3,,,9,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,ecc2311c7ec940aeb9db44736aba5f4e,single_selection,"Use the data to answer the following questions. ![](exerciseimages/22f31b6fa7b94e9b61a02bd73727dcf4.png)  
+Exercise_3_-_Collecting_and_handling_data,ecc2311c7ec940aeb9db44736aba5f4e,single_selection,"Use the data to answer the following questions. ![](exerciseimages/22f31b6fa7b94e9b61a02bd73727dcf4.png) 
 
 How many pupils go to school by trotro?",4,7,9,3,,,7,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,98886234ed9842fd9e58e1024d9466ed,single_selection,Those who like kenkey and rice are more than those who like fufu and banku.,True,False,,,,,True,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,3a9f70a983f041ba92763afe9c1b8417,single_selection,Those who like kenkey and rice are more than those who like fufu and banku.,True,False,,,,,True,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,e0696f856659422383486155581fecd8,single_selection,The pupils who like kenkey are more than those who like banku.,True,False,,,,,False,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,ad3a586f30fe468c85b94b66842c23cb,single_selection,The pupils who like kenkey are more than those who like banku.,True,False,,,,,False,,,,,,,,
+Exercise_3_-_Collecting_and_handling_data,98886234ed9842fd9e58e1024d9466ed,single_selection,Those who like kenkey and rice are more than those who like fufu and banku.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_3_-_Collecting_and_handling_data,3a9f70a983f041ba92763afe9c1b8417,single_selection,Those who like kenkey and rice are more than those who like fufu and banku.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_3_-_Collecting_and_handling_data,e0696f856659422383486155581fecd8,single_selection,The pupils who like kenkey are more than those who like banku.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_3_-_Collecting_and_handling_data,ad3a586f30fe468c85b94b66842c23cb,single_selection,The pupils who like kenkey are more than those who like banku.,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,2112822868a149a4b761d95f4d5aaf57,single_selection,How many more people like rice than fufu ?,6,3,4,2,,,3,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,59f64a753822480ab6011236db18ae44,single_selection,How many more people like rice than fufu ?,6,3,4,2,,,3,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,49850538103e46ebbbf89f0f1f82f82e,single_selection,Which type of food is liked by the least number of pupils?,Fufu,Banku,Kenkey,Rice,,,Kenkey,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,12830428d9e748fe876b2406383a736d,single_selection,Which type of food is liked by the least number of pupils?,Fufu,Banku,Kenkey,Rice,,,Kenkey,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,297508d788d545fdafa2bc5d074bfdc8,single_selection,"Use the data the answer the following questions. ![](exerciseimages/28ab63c818cecc89f8e5f71bdd08e04e.png)  
+Exercise_3_-_Collecting_and_handling_data,297508d788d545fdafa2bc5d074bfdc8,single_selection,"Use the data the answer the following questions. ![](exerciseimages/28ab63c818cecc89f8e5f71bdd08e04e.png) 
 
 How many pupils like Banku?",3,4,2,6,,,4,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,5e1c3a4a79b2466c860898e1d92c84d4,single_selection,"Use the data the answer the following questions. ![](exerciseimages/28ab63c818cecc89f8e5f71bdd08e04e.png)  
+Exercise_3_-_Collecting_and_handling_data,5e1c3a4a79b2466c860898e1d92c84d4,single_selection,"Use the data the answer the following questions. ![](exerciseimages/28ab63c818cecc89f8e5f71bdd08e04e.png) 
 
 How many pupils like Banku?",3,4,2,6,,,4,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,9d051a84bd2e4fa78340dd1069295208,single_selection,How many Pupils are in the class?,18,20,19,6,,,20,,,,,,,,
@@ -85,9 +85,9 @@ Exercise_3_-_Collecting_and_handling_data,2488987311fc4cc8a1212f1547c6ae9a,singl
 Exercise_3_-_Collecting_and_handling_data,8e85bf2713af42eb899a6f8e88133bcc,single_selection,How many pupils were born on Monday?,5,2,3,7,,,2,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,87bf7fc89632448584a197221c53617d,single_selection,how many of the green containers can fill the yellow container?,1,3,2,6,,,2,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,8eaaab124c8f4d988633b9a3bbb00af0,single_selection,On what day were most pupils born?,Monday,Tuesday,Sunday,Wednesday,,,Sunday,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,af44aaceecdd4dc7ab6bd5af547e670f,single_selection,"If the red container is one litre, and the Green is 3 litres and the Yellow is 6 litres,  
+Exercise_3_-_Collecting_and_handling_data,af44aaceecdd4dc7ab6bd5af547e670f,single_selection,"If the red container is one litre, and the Green is 3 litres and the Yellow is 6 litres, 
 
-![](exerciseimages/18f4aa5083b889567cf768e1eca93293.png)  
+![](exerciseimages/18f4aa5083b889567cf768e1eca93293.png) 
 
 how many of the red containers can fill the yellow container?",1,2,4,6,,,6,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,069e354de17f4b7ba1f2aabd2bfbf881,single_selection,"Use the data to answer the following questions. ![](exerciseimages/1777e1d6e19f02acf8354b23a225d162.png)
@@ -97,7 +97,7 @@ Exercise_3_-_Collecting_and_handling_data,15ee45653c5d4b4e9e22321dd2381e18,singl
 Exercise_3_-_Collecting_and_handling_data,71e878ca4e11461a81b4b5477c27e3c4,single_selection,Which soft drink was served to most pupils?,Pepsi,Sprite,Fanta,Coca Cola,,,Fanta,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,7f354b0ce40d40b79fd8bc859c51eca7,single_selection,Which soft drink was served to the least number of pupils?,Pepsi,Fanta,Spirite,Mirinda,,,Pepsi,,,,,,,,
 Exercise_3_-_Collecting_and_handling_data,5ae01afc97b444eb80c195379260d5f1,single_selection,How many pupils were served with Miranda?,4,5,3,7,,,5,,,,,,,,
-Exercise_3_-_Collecting_and_handling_data,459633073d2447b1afc1a3f5bbb29ce3,single_selection,"![](exerciseimages/e3f2904fd659832f09473751c926d818.png)  
+Exercise_3_-_Collecting_and_handling_data,459633073d2447b1afc1a3f5bbb29ce3,single_selection,"![](exerciseimages/e3f2904fd659832f09473751c926d818.png) 
 
 Use the data above to answer the following questions.
 
@@ -124,13 +124,13 @@ Exercise_5_-_Irregular_nouns,719647d0fa034dffb15151375cf9283e,single_selection,T
 Exercise_5_-_Irregular_nouns,ff64d25e25d242c2a0e91729f84e57dc,single_selection,Table,Tables,Tabless,,,,,Tables,,,,,,,,
 Exercise_5_-_Irregular_nouns,1176447710b341ae95bccec224a87120,single_selection,We …………….. football at school.,plays,play,,,,,play,,,,,,,,
 Exercise_5_-_Irregular_nouns,0f4294216ad842faa9ce74b6a7df9f89,single_selection,Kwame is walking ……………… Kofi.,in front,above,below,over,beside,near,beside,,,,,,,,
-Exercise_5_-_Irregular_nouns,8c6b70525b54422baaea50e6d1389e8b,single_selection,"Select the plural form of the following nouns.  
+Exercise_5_-_Irregular_nouns,8c6b70525b54422baaea50e6d1389e8b,single_selection,"Select the plural form of the following nouns. 
 
 Dog",Dogs,Doges,,,,,Dogs,,,,,,,,
-Exercise_5_-_Irregular_nouns,b3d2dd0bac084781b02cbc3a006187ae,single_selection,"Select the correct verb to complete the following sentences.  
+Exercise_5_-_Irregular_nouns,b3d2dd0bac084781b02cbc3a006187ae,single_selection,"Select the correct verb to complete the following sentences. 
 
 I ………………… rice in the afternoon.",eat,eats,,,,,eat,,,,,,,,
-Exercise_5_-_Irregular_nouns,46ba201d2a6c4a4a95358b14618148dc,single_selection,"Complete the following sentences with the correct prepositions.  
+Exercise_5_-_Irregular_nouns,46ba201d2a6c4a4a95358b14618148dc,single_selection,"Complete the following sentences with the correct prepositions. 
 
 1\. She is standing ………………..of her house.",in front,above,below,over,beside,near,in front,,,,,,,,
 Exercise_5_-_Irregular_nouns,9d7bd0c3d63f45d8893db9a9a525aae5,single_selection,Loaf,Loafes,Loaves,,,,,Loaves,,,,,,,,
@@ -147,8 +147,8 @@ Exercise_5_-_Irregular_nouns,8df0433663914cbbb20d056465abd58e,single_selection,"
 <div>Example. hoof = hooves</div>
 
 <div>Man</div>",Mans,Men,,,,,Men,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,496e6486435d415da092e48f538acee9,single_selection,The length of the school block is shorter than the length of the classroom.,True,False,,,,,False,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,7a58b7d313b4431ab8af37bb52756d95,single_selection,The height of our classroom door is taller than the height of teacher’s table.,True,False,,,,,True,,,,,,,,
+Compare_surfaces_(regions)_of_plane_shapes,496e6486435d415da092e48f538acee9,single_selection,The length of the school block is shorter than the length of the classroom.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Compare_surfaces_(regions)_of_plane_shapes,7a58b7d313b4431ab8af37bb52756d95,single_selection,The height of our classroom door is taller than the height of teacher’s table.,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,fd4bb32d3ef3470e8e30b68d4e0a7ba6,single_selection,"A red stick measures 4m 23cm and green stick measures 4m 32 cm, which stick is shorter?",The red stick is shorter,The green stick is shorter,,,,,The red stick is shorter,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,aef62a99b68a4a9db0a58594ace17f74,single_selection,1\. Amidu is 1m 68cm tall. Stella is 1m 80cm tall. Who is taller?,Amidu is taller.,Stella is taller.,,,,,Stella is taller.,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,003e2138f2984782a9ef797db01891d6,single_selection,___________has length about 2 meters.,Bed,Chair,,,,,Bed,,,,,,,,
@@ -156,10 +156,10 @@ Compare_surfaces_(regions)_of_plane_shapes,543212bedd134b90b7f1feb9dba2c790,sing
 Compare_surfaces_(regions)_of_plane_shapes,3cb7fd7f76b44c499d259ed818af26dd,single_selection,From my elbow to my finger tips is ___________one meter.,longer than,shorter than,taller than,,,,shorter than,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,763a33d0e92c45609522d3bd39b58758,single_selection,1\. The height of the classroom door is ___________one meter.,longer than,shorter than,taller than,,,,taller than,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,856a355dab634c54826f40e383d0b384,single_selection,The length of the blackboard is ___________one meter.,longer than,shorter than,taller than,,,,longer than,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,99e971756eb741cfa9da10aef10c45ad,single_selection,"Choose the correct answer.  
+Compare_surfaces_(regions)_of_plane_shapes,99e971756eb741cfa9da10aef10c45ad,single_selection,"Choose the correct answer. 
 
 1\. The length of an exercise book is ___________one meter.",longer than,shorter than,taller than,,,,shorter than,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,2f0580f384f3434cb62cfe6de912a620,single_selection,More exercise books can cover the surface area of the teacher’s table than slates.,True,False,,,,,False,,,,,,,,
+Compare_surfaces_(regions)_of_plane_shapes,2f0580f384f3434cb62cfe6de912a620,single_selection,More exercise books can cover the surface area of the teacher’s table than slates.,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,a58387a8fb8641048b2e6185d6300977,single_selection,![](exerciseimages/598e5f939ba5bf11e1b9d2253a79830c.png),D E F,F D E,E F D,F E D,,,E F D,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,e3da35b3753f439c80a3ef4e652272f3,single_selection,"Arrange the following Shapes, starting from the smallest area to the biggest area. ![](exerciseimages/df5310342f26a06be65e0ced708f8a8c.png)",A B C,C B A,C A B,B A C,,,C A B,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,8eac97771fb1452699e42cffe5323158,single_selection,Which of these shapes has the larger surface area? ![](exerciseimages/40c310400b0828c23a0bd0d3f217b6bb.png),A,B,,,,,B,,,,,,,,
@@ -173,154 +173,154 @@ Compare_surfaces_(regions)_of_plane_shapes,f95e26fe813e4aae94a59a7adc0ca247,sing
 Compare_surfaces_(regions)_of_plane_shapes,91fb91cc96f04c71a56a0a4c6f0954de,single_selection,A chair and a handkerchief.,A chair,A handkerchief,,,,,A chair,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,bbc19046547f4e35b5a91250a44b3d14,single_selection,A chair and a handkerchief.,A chair,A handkerchief,,,,,A chair,,,,,,,,
 Compare_surfaces_(regions)_of_plane_shapes,c85c45b657504693996570f230fd961d,single_selection,A chair and a handkerchief.,A chair,A handkerchief,,,,,A chair,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,41333d6b6ba54359ab59705fe7ddcecc,single_selection,"Compare the following surfaces and select which has a larger surface.  
+Compare_surfaces_(regions)_of_plane_shapes,41333d6b6ba54359ab59705fe7ddcecc,single_selection,"Compare the following surfaces and select which has a larger surface. 
 
- An exercise book and a teacher’s notebook",An exercise book,A teacher's notebook,,,,,A teacher's notebook,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,c2919ad493a94b9a951fe4be519b0fda,single_selection,"Compare the following surfaces and select which has a larger surface.  
+ An exercise book and a teacher’s notebook",An exercise book,A teacher's notebook,,,,,A teacher's notebook,,,,,,,,
+Compare_surfaces_(regions)_of_plane_shapes,c2919ad493a94b9a951fe4be519b0fda,single_selection,"Compare the following surfaces and select which has a larger surface. 
 
- An exercise book and a teacher’s notebook",An exercise book,A teacher's notebook,,,,,A teacher's notebook,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,4221995fdf0048648e520bd49c1d3338,single_selection,"Compare the following surfaces and select which has a larger surface.  
+ An exercise book and a teacher’s notebook",An exercise book,A teacher's notebook,,,,,A teacher's notebook,,,,,,,,
+Compare_surfaces_(regions)_of_plane_shapes,4221995fdf0048648e520bd49c1d3338,single_selection,"Compare the following surfaces and select which has a larger surface. 
 
- An exercise book and a teacher’s notebook",An exercise book,A teacher's notebook,,,,,A teacher's notebook,,,,,,,,
-Compare_surfaces_(regions)_of_plane_shapes,7f60b8b4a23a40a7ada9029da39d7d63,single_selection,A 12 cm square cut out can cover more space than a 10cm square cut out.,True,False,,,,,True,,,,,,,,
+ An exercise book and a teacher’s notebook",An exercise book,A teacher's notebook,,,,,A teacher's notebook,,,,,,,,
+Compare_surfaces_(regions)_of_plane_shapes,7f60b8b4a23a40a7ada9029da39d7d63,single_selection,A 12 cm square cut out can cover more space than a 10cm square cut out.,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,ae48bdb200bf4bb09185e328814e82dc,single_selection,What is a browser?,,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,674620913c6e4133a0a8d58c6cf2d8cd,single_selection,Set the time to see how fast you can type.,,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,5aa797d5af924f50948f73d9bc6aea5e,single_selection,Look for the search engine and look for VODAFONE GHANA FOUNDATION,,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,0d4bf3ba6ad74a35916cc61e6a3d146b,single_selection,State two importance of the internet,,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,8012d17efe6e483bb44a27c0ec62dfaa,single_selection,Open the Mavis Beacon Typing software and type “My Self”.,,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,fdaffb6e917748a08c7bf7c336f1c99e,single_selection,"Open the browser on your computer, tablet or mobile phone",,,,,,,,,,,,,,,
-Exercise_4_-_Creating_and_renaming_folders,3155f9d503c3462ea2fbf1a4ee6cafdb,single_selection,"1\. Write the full meaning of the following abbreviations  
+Exercise_4_-_Creating_and_renaming_folders,3155f9d503c3462ea2fbf1a4ee6cafdb,single_selection,"1\. Write the full meaning of the following abbreviations 
 
-HTML  
+HTML 
 
-HTTP  
+HTTP 
 
-URL  
+URL 
 
 WWW",,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,37c16b0735aa4bfaae11b3f03bf1257d,single_selection,Create a folder on your computer and name it 'practicals'.,,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,13f01e9260c742e184ebe9a71fbb7678,single_selection,1\. How would you create a folder on a desktop?,,,,,,,,,,,,,,,
 Exercise_4_-_Creating_and_renaming_folders,138d6ba66d904547bcc062b8f4ed7eeb,single_selection,How would you explain the term folder to a friend?,,,,,,,,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,579f8546136d4146a603889ee83ac8cb,single_selection,$$\frac{5}{6}$$  ……………….. $$\frac{7}{10}$$,<,>,=,,,,>,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,49a7e9d9e99d4221b32d444952b9164c,single_selection,$$\frac{6}{7}=\frac{48}{55}$$,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,8138893bd15a4092b54517442d4d5339,single_selection,![](exerciseimages/3e0c7cc427319ec5ecb0885a9788d5ab.png),True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,2844259a803d43a8916aa5ef9ee4a3d0,single_selection,$$\frac{5}{8}<\frac{9}{10}$$,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,77fc285aeb1a4d42b0bcc9a8492f881c,single_selection,What is the difference between $$1\frac{3}{4}and\frac{1}{2}$$ ?, $$1\frac{1}{2}$$, $$1\frac{1}{4}$$, $$1\frac{3}{4}$$, $$1\frac{2}{4}$$,,, $$1\frac{2}{4}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,aee6f6c540d1487d831bcba7e5924d6c,single_selection,$$\frac{1}{4}>\frac{2}{3}$$,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,84d7f4643e914a5cb1fa8c21137a5a39,single_selection,What is the sum $$2\frac{7}{12}$$  and $$3\frac{5}{8}$$ ?, $$1\frac{5}{24}$$, $$5\frac{5}{24}$$, $$6\frac{5}{24}$$, $$7\frac{5}{24}$$,,, $$6\frac{5}{24}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,428bae1348aa447896abc3d0e6cac6ca,single_selection,What is the sum $$2\frac{7}{12}$$  and $$3\frac{5}{8}$$ ?, $$1\frac{5}{24}$$, $$5\frac{5}{24}$$, $$6\frac{5}{24}$$, $$7\frac{5}{24}$$,,, $$6\frac{5}{24}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,0267845de26e4c2693a37c3267df5d3f,single_selection,"$$\frac{1}{4}$$  is the least among the fractions  $$\frac{1}{4},\frac{1}{3},\frac{2}{5},\frac{1}{2}$$",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,6b7cf62b91b04f0c907c3d6cbd86db3d,single_selection,"$$\frac{1}{4}$$  is the least among the fractions  $$\frac{1}{4},\frac{1}{3},\frac{2}{5},\frac{1}{2}$$",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,58015f9203a84d53bcb442a41897ff16,single_selection,$$\frac{2}{5}$$  of a class’ timetable is given to mathematics and  $$\frac{3}{10}$$  to English. What fraction is left for the other subjects?, $$\frac{3}{5}$$, $$\frac{7}{10}$$, $$\frac{2}{5}$$, $$\frac{3}{10}$$,,, $$\frac{3}{10}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,579f8546136d4146a603889ee83ac8cb,single_selection,$$\frac{5}{6}$$ ……………….. $$\frac{7}{10}$$,<,>,#ERROR!,,,,>,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,49a7e9d9e99d4221b32d444952b9164c,single_selection,$$\frac{6}{7}=\frac{48}{55}$$,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,8138893bd15a4092b54517442d4d5339,single_selection,![](exerciseimages/3e0c7cc427319ec5ecb0885a9788d5ab.png),TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,2844259a803d43a8916aa5ef9ee4a3d0,single_selection,$$\frac{5}{8}<\frac{9}{10}$$,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,77fc285aeb1a4d42b0bcc9a8492f881c,single_selection,What is the difference between $$1\frac{3}{4}and\frac{1}{2}$$ ?,$$1\frac{1}{2}$$,$$1\frac{1}{4}$$,$$1\frac{3}{4}$$,$$1\frac{2}{4}$$,,,$$1\frac{2}{4}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,aee6f6c540d1487d831bcba7e5924d6c,single_selection,$$\frac{1}{4}>\frac{2}{3}$$,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,84d7f4643e914a5cb1fa8c21137a5a39,single_selection,What is the sum $$2\frac{7}{12}$$ and $$3\frac{5}{8}$$ ?,$$1\frac{5}{24}$$,$$5\frac{5}{24}$$,$$6\frac{5}{24}$$,$$7\frac{5}{24}$$,,,$$6\frac{5}{24}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,428bae1348aa447896abc3d0e6cac6ca,single_selection,What is the sum $$2\frac{7}{12}$$ and $$3\frac{5}{8}$$ ?,$$1\frac{5}{24}$$,$$5\frac{5}{24}$$,$$6\frac{5}{24}$$,$$7\frac{5}{24}$$,,,$$6\frac{5}{24}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,0267845de26e4c2693a37c3267df5d3f,single_selection,"$$\frac{1}{4}$$ is the least among the fractions $$\frac{1}{4},\frac{1}{3},\frac{2}{5},\frac{1}{2}$$",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,6b7cf62b91b04f0c907c3d6cbd86db3d,single_selection,"$$\frac{1}{4}$$ is the least among the fractions $$\frac{1}{4},\frac{1}{3},\frac{2}{5},\frac{1}{2}$$",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,58015f9203a84d53bcb442a41897ff16,single_selection,$$\frac{2}{5}$$ of a class’ timetable is given to mathematics and $$\frac{3}{10}$$ to English. What fraction is left for the other subjects?,$$\frac{3}{5}$$,$$\frac{7}{10}$$,$$\frac{2}{5}$$,$$\frac{3}{10}$$,,,$$\frac{3}{10}$$,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,8ddf5e32d0f24d9999a9348348027fed,single_selection,![](exerciseimages/4783a132eb5c18aea6cc13874cc2f923.png),A,B,C,D,,,A,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,1264206ceae74a5d82e32a20fcd54345,single_selection,![](exerciseimages/4783a132eb5c18aea6cc13874cc2f923.png),A,B,C,D,,,A,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,4ea1363a164740b98240761910b1084d,single_selection,$$1\frac{1}{2}+\frac{1}{4}$$, $$\frac{3}{4}$$, $$\frac{1}{4}$$, $$1\frac{3}{4}$$, $$1\frac{1}{4}$$,,, $$1\frac{3}{4}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,4ea1363a164740b98240761910b1084d,single_selection,$$1\frac{1}{2}+\frac{1}{4}$$,$$\frac{3}{4}$$,$$\frac{1}{4}$$,$$1\frac{3}{4}$$,$$1\frac{1}{4}$$,,,$$1\frac{3}{4}$$,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,b6e38123c2fc43b9b770f628372ae021,single_selection,![](exerciseimages/8291b7b35399902c22e193727ec2f43b.png),A,B,C,D,,,B,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,96188030c46646a08baaa1faf63c3b0d,single_selection,![](exerciseimages/8291b7b35399902c22e193727ec2f43b.png),A,B,C,D,,,B,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,0e8cb294ef65483c9bd4c30f1cb613eb,single_selection,$$4\frac{1}{6}-3\frac{3}{8}=$$, $$3\frac{8}{24}$$, $$3\frac{3}{8}$$, $$\frac{18}{24}$$, $$\frac{19}{24}$$,,, $$\frac{19}{24}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,909b03ad62004269b92a84ae7d01e1f8,single_selection,$$4\frac{1}{6}-3\frac{3}{8}=$$, $$3\frac{8}{24}$$, $$3\frac{3}{8}$$, $$\frac{18}{24}$$, $$\frac{19}{24}$$,,, $$\frac{19}{24}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,0e8cb294ef65483c9bd4c30f1cb613eb,single_selection,$$4\frac{1}{6}-3\frac{3}{8}=$$,$$3\frac{8}{24}$$,$$3\frac{3}{8}$$,$$\frac{18}{24}$$,$$\frac{19}{24}$$,,,$$\frac{19}{24}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,909b03ad62004269b92a84ae7d01e1f8,single_selection,$$4\frac{1}{6}-3\frac{3}{8}=$$,$$3\frac{8}{24}$$,$$3\frac{3}{8}$$,$$\frac{18}{24}$$,$$\frac{19}{24}$$,,,$$\frac{19}{24}$$,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,7d1d908d48a5408190e53a1cd94266e2,single_selection,![](exerciseimages/1275df9080ea4464c2694bf0d62baa97.png),A,B,C,D,,,C,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,903e8789e28845119f05da3d46461d0a,single_selection,![](exerciseimages/1275df9080ea4464c2694bf0d62baa97.png),A,B,C,D,,,C,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,70898bec63314b1c9ec78436058b3d9e,single_selection,$$\frac{9}{10}-\frac{1}{4}$$ =, $$\frac{18}{20}$$, $$\frac{8}{4}$$, $$\frac{8}{12}$$, $$\frac{13}{20}$$,,, $$\frac{13}{20}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,02aac32014974f3ab931bbff39ca250c,single_selection,$$\frac{9}{10}-\frac{1}{4}$$ =, $$\frac{18}{20}$$, $$\frac{8}{4}$$, $$\frac{8}{12}$$, $$\frac{13}{20}$$,,, $$\frac{13}{20}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,d5b3a2bfad5e4932b0e39bf6034d9911,single_selection,$$\frac{3}{4}+\frac{5}{8}=$$, $$\frac{6}{8}$$, $$\frac{11}{8}$$, $$\frac{1}{4}$$, $$\frac{8}{12}$$,,, $$\frac{11}{8}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,026f74d07c384a5593db9f9ac5edbdf4,single_selection,$$\frac{3}{4}+\frac{5}{8}=$$, $$\frac{6}{8}$$, $$\frac{11}{8}$$, $$\frac{1}{4}$$, $$\frac{8}{12}$$,,, $$\frac{11}{8}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,70898bec63314b1c9ec78436058b3d9e,single_selection,$$\frac{9}{10}-\frac{1}{4}$$ =,$$\frac{18}{20}$$,$$\frac{8}{4}$$,$$\frac{8}{12}$$,$$\frac{13}{20}$$,,,$$\frac{13}{20}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,02aac32014974f3ab931bbff39ca250c,single_selection,$$\frac{9}{10}-\frac{1}{4}$$ =,$$\frac{18}{20}$$,$$\frac{8}{4}$$,$$\frac{8}{12}$$,$$\frac{13}{20}$$,,,$$\frac{13}{20}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,d5b3a2bfad5e4932b0e39bf6034d9911,single_selection,$$\frac{3}{4}+\frac{5}{8}=$$,$$\frac{6}{8}$$,$$\frac{11}{8}$$,$$\frac{1}{4}$$,$$\frac{8}{12}$$,,,$$\frac{11}{8}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,026f74d07c384a5593db9f9ac5edbdf4,single_selection,$$\frac{3}{4}+\frac{5}{8}=$$,$$\frac{6}{8}$$,$$\frac{11}{8}$$,$$\frac{1}{4}$$,$$\frac{8}{12}$$,,,$$\frac{11}{8}$$,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,dd81151df941496eb8d0629d88ef7d2c,single_selection,"Arrange these fractions 3/4 , 2/3, 4/5 in ascending order of magnitude.","3/4, 2/3, 4/5","4/5, 2/3, 3/4","4/5, 3/4, 2/3","2/3, 3/4, 4/5",,,"2/3, 3/4, 4/5",,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,fd7f6b7601934bbc9179afd6c6148475,single_selection,"Arrange these fractions 3/4 , 2/3, 4/5 in ascending order of magnitude.","3/4, 2/3, 4/5","4/5, 2/3, 3/4","4/5, 3/4, 2/3","2/3, 3/4, 4/5",,,"2/3, 3/4, 4/5",,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,61ad4dbc982a4636bb5b2efc9473abd3,single_selection,"Arrange these fractions 3/4 , 2/3, 4/5 in ascending order of magnitude.","3/4, 2/3, 4/5","4/5, 2/3, 3/4","4/5, 3/4, 2/3","2/3, 3/4, 4/5",,,"2/3, 3/4, 4/5",,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,4c5d7389910b43699189f52a47190e3b,single_selection,$$\frac{8}{12}-\frac{3}{12}$$ =, $$\frac{5}{12}$$, $$\frac{1}{2}$$,1, $$\frac{7}{12}$$,,, $$\frac{5}{12}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,338c584fb39749c6b65e503e2ba825bd,single_selection,$$\frac{8}{12}-\frac{3}{12}$$ =, $$\frac{5}{12}$$, $$\frac{1}{2}$$,1, $$\frac{7}{12}$$,,, $$\frac{5}{12}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,fce074f91f874d0ab2d00dea024697cc,single_selection,"Select the right options.  
+Exercise_5_-_Addition_and_subtraction_of_fractions,4c5d7389910b43699189f52a47190e3b,single_selection,$$\frac{8}{12}-\frac{3}{12}$$ =,$$\frac{5}{12}$$,$$\frac{1}{2}$$,1,$$\frac{7}{12}$$,,,$$\frac{5}{12}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,338c584fb39749c6b65e503e2ba825bd,single_selection,$$\frac{8}{12}-\frac{3}{12}$$ =,$$\frac{5}{12}$$,$$\frac{1}{2}$$,1,$$\frac{7}{12}$$,,,$$\frac{5}{12}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,fce074f91f874d0ab2d00dea024697cc,single_selection,"Select the right options. 
 
- $$\frac{5}{10}$$  +  $$\frac{4}{10}$$  =", $$\frac{1}{10}$$, $$\frac{9}{10}$$, $$\frac{1}{5}$$, $$\frac{1}{4}$$,,, $$\frac{9}{10}$$,,,,,,,,
+ $$\frac{5}{10}$$ + $$\frac{4}{10}$$ =",$$\frac{1}{10}$$,$$\frac{9}{10}$$,$$\frac{1}{5}$$,$$\frac{1}{4}$$,,,$$\frac{9}{10}$$,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,b6b20174d4244298bca9bb131a63643b,single_selection,"Select the right options.
 
- $$\frac{5}{10}$$  + $$\frac{4}{10}$$ =", $$\frac{1}{10}$$, $$\frac{9}{10}$$, $$\frac{1}{5}$$, $$\frac{1}{4}$$,,, $$\frac{9}{10}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,327b70bb038f46e8ab0ce2a72038c06c,single_selection,D∩C = C∩E,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,2ebf22e15be34f07a2ab456e760c268d,single_selection,B∪C = A,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,5be426dc902c4c0785fb43df348fecdf,single_selection,A∩B = B,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,0002652d2e7c4f538a9202cd72feb274,single_selection,D∪E = C,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,2ee0899991e24f8f902661da85f9f80e,single_selection,"For questions 16 to 20, State whether or not the statement is true or false given that  
+ $$\frac{5}{10}$$ + $$\frac{4}{10}$$ =",$$\frac{1}{10}$$,$$\frac{9}{10}$$,$$\frac{1}{5}$$,$$\frac{1}{4}$$,,,$$\frac{9}{10}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,327b70bb038f46e8ab0ce2a72038c06c,single_selection,D∩C = C∩E,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,2ebf22e15be34f07a2ab456e760c268d,single_selection,B∪C = A,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,5be426dc902c4c0785fb43df348fecdf,single_selection,A∩B = B,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,0002652d2e7c4f538a9202cd72feb274,single_selection,D∪E = C,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,2ee0899991e24f8f902661da85f9f80e,single_selection,"For questions 16 to 20, State whether or not the statement is true or false given that 
 
-A = {1,2,3,.......... 10}  
+A = {1,2,3,.......... 10} 
 
-B = {2,4,5,6,7}  
+B = {2,4,5,6,7} 
 
-C= {1,3,5,7,9}  
+C= {1,3,5,7,9} 
 
-D = {1,3,5,7}  
+D = {1,3,5,7} 
 
-E = {3,5,7,9}  
+E = {3,5,7,9} 
 
-D∩C = C",True,False,,,,,False,,,,,,,,
+D∩C = C",TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,54330f011c1b4c00a79d61c67fceaf6a,single_selection,2…………………………{Prime Factor of 12},∈,∉,,,,,∈,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,be13eb7e7fe446228916b01b844a32a9,single_selection,L…………………………..L,⊂,⊄,,,,,⊂,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,485da9d9cd8444298d43dc63d1d3a7fd,single_selection,1\. Accra…………………..{Countries in Africa},∈,∉,,,,,∉,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,672ff2aaa62c4fd4b0a6d7afb0ba8003,single_selection,$$\frac{42}{56}$$  ……………….. $$\frac{6}{8}$$,<,>,=,,,,=,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,672ff2aaa62c4fd4b0a6d7afb0ba8003,single_selection,$$\frac{42}{56}$$ ……………….. $$\frac{6}{8}$$,<,>,#ERROR!,,,,#ERROR!,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,c9e5b388174848cfb08a7a0833a0dbe6,single_selection,{}………………………….K,⊂,⊄,,,,,⊂,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,1604ed0ee0b34708bfdba9392e2ff8f9,single_selection,16\. _________,Infinite Set,Unit Set,Empty Set,Finite Set,,,Infinite Set,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,048174f734614e0d9515d79d1fafa7d1,single_selection,1\. June……………………{months with 31 day},∈,∉,,,,,∉,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,4d8db3798f2347efae253af128e2a892,single_selection,$$\frac{2}{7}$$  ……………….. $$\frac{16}{56}$$,<,>,=,,,,=,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,4d8db3798f2347efae253af128e2a892,single_selection,$$\frac{2}{7}$$ ……………….. $$\frac{16}{56}$$,<,>,#ERROR!,,,,#ERROR!,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,9213abce338546fcb9b73e57dd981314,single_selection,K…………………………..L,⊂,⊄,,,,,⊄,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,2cc65a1c413348229c5a697228849a74,single_selection,14\. _________,Infinite Set,Unit Set,Empty Set,Finite Set,,,Finite Set,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,cac83785be944b7496e52e1db4ad5b42,single_selection,6……………………….{Factors of 10},∈,∉,,,,,∉,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,1045e924e8514c688bd85ae9ee666d69,single_selection,$$\frac{12}{15}$$  ………………..$$\frac{3}{5}$$,<,>,=,,,,>,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,1045e924e8514c688bd85ae9ee666d69,single_selection,$$\frac{12}{15}$$ ………………..$$\frac{3}{5}$$,<,>,#ERROR!,,,,>,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,b28f71005ad64691a41d30ec0e0d3c9c,single_selection,L…………………………..J,⊂,⊄,,,,,⊂,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,d7a7374adaac4a53beafe0af3ace62f9,single_selection,13\. _________,Infinite Set,Unit Set,Empty Set,Finite Set,,,Infinite Set,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,5fc77a9c4d274963b0de8518b0df5338,single_selection,1\. 48…………………………..{multiples of 4},∈,∉,,,,,∈,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,b6b145c256314ce0b6186b256330b2bf,single_selection,"For question 11 to 15, fill in the space with the symbol <,> or =  
+Exercise_5_-_Addition_and_subtraction_of_fractions,b6b145c256314ce0b6186b256330b2bf,single_selection,"For question 11 to 15, fill in the space with the symbol <,> or = 
 
- $$\frac{3}{8}$$  ……………….. $$\frac{1}{3}$$",<,>,=,,,,>,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,2add317507de4b60ac18551a26dac339,single_selection,"For question 11 to 15, fill in the space with the symbol ⊂ or ⊄, given that.  
+ $$\frac{3}{8}$$ ……………….. $$\frac{1}{3}$$",<,>,#ERROR!,,,,>,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,2add317507de4b60ac18551a26dac339,single_selection,"For question 11 to 15, fill in the space with the symbol ⊂ or ⊄, given that. 
 
-J= {2,3,4,5,6,7}, K = {2,4,7,8} and L= {2,4}  
+J= {2,3,4,5,6,7}, K = {2,4,7,8} and L= {2,4} 
 
 K…………………………..J",⊂,⊄,,,,,⊄,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,93518df5c0b243c8b928e0f353762de1,single_selection,12  _________,Infinite Set,Unit Set,Empty Set,Finite Set,,,Empty Set,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,93518df5c0b243c8b928e0f353762de1,single_selection,12 _________,Infinite Set,Unit Set,Empty Set,Finite Set,,,Empty Set,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,5d3fcec03fff4408a9ce90d28d2dca6e,single_selection,orange …………………..{Fruits},∈,∉,,,,,∈,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,53c4d9fa94be437aaf7b28b445135456,single_selection,"![](exerciseimages/76479858d9974d81cfd7bdc2ddb04c59.png)
 
-11.  _________",Infinite Set,Unit Set,Empty Set,Finite Set,,,Unit Set,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,9414a0f222734cc48499c954a6354af5,single_selection,"n(R) =7,R={whole numbers less than 7}",True,False,,,,,False,,,,,,,,
+11. _________",Infinite Set,Unit Set,Empty Set,Finite Set,,,Unit Set,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,9414a0f222734cc48499c954a6354af5,single_selection,"n(R) =7,R={whole numbers less than 7}",TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,f3f1e72f584a41a385d6671edd392821,single_selection,"Given set P = Q, then",P is a union of Q,P is a member of Q,P belongs to Q,P is a subset of Q,,,P is a subset of Q,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,c4bdb95886374883adce931f3eb214a3,single_selection,Q and S are equivalent sets.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,ca65371e493a48909dd01e2e4007859b,single_selection,"Given that p={a,b,c,d} then a ∉ p",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,0fe9d63330f44ab981822a33dd0aa9ac,single_selection,Which of the sets is a subset of every set,{},{∅},{0}, {1},,,{},,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,dc7b008c3a72449792115cf0abeac5da,single_selection,S is an empty set,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,a95526a4d96e4f5c94b2b0a5d60d918e,single_selection,"When listing the members of a set ,comas are used to separate the members of the set.",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,6c3822ab23fd4d7eb4a1660963c5f70a,single_selection,$$\frac{2}{5}$$  of a class’ timetable is given to mathematics and  $$\frac{3}{10}$$  to English. What fraction is left for the other subjects?, $$\frac{3}{5}$$, $$\frac{7}{10}$$, $$\frac{2}{5}$$, $$\frac{3}{10}$$,,, $$\frac{3}{10}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,c4bdb95886374883adce931f3eb214a3,single_selection,Q and S are equivalent sets.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,ca65371e493a48909dd01e2e4007859b,single_selection,"Given that p={a,b,c,d} then a ∉ p",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,0fe9d63330f44ab981822a33dd0aa9ac,single_selection,Which of the sets is a subset of every set,{},{∅},{0},{1},,,{},,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,dc7b008c3a72449792115cf0abeac5da,single_selection,S is an empty set,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,a95526a4d96e4f5c94b2b0a5d60d918e,single_selection,"When listing the members of a set ,comas are used to separate the members of the set.",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,6c3822ab23fd4d7eb4a1660963c5f70a,single_selection,$$\frac{2}{5}$$ of a class’ timetable is given to mathematics and $$\frac{3}{10}$$ to English. What fraction is left for the other subjects?,$$\frac{3}{5}$$,$$\frac{7}{10}$$,$$\frac{2}{5}$$,$$\frac{3}{10}$$,,,$$\frac{3}{10}$$,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,02f6265e87484ef2bf9eb630add42c51,single_selection,"If X⊂Y, it means",X is contained in Y,X is not contained in y,Y is contained in X,Y is not contained in X,,,X is contained in Y,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,01186bd642e54ef4980ec4f92ae5abb5,single_selection,R is infinite set,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,06ec586b176643f3957f9c6692c230d5,single_selection,Set are denoted by lower case letters,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,3b2a59e8e29648f591017c2cfe68bb1a,single_selection,$$\frac{1}{3}-\frac{1}{2}+\frac{2}{5}$$, $$\frac{17}{30}$$, $$\frac{13}{30}$$, $$\frac{7}{30}$$, $$\frac{14}{30}$$,,, $$\frac{7}{30}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,49dd1311cc91427aa04b5c10f99b2f8c,single_selection,"$$\frac{2}{5},\frac{3}{5},\frac{4}{5}$$  and  $$\frac{1}{3},\frac{3}{8},\frac{6}{12}$$  are both in ascending order of magnitude.",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,f37766d038ff4fd0949c99427a98670e,single_selection,"$$\frac{2}{5},\frac{3}{5},\frac{4}{5}$$  and  $$\frac{1}{3},\frac{3}{8},\frac{6}{12}$$  are both in ascending order of magnitude.",True,False,,,,,True,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,01186bd642e54ef4980ec4f92ae5abb5,single_selection,R is infinite set,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,06ec586b176643f3957f9c6692c230d5,single_selection,Set are denoted by lower case letters,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,3b2a59e8e29648f591017c2cfe68bb1a,single_selection,$$\frac{1}{3}-\frac{1}{2}+\frac{2}{5}$$,$$\frac{17}{30}$$,$$\frac{13}{30}$$,$$\frac{7}{30}$$,$$\frac{14}{30}$$,,,$$\frac{7}{30}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,49dd1311cc91427aa04b5c10f99b2f8c,single_selection,"$$\frac{2}{5},\frac{3}{5},\frac{4}{5}$$ and $$\frac{1}{3},\frac{3}{8},\frac{6}{12}$$ are both in ascending order of magnitude.",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,f37766d038ff4fd0949c99427a98670e,single_selection,"$$\frac{2}{5},\frac{3}{5},\frac{4}{5}$$ and $$\frac{1}{3},\frac{3}{8},\frac{6}{12}$$ are both in ascending order of magnitude.",TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,015a15a6787a4e11a8d2bedaafecc9b4,single_selection,"Find the union of S and T if S = {whole numbers}, T = {natural numbers}",{Natural numbers},{whole numbers},{whole/natural numbers},{},,,{whole numbers},,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,b2cc69a7222f4cbaa9cac20c0950055c,single_selection,Q is a unit set,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,69d6643236ec491c9df965ccbcbbaf36,single_selection,"The symbol mean ""is not a member of""",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,f0e6d1a6b71c465b87c1378730acea7a,single_selection,$$1\frac{1}{2}+\frac{1}{4}$$, $$\frac{3}{4}$$, $$\frac{1}{4}$$, $$1\frac{3}{4}$$, $$1\frac{1}{4}$$,,, $$1\frac{3}{4}$$,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,bd11362fd16b4542910a91190cd577f0,single_selection,"Given that H = {Prime factors of 15}  
+Exercise_5_-_Addition_and_subtraction_of_fractions,b2cc69a7222f4cbaa9cac20c0950055c,single_selection,Q is a unit set,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,69d6643236ec491c9df965ccbcbbaf36,single_selection,"The symbol mean ""is not a member of""",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,f0e6d1a6b71c465b87c1378730acea7a,single_selection,$$1\frac{1}{2}+\frac{1}{4}$$,$$\frac{3}{4}$$,$$\frac{1}{4}$$,$$1\frac{3}{4}$$,$$1\frac{1}{4}$$,,,$$1\frac{3}{4}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,bd11362fd16b4542910a91190cd577f0,single_selection,"Given that H = {Prime factors of 15} 
 
-I = {Prime factors of 14}  
+I = {Prime factors of 14} 
 
 Find HUI?","{1,2,3,5}","{2,7,14,15}","{2,3,14,15}","{2,3,5,7}",,,"{2,3,5,7}",,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,445656a0d23148b48191fd9d2b132033,single_selection,"For question 6 to 10, state whether or not the statement is true or false, given that  
+Exercise_5_-_Addition_and_subtraction_of_fractions,445656a0d23148b48191fd9d2b132033,single_selection,"For question 6 to 10, state whether or not the statement is true or false, given that 
 
-P= {odd numbers greater than 5}  
+P= {odd numbers greater than 5} 
 
-Q={Odd numbers between 1 and 4}  
+Q={Odd numbers between 1 and 4} 
 
-R={Odd numbers from 3 to 9}  
+R={Odd numbers from 3 to 9} 
 
-S={odd numbers greater than 8 but less than 9}  
+S={odd numbers greater than 8 but less than 9} 
 
-P is an infinite set",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,fa4ba55426e64b8eb7f6737fc63f5124,single_selection,The elements of a set is the same as its member,True,False,,,,,True,,,,,,,,
+P is an infinite set",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,fa4ba55426e64b8eb7f6737fc63f5124,single_selection,The elements of a set is the same as its member,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,eb68e6df00824ff988d3a8970fe28b99,single_selection,If P = {students in a school} and Q = {boys in the school} find P∩Q?,{boys in the school},{girls in the school},{student in the school},{boys and girls in the school},,,{boys in the school},,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,4bf7edf7a2804188964ed0e43e13f7ef,single_selection,"1\. P={Prime numbers between 2 and 3}  
+Exercise_5_-_Addition_and_subtraction_of_fractions,4bf7edf7a2804188964ed0e43e13f7ef,single_selection,"1\. P={Prime numbers between 2 and 3} 
 
 Which type of set is P?",Empty,Unit,Finite,Infinite,,,Empty,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,2512b95c418c4eb881b35e7a8d47fb69,single_selection,Find the set of prime factors of 12.,{3},"{2,7}","{4,11}"," {2,3}",,," {2,3}",,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,2512b95c418c4eb881b35e7a8d47fb69,single_selection,Find the set of prime factors of 12.,{3},"{2,7}","{4,11}","{2,3}",,,"{2,3}",,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,e513b9074c2f42a3860d7341b4e683c0,single_selection,"Find A B, if A = {multiples of 5 less than 20} and B = {multiples of 4 less than 20}",{},{4},{5},{20},,,{},,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,24c1a2fad56e402aa16d1f6ba5903b22,single_selection,Which one of the following is a finite set?,{Integers less than 3},{Integers greater than 3},{Natural numbers less than 3},{ Natural numbers greater than 3},,,{Natural numbers less than 3},,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,ac59306e79a24a29bb72c9ca130b12f5,single_selection,"If the set of Q={0,1,2,3,4,},which of the following statements best describes Q?",set of whole numbers less than 5,set of counting numbers less than 5,set of integers less than 5,set of prime numbers less than 5,,,set of whole numbers less than 5,,,,,,,,
@@ -330,28 +330,28 @@ Exercise_5_-_Addition_and_subtraction_of_fractions,994883c8628940a5b3a1728303c14
 Exercise_5_-_Addition_and_subtraction_of_fractions,dcadb0e79bc44c9d9c1adddff64001ac,single_selection,"If U={ 1,3,5,7,9,11,13} and V= {1,7,13}, then",V⊂U,V⊃U,V⊄U,V⊅U,,,V⊂U,,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,700efd8463214f2cbc84dd07f062ad84,single_selection,Which of the following is finite set?,"{2,4,6,8….}","{1,2,3,4…..}","{……2,3,5,7}","{3,6,9,12}",,,"{3,6,9,12}",,,,,,,,
 Exercise_5_-_Addition_and_subtraction_of_fractions,ad88a1419f4547ee9f34d053439b8435,single_selection,What is the meaning of the symbol ∈,a member,an element,"""is a set""","""is a member of""",,,"""is a member of""",,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,e742b2c3e0f24ab7b38de1ace65b6132,single_selection,"Select the right options.  
+Exercise_5_-_Addition_and_subtraction_of_fractions,e742b2c3e0f24ab7b38de1ace65b6132,single_selection,"Select the right options. 
 
 Which is greater 3/18, 2/18, or 3/6?",3/18,2/18,3/6,2/6,,,3/6,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,3148d275dfb84a6ca0ad8c8b753e54df,single_selection,"Select the right options.  
+Exercise_5_-_Addition_and_subtraction_of_fractions,3148d275dfb84a6ca0ad8c8b753e54df,single_selection,"Select the right options. 
 
 Which is greater 3/18, 2/18, or 3/6?",3/18,2/18,3/6,2/6,,,3/6,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,aa373487907b41dba6aceb304b1d1b45,single_selection,"Select the right options.  
+Exercise_5_-_Addition_and_subtraction_of_fractions,aa373487907b41dba6aceb304b1d1b45,single_selection,"Select the right options. 
 
 Which is greater 3/18, 2/18, or 3/6?",3/18,2/18,3/6,2/6,,,3/6,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,dbf256e24678406386e88522f5263096,single_selection,"Select the right option.  
+Exercise_5_-_Addition_and_subtraction_of_fractions,dbf256e24678406386e88522f5263096,single_selection,"Select the right option. 
 
 If P = {a,b,c,d,e} and A = {a,b,c} then A is",Universal set of P,Subset of P,Superset of P,Null set of P,,,Subset of P,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,80e3dfb25ffa4667b117e7aa27771a31,single_selection,"1\. M={1,2,3,8,10} and N={8,1, x,3,2}.  
+Exercise_5_-_Addition_and_subtraction_of_fractions,80e3dfb25ffa4667b117e7aa27771a31,single_selection,"1\. M={1,2,3,8,10} and N={8,1, x,3,2}. 
 
 If M=N, what is the value of x",2,3,8,10,,,10,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,9d94c52ec9c94b1bbe500817579eadd1,single_selection,"Select the correct options  
+Exercise_5_-_Addition_and_subtraction_of_fractions,9d94c52ec9c94b1bbe500817579eadd1,single_selection,"Select the correct options 
 
 Identify the odd element in the Set p= {January, February, June, July}",January,February,June,June,,,February,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,8bc106f4821145e0943e7704a4621bf5,single_selection,"To subtract fractions with different denominators, change to equivalent fractions and then subtract the numerators keeping the denominators the same.",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,b2c0724a55ab479589a418cb2f82d5fc,single_selection,"To add fractions with different denominators, add the numerators and then the denominators.",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,9f3fe6f3b0aa4512981c5a2df916adb9,single_selection,$$\frac{2}{10}+\frac{8}{10}=1$$,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Addition_and_subtraction_of_fractions,0199cdc977d8404a91abecda1b0ab3d3,single_selection,$$\frac{1}{3}-\frac{1}{2}+\frac{2}{5}$$, $$\frac{17}{30}$$, $$\frac{13}{30}$$, $$\frac{7}{30}$$, $$\frac{14}{30}$$,,, $$\frac{7}{30}$$,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,8bc106f4821145e0943e7704a4621bf5,single_selection,"To subtract fractions with different denominators, change to equivalent fractions and then subtract the numerators keeping the denominators the same.",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,b2c0724a55ab479589a418cb2f82d5fc,single_selection,"To add fractions with different denominators, add the numerators and then the denominators.",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,9f3fe6f3b0aa4512981c5a2df916adb9,single_selection,$$\frac{2}{10}+\frac{8}{10}=1$$,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Addition_and_subtraction_of_fractions,0199cdc977d8404a91abecda1b0ab3d3,single_selection,$$\frac{1}{3}-\frac{1}{2}+\frac{2}{5}$$,$$\frac{17}{30}$$,$$\frac{13}{30}$$,$$\frac{7}{30}$$,$$\frac{14}{30}$$,,,$$\frac{7}{30}$$,,,,,,,,
 Exercise_5_-_Sources_of_energy,8209ca9407c64ff0ba3d7c5a08c2fea9,single_selection,Gaseous exchange between air and blood in the lungs takes place in the,Alveoli,Bronchi,Bronchioles,Larynx,,,Alveoli,,,,,,,,
 Exercise_5_-_Sources_of_energy,b8900a45a5a649c28f7df9f4fae75a6b,single_selection,The function of the lung is to,A. Maintain a constant amount of water in the body,Absorb oxygen from the blood,Absorb carbon dioxide from the blood,A. Maintain the temperature of the body constant,,,Absorb carbon dioxide from the blood,,,,,,,,
 Exercise_5_-_Sources_of_energy,496e0b60306242ea939ba48b35f1cd55,single_selection,The waste products of respiration are,Glucose and oxygen,Carbon dioxide and water,Carbon dioxide and heat,Oxygen and water,,,Carbon dioxide and water,,,,,,,,
@@ -362,7 +362,7 @@ Exercise_5_-_Sources_of_energy,be54cbe1317042179b6824fcf2854683,single_selection
 Exercise_5_-_Sources_of_energy,d7422360b76645b58e447552b7c438e8,single_selection,The gas produced when glucose is oxidized during internal respiration is,Carbon (II) Oxide,Carbon (IV) Oxide,Nitrogen,Hydrogen,,,Carbon (IV) Oxide,,,,,,,,
 Exercise_5_-_Sources_of_energy,d4353cbbff2642f58d4122b7701d0266,single_selection,The ability of a soil to draw up water from below is known as,Capillarity,Drainage,Porosity,Retention,,,Capillarity,,,,,,,,
 Exercise_5_-_Sources_of_energy,ebd221a9e2bf48d08d44071bddbe962d,single_selection,Chlorine gas is an example of ___________.,An atom,An element,A compound,A molecule,,,A molecule,,,,,,,,
-Exercise_5_-_Sources_of_energy,93ce521b13214b9d8a678483ae333065,single_selection,"Which of the following life processes is represented by the equation  
+Exercise_5_-_Sources_of_energy,93ce521b13214b9d8a678483ae333065,single_selection,"Which of the following life processes is represented by the equation 
 
 C6H12O6 + O2 6CO2 + 6H2O + Energy",Digestion,Excretion,Photosynthesis,Respiration,,,Respiration,,,,,,,,
 Exercise_5_-_Sources_of_energy,110dc62beb7b44acac57887cb596bec7,single_selection,Which of the following determines the capillarity of the soil?,Soil consistency,Soil texture,Soil profile,Soil structure,,,Soil structure,,,,,,,,
@@ -371,26 +371,26 @@ Exercise_5_-_Sources_of_energy,ad417d2b30fe4c299a8994225e8cb25b,single_selection
 Exercise_5_-_Sources_of_energy,0c4106c48df0413481969460cc7b1176,single_selection,Ionizing radiation can cause cancer. Uranium can produce ionizing radiation. What hazard is associated with it?,Corrosive,Radioactive,Oxidant,Flammable,,,Radioactive,,,,,,,,
 Exercise_5_-_Sources_of_energy,639337a73d3040cfb433d53b27a22ef2,single_selection,The shape and arrangement of particles within a soil determines its ___________,Coarseness,Texture,Structure,Profile,,,Structure,,,,,,,,
 Exercise_5_-_Sources_of_energy,74fab902b28341d5b98267be7a17c501,single_selection,The basic unit of matter is _________,Atom,Compound,Element,Ion,,,Atom,,,,,,,,
-Exercise_5_-_Sources_of_energy,bfb131f4872a42fabd2d3831de572f77,single_selection,"In exhalation, volume of thorax increases",True,False,,,,,False,,,,,,,,
+Exercise_5_-_Sources_of_energy,bfb131f4872a42fabd2d3831de572f77,single_selection,"In exhalation, volume of thorax increases",TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Sources_of_energy,e410643b979c4edd87944ddd387e5a3b,single_selection,Which of the following substances is hazardous?,**CO**,CO2,H2,a) H2O,,,**CO**,,,,,,,,
 Exercise_5_-_Sources_of_energy,3d87db9ebbed40999b618a6960411145,single_selection,What is/are the major difference between a clay soil and sandy soil?,Colour,Humus,Mineral content,Texture,,,Texture,,,,,,,,
-Exercise_5_-_Sources_of_energy,30c21e2f78734a4cad4048102a2f320f,single_selection,"When a substance changes state, the temperature remains constant, though heat is added",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Sources_of_energy,18d8b8e782664af2b3ba52c3fbda1c4f,single_selection,In inhalation air is drawn into the lungs,True,False,,,,,True,,,,,,,,
+Exercise_5_-_Sources_of_energy,30c21e2f78734a4cad4048102a2f320f,single_selection,"When a substance changes state, the temperature remains constant, though heat is added",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Sources_of_energy,18d8b8e782664af2b3ba52c3fbda1c4f,single_selection,In inhalation air is drawn into the lungs,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Sources_of_energy,f2d1133ee99b49848675bb23864284e4,single_selection,Concentrated sulphuric acid is used as a drying agent. What hazard is associated with it?,Corrosive,Flammable,Oxidant,Toxic,,,Corrosive,,,,,,,,
 Exercise_5_-_Sources_of_energy,75e104ea1783485dbaca1d0401f90b66,single_selection,Which of the following statements explain why sandy soil is poor for cultivation?,It has large particle size,It lacks nutrients,It has poor aeration,It has poor drainage,,,It lacks nutrients,,,,,,,,
-Exercise_5_-_Sources_of_energy,a600851369e74864a91ebb4e24886e49,single_selection,Iodine crystal can change state from solid directly to gas,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Sources_of_energy,6875aae135a947ef8512ba7204efcf6c,single_selection,"In exhalation, diaphragm contract and flattens",True,False,,,,,False,,,,,,,,
+Exercise_5_-_Sources_of_energy,a600851369e74864a91ebb4e24886e49,single_selection,Iodine crystal can change state from solid directly to gas,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Sources_of_energy,6875aae135a947ef8512ba7204efcf6c,single_selection,"In exhalation, diaphragm contract and flattens",TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Sources_of_energy,a2e85a9595df41b6a75dc4f292f42117,single_selection,Carbon monoxide combines with hemoglobin and prevents it from carrying oxygen to the cell. What hazard is associated with carbon monoxide?,Corrosive,Flammable,Oxidant,Toxic,,,Toxic,,,,,,,,
 Exercise_5_-_Sources_of_energy,49daca1454f04d3ebba7f02bb7b34a70,single_selection,1\. The particles size of soil determines many important properties. Which of the following defines the relative proportion of different sized particles of the soil?,Soil consistency,Soil profile,Soil structure,Soil texture,,,Soil texture,,,,,,,,
-Exercise_5_-_Sources_of_energy,f71800795b5442c680134c51405a5cac,single_selection,"When substance changes state from liquid to solid, energy is released",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Sources_of_energy,d8c83570816747f0b5230771c0456109,single_selection,"In inhalation, intercostal muscles",True,False,,,,,True,,,,,,,,
+Exercise_5_-_Sources_of_energy,f71800795b5442c680134c51405a5cac,single_selection,"When substance changes state from liquid to solid, energy is released",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Sources_of_energy,d8c83570816747f0b5230771c0456109,single_selection,"In inhalation, intercostal muscles",TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Sources_of_energy,4980c68249104f4b8c5605eec77975a9,single_selection,Which of the following description of a hazard symbol represents a corrosive substance?,Chemical pouring on a hand and a metal surface,Cross with an i by it,Fire on a zero,Skull on a crossed bones,,,Chemical pouring on a hand and a metal surface,,,,,,,,
 Exercise_5_-_Sources_of_energy,39252f5599574e1091598d6951339580,single_selection,Which of the following soil types is sticky when wet and very hard when dry?,Clay,Loamy,Sandy,Silt,,,Clay,,,,,,,,
-Exercise_5_-_Sources_of_energy,fbb4a5120c77470d9814f54ad5767576,single_selection,When a substance changes state from liquid to gas energy is given off,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Sources_of_energy,cc414cf92c304b79a4908318cd74477c,single_selection,Internal respiration requires oxygen to occur,True,False,,,,,True,,,,,,,,
+Exercise_5_-_Sources_of_energy,fbb4a5120c77470d9814f54ad5767576,single_selection,When a substance changes state from liquid to gas energy is given off,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Sources_of_energy,cc414cf92c304b79a4908318cd74477c,single_selection,Internal respiration requires oxygen to occur,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Sources_of_energy,dcd791fbb12b4a6dafa37383fa72eac7,single_selection,Which of the following description of a hazard symbol represent a toxic substance?,Chemical pouring on a hand and a metal surface,Cross with an i by it,Fire on a zero,Skull on crossed bones,,,Chemical pouring on a hand and a metal surface,,,,,,,,
 Exercise_5_-_Sources_of_energy,32f8df4b40e4454185591e10731cc9a2,single_selection,Which of the following soil types can easily be eroded?,Clay,loamy,Sandy,Silt,,,Sandy,,,,,,,,
-Exercise_5_-_Sources_of_energy,636df1bbab7946cbad0b8c2a43586aaa,single_selection,Condensation makes the particles of the substances smaller,True,False,,,,,False,,,,,,,,
+Exercise_5_-_Sources_of_energy,636df1bbab7946cbad0b8c2a43586aaa,single_selection,Condensation makes the particles of the substances smaller,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Sources_of_energy,0f64d5738e004c9083f13d6af6a8ace2,single_selection,Respiration converts organic food substance into ………………….substances.,Energy,Oxygen,Alveolus,Inorganic chemicals,,,Inorganic chemicals,,,,,,,,
 Exercise_5_-_Sources_of_energy,381013bd3f5e47bfafa70117f5349e28,single_selection,A ……………………………. material can cause visible destruction on contact with skin.,Oxygen,Toxic,Radioactive,Corrosive,,,Corrosive,,,,,,,,
 Exercise_5_-_Sources_of_energy,606a023bc2a543839ba188ac7edd4a93,single_selection,………………………… soil has the lowest mineral ions holding capacity.,Clay,Sandy,Texture,Weathering,,,Sandy,,,,,,,,
@@ -407,16 +407,16 @@ Exercise_5_-_Sources_of_energy,d922bb839c604483bc30bead69158819,multiple_selecti
 Exercise_5_-_Sources_of_energy,a86185751a9e4d379661bc05f0a94d99,single_selection,Oxidant give off …………………………….. to cause burning.,Toxic,Oxygen,Fire,Radioactive,,,Oxygen,,,,,,,,
 Exercise_5_-_Sources_of_energy,2377324731ca4d97a3b186a191160d6f,single_selection,Soil ………………………….. depends on the relative proportion of different particles of size in the soil.,Texture,Weathering,Sandy,Clay,,,Texture,,,,,,,,
 Exercise_5_-_Sources_of_energy,b7e713374db74015a893afb1c24293a2,multiple_selection,"The particles that make up matter can be …………………, …………………….. and …………….",Atom,Solid,Molecule,Ion,,,Atom,Molecule,Ion,,,,,,
-Exercise_5_-_Sources_of_energy,9f8bb68a1c7a4bee9a6191df31b3df4b,multiple_selection,"Select the right options  
+Exercise_5_-_Sources_of_energy,9f8bb68a1c7a4bee9a6191df31b3df4b,multiple_selection,"Select the right options 
 
 Respiration release …………….. from …………….. in living cells.",Blood capillaries,Glucose,Inhalation,Energy,,,Glucose,Energy,,,,,,,
 Exercise_5_-_Sources_of_energy,bbf6744b145d4ce9b3c818d40e4502cb,single_selection,"Select the right options.
 
 Flammable substance easily catch ……………………",Toxic,Oxygen,Fire,Radioactive,,,Fire,,,,,,,,
-Exercise_5_-_Sources_of_energy,938e35a45d6848bc82a3bf861ed98c8c,single_selection,"Fill in the blank spaces.  
+Exercise_5_-_Sources_of_energy,938e35a45d6848bc82a3bf861ed98c8c,single_selection,"Fill in the blank spaces. 
 
 Soil is formed from rocks through a process called …………………",**Texture**,**Weathering**,**Sandy**,**Clay**,,,**Weathering**,,,,,,,,
-Exercise_5_-_Sources_of_energy,d0638bc9b78b47ec99d0f8b03ed8940f,multiple_selection,"Select the right options  
+Exercise_5_-_Sources_of_energy,d0638bc9b78b47ec99d0f8b03ed8940f,multiple_selection,"Select the right options 
 
 Matter has …………………….. and ……………….",Mass,Cation,Compound,Volume,,,Mass,Volume,,,,,,,
 Exercise_5_-_Sources_of_energy,b828afae0719439bbce1a0aa24eac663,single_selection,The type of energy produced when the hands are vigorously rubbed against each other are,Chemical and electrical energy,Heat and sound energy,Heat and light energy,Electrical energy,,,Heat and sound energy,,,,,,,,
@@ -424,112 +424,112 @@ Exercise_5_-_Sources_of_energy,e528f3994b224922b9240cd0fb629de8,single_selection
 Exercise_5_-_Sources_of_energy,dd87c5311af240ef893c1782036d1878,single_selection,The type of energy obtained when electric bulb is connected to a battery is,Chemical energy,Electrical energy,Light energy,Magnetic energy,,,Chemical energy,,,,,,,,
 Exercise_5_-_Sources_of_energy,1e236b2c39844899badd1ae4e25a8149,single_selection,A solar cell produces energy from,Electromagnets,Heat,Light,Sound,,,Light,,,,,,,,
 Exercise_5_-_Sources_of_energy,a0beccaefe08491dab1ab453ea791373,single_selection,Which of the following examples is a sourced of energy?,Electricity,Heat,Light,Wood,,,Wood,,,,,,,,
-Exercise_5_-_Sources_of_energy,6c8895da4d3241ebaee142c97bf95216,single_selection,Heat energy and light energy are produced from the,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Sources_of_energy,049456b4f3f24d90a2df516038f55d9e,single_selection,Chemical energy is stored in food and fuels,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Sources_of_energy,b2401ad1ad1f4fb894352381aad07eac,single_selection,Energy is measured in joule.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Sources_of_energy,154ec599c6ee44aa85653d6bf88bc3c4,single_selection,Heat energy flows from a place of lower temperature to a place of higher temperature.,True,False,,,,,False,,,,,,,,
+Exercise_5_-_Sources_of_energy,6c8895da4d3241ebaee142c97bf95216,single_selection,Heat energy and light energy are produced from the,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Sources_of_energy,049456b4f3f24d90a2df516038f55d9e,single_selection,Chemical energy is stored in food and fuels,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Sources_of_energy,b2401ad1ad1f4fb894352381aad07eac,single_selection,Energy is measured in joule.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Sources_of_energy,154ec599c6ee44aa85653d6bf88bc3c4,single_selection,Heat energy flows from a place of lower temperature to a place of higher temperature.,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Sources_of_energy,cbe6d737a0f14e9b9055752212f16763,single_selection,"When the nucleus of a heavy atom is split, …………………. energy is released.",Nuclear,Low,Sound,Potential,,,Nuclear,,,,,,,,
 Exercise_5_-_Sources_of_energy,746f5dfd2e414b93ae30de5b50c5319f,single_selection,The energy possessed by a vibrating body is ……………….. energy.,High,Low,Sound,Nuclear,,,Sound,,,,,,,,
 Exercise_5_-_Sources_of_energy,ad485a34ee7a4d6097ad6cb6f51a8ff0,multiple_selection,A form of energy that flows from a body of ………….. temperature to a body of ………….. temperature is heat energy.,Sound,High,Low,Nuclear,,,High,Low,,,,,,,
 Exercise_5_-_Sources_of_energy,990eb8d7818d42fdbda19f47e92a3329,single_selection,Energy possessed by a body in motion is …………………… energy.,Kinetic,Sound,Potential,Nuclear,,,Kinetic,,,,,,,,
 Exercise_5_-_Sources_of_energy,e88b202149b24725bf4936c67c782ee0,single_selection,A body held at a position above the ground possessed ……………. energy.,Kinetic,Sound,Potential,Nuclear,,,Potential,,,,,,,,
-Exercise_5_-_Statistics,c52a62cd2b314add8d85fd78ec2af26a,single_selection,"If the area of the circle given the radius is a, then its area given the diameter is 2a",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,834a8282ccf24e23b9bb0141e43821c8,single_selection,All Cubes are Cuboid.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,0553cc639092487f8ffc3f0f837d6eb8,single_selection,"If the total Surface area of two Cuboids are the same, then their height are same.",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,95e74c1ab3ba41dbbdc321a6ea9c14dd,single_selection,Twice the radius equals to the diameter,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,8bd1b05824bd44b89dd2cfac86501354,single_selection,The volume of a cube of side P cm is  $$3pcm^3$$  .,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,fa6333fbb6ce47c4a9cc4fa7d19e5476,single_selection,"If the area of the flat circular face of a cylinder is  $$xm^2$$  and its curved Surface area is  $$ym^2$$  , then its total surface area when closed is  $$\left(2xy\right)m^2$$",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,7e6d0d7df0e0460f95240802cf70be65,single_selection,Twice the diameter equal to the radius,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,eff13b1159434c31b54bda7b9df9eec0,single_selection,"Given that the base radius of a cylinder is 7m and height 2m, then the Volume is  $$98\pi m^3$$  .",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,378764ce1a784cc596690a5b13303449,single_selection,"The total Surface area of a rectangular pipe of length 15cm, width 5cm and 10cm long is 275  $$cm^2.$$",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,3951c3d8efbe47b2974c5f438346b00c,single_selection,Half the radius equals to the diameter,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,a37cbbdb05604d1a8e18127bd5a304a2,single_selection,The formula for the Volume of a rectangular prism is “ V= lwh”.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,b5706901ff404b5da67aeacaf9e56b64,single_selection,"Given that the length of one of the edges of a cube is tm, then it total surface area  $$6\left(t^2\right)m^2$$  .",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,fc8adb38c79b4cdf86e7c93820526ebc,single_selection,Half the diameter equals to the radius,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,6e36906c26244d8dab4c7a5644fad257,single_selection,Square meter is a unit of volume.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,f4a84657593c47d392504ed0e1a3c0e0,single_selection,The total Surface area of a Cylinder opened at both sides is r (r+2h),True,False,,,,,False,,,,,,,,
+Exercise_5_-_Statistics,c52a62cd2b314add8d85fd78ec2af26a,single_selection,"If the area of the circle given the radius is a, then its area given the diameter is 2a",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,834a8282ccf24e23b9bb0141e43821c8,single_selection,All Cubes are Cuboid.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,0553cc639092487f8ffc3f0f837d6eb8,single_selection,"If the total Surface area of two Cuboids are the same, then their height are same.",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,95e74c1ab3ba41dbbdc321a6ea9c14dd,single_selection,Twice the radius equals to the diameter,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,8bd1b05824bd44b89dd2cfac86501354,single_selection,The volume of a cube of side P cm is $$3pcm^3$$ .,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,fa6333fbb6ce47c4a9cc4fa7d19e5476,single_selection,"If the area of the flat circular face of a cylinder is $$xm^2$$ and its curved Surface area is $$ym^2$$ , then its total surface area when closed is $$\left(2xy\right)m^2$$",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,7e6d0d7df0e0460f95240802cf70be65,single_selection,Twice the diameter equal to the radius,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,eff13b1159434c31b54bda7b9df9eec0,single_selection,"Given that the base radius of a cylinder is 7m and height 2m, then the Volume is $$98\pi m^3$$ .",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,378764ce1a784cc596690a5b13303449,single_selection,"The total Surface area of a rectangular pipe of length 15cm, width 5cm and 10cm long is 275 $$cm^2.$$",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,3951c3d8efbe47b2974c5f438346b00c,single_selection,Half the radius equals to the diameter,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,a37cbbdb05604d1a8e18127bd5a304a2,single_selection,The formula for the Volume of a rectangular prism is “ V= lwh”.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,b5706901ff404b5da67aeacaf9e56b64,single_selection,"Given that the length of one of the edges of a cube is tm, then it total surface area $$6\left(t^2\right)m^2$$ .",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,fc8adb38c79b4cdf86e7c93820526ebc,single_selection,Half the diameter equals to the radius,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,6e36906c26244d8dab4c7a5644fad257,single_selection,Square meter is a unit of volume.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,f4a84657593c47d392504ed0e1a3c0e0,single_selection,The total Surface area of a Cylinder opened at both sides is r (r+2h),TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Statistics,a0eb339b82c14d31a485063d7f3f1777,single_selection,"Find the area of the shape.
 
-  ![](exerciseimages/f6e76ab21cc3e0bc33299774d0c92c84.png)", $$\frac{198}{7}m^2$$, $$\frac{199}{7}m^2$$,132 $$m^2$$, $$198m^2$$,,, $$\frac{198}{7}m^2$$,,,,,,,,
-Exercise_5_-_Statistics,06ce21bc8be440a6b6a5771b2ec0fede,single_selection,"The cross-sectioned area of a prism is  $$12cm^2.$$  If the Volume of the prism is  $$72cm^3,$$  find it height.",5cm,6cm,7cm,8cm,,,6cm,,,,,,,,
-Exercise_5_-_Statistics,7d8441bc5a6549be9b9c087f79d2b542,single_selection,What is the total Surface area of a Square of side 3cm., $$18cm^2$$, $$54cm^2$$, $$108cm^2$$, $$154cm^2$$,,, $$54cm^2$$,,,,,,,,
-Exercise_5_-_Statistics,8544e1af3f4849c7a42ebea149909457,single_selection,"Given that the base and height of a triangle are Xm and Ym respectively, then its area is  $$\left(\frac{xy}{2}\right)m^2.$$",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,33ad8f395e3445089db2832baa97ae55,single_selection,The volume of water in a rectangular tank is  $$30cm^3$$  . The length of the tank is 5cm and its width is 2cm. Calculate the depth of water in the tank.,3cm,4cm,5cm,6cm,,,3cm,,,,,,,,
-Exercise_5_-_Statistics,6b31619830084d8e8d988cbb70165bad,single_selection,"A rectangular box has length 20cm, width 6cm and height 4cm. Find the total Surface area of the box.", $$30cm^2$$, $$44cm^2$$, $$224cm^2$$, $$480cm^2$$,,, $$224cm^2$$,,,,,,,,
-Exercise_5_-_Statistics,c2809bae09104635ae7162f2d57fc222,single_selection,Length and width are required when finding area of a rectangle just as base area and height are required when finding area of a triangle .,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,aa5c692e419c44f398a346fcd41d3689,single_selection,The area of a circle is  $$616m^2$$  . A line is drawn from the center to the circumference. What is the length of the line?,3.5m,7m,14m,21m,,,14m,,,,,,,,
-Exercise_5_-_Statistics,78d63475b088411492a2f7e2ea8c9fd2,single_selection,"The volume of a cube is  $$8cm^3$$  , find the length of one of its sides.",1cm,2cm,3cm,4cm,,,2cm,,,,,,,,
-Exercise_5_-_Statistics,0f371a7bd018482f974481fa5e7982e8,single_selection,The Curved Surface area of a cylindrical tin is 88m2\. Calculate the height when the radius is 7m. [π= $$\frac{22}{7}$$ ],2m,4m,6m,8m,,,2m,,,,,,,,
-Exercise_5_-_Statistics,37a52f5c7f44468cb7cd1ae09bbca20c,single_selection,The base and height of an isosceles right triangle are the same.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,ce891f3c11ac44db9d6e7dba719a7025,single_selection,Find the area of a circle whose diameter is 4cm. [π= $$\frac{22}{7}$$ ], $$12cm^2$$, $$12.57cm^2$$, $$50.29cm^2$$, $$50cm^2$$,,, $$12.57cm^2$$,,,,,,,,
-Exercise_5_-_Statistics,49649234f00c463c9a69f6484ee508f7,single_selection,A rectangular water tank of base 70cm by 50cm is filled with water to a depth of 15cm. Find the Volume of water in the tank., $$5250cm^3$$, $$5520cm^3$$, $$52500cm^3$$, $$55200cm^3$$,,, $$52500cm^3$$,,,,,,,,
-Exercise_5_-_Statistics,d1f668cd9260493cb0bcb9bd9cc23217,single_selection,"A Cylindrical Container closed at both ends has radius 7cm and height 5cm.  
-Find the total Surface area", $$36\pi cm^2$$, $$140\pi cm^2$$, $$168\pi cm^2$$, $$490\pi cm^2$$,,, $$168\pi cm^2$$,,,,,,,,
-Exercise_5_-_Statistics,c734f1e1ad364eed8def4fa6274aa46c,single_selection,The product of half the base of a triangle and its height is equals the area of the triangle.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Statistics,c470282464724d6ca5805afcee8bab98,single_selection,The area of a circle is  $$154cm^2$$  . Find its diameter,3.5m,7m,14m,21m,,,14m,,,,,,,,
-Exercise_5_-_Statistics,e7c16f4d21be48e99aa88f9ebcadbff1,single_selection,"Find the Volume of a cylinder, given that the cross-sectioned area is  $$20m^2$$  and height 4m.", $$24m^3$$,40 $$m^3$$, $$80m^3$$, $$240m^3$$,,, $$80m^3$$,,,,,,,,
+ ![](exerciseimages/f6e76ab21cc3e0bc33299774d0c92c84.png)",$$\frac{198}{7}m^2$$,$$\frac{199}{7}m^2$$,132 $$m^2$$,$$198m^2$$,,,$$\frac{198}{7}m^2$$,,,,,,,,
+Exercise_5_-_Statistics,06ce21bc8be440a6b6a5771b2ec0fede,single_selection,"The cross-sectioned area of a prism is $$12cm^2.$$ If the Volume of the prism is $$72cm^3,$$ find it height.",5cm,6cm,7cm,8cm,,,6cm,,,,,,,,
+Exercise_5_-_Statistics,7d8441bc5a6549be9b9c087f79d2b542,single_selection,What is the total Surface area of a Square of side 3cm.,$$18cm^2$$,$$54cm^2$$,$$108cm^2$$,$$154cm^2$$,,,$$54cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,8544e1af3f4849c7a42ebea149909457,single_selection,"Given that the base and height of a triangle are Xm and Ym respectively, then its area is $$\left(\frac{xy}{2}\right)m^2.$$",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,33ad8f395e3445089db2832baa97ae55,single_selection,The volume of water in a rectangular tank is $$30cm^3$$ . The length of the tank is 5cm and its width is 2cm. Calculate the depth of water in the tank.,3cm,4cm,5cm,6cm,,,3cm,,,,,,,,
+Exercise_5_-_Statistics,6b31619830084d8e8d988cbb70165bad,single_selection,"A rectangular box has length 20cm, width 6cm and height 4cm. Find the total Surface area of the box.",$$30cm^2$$,$$44cm^2$$,$$224cm^2$$,$$480cm^2$$,,,$$224cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,c2809bae09104635ae7162f2d57fc222,single_selection,Length and width are required when finding area of a rectangle just as base area and height are required when finding area of a triangle .,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,aa5c692e419c44f398a346fcd41d3689,single_selection,The area of a circle is $$616m^2$$ . A line is drawn from the center to the circumference. What is the length of the line?,3.5m,7m,14m,21m,,,14m,,,,,,,,
+Exercise_5_-_Statistics,78d63475b088411492a2f7e2ea8c9fd2,single_selection,"The volume of a cube is $$8cm^3$$ , find the length of one of its sides.",1cm,2cm,3cm,4cm,,,2cm,,,,,,,,
+Exercise_5_-_Statistics,0f371a7bd018482f974481fa5e7982e8,single_selection,The Curved Surface area of a cylindrical tin is 88m2\. Calculate the height when the radius is 7m. [π= $$\frac{22}{7}$$ ],2m,4m,6m,8m,,,2m,,,,,,,,
+Exercise_5_-_Statistics,37a52f5c7f44468cb7cd1ae09bbca20c,single_selection,The base and height of an isosceles right triangle are the same.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,ce891f3c11ac44db9d6e7dba719a7025,single_selection,Find the area of a circle whose diameter is 4cm. [π= $$\frac{22}{7}$$ ],$$12cm^2$$,$$12.57cm^2$$,$$50.29cm^2$$,$$50cm^2$$,,,$$12.57cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,49649234f00c463c9a69f6484ee508f7,single_selection,A rectangular water tank of base 70cm by 50cm is filled with water to a depth of 15cm. Find the Volume of water in the tank.,$$5250cm^3$$,$$5520cm^3$$,$$52500cm^3$$,$$55200cm^3$$,,,$$52500cm^3$$,,,,,,,,
+Exercise_5_-_Statistics,d1f668cd9260493cb0bcb9bd9cc23217,single_selection,"A Cylindrical Container closed at both ends has radius 7cm and height 5cm. 
+Find the total Surface area",$$36\pi cm^2$$,$$140\pi cm^2$$,$$168\pi cm^2$$,$$490\pi cm^2$$,,,$$168\pi cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,c734f1e1ad364eed8def4fa6274aa46c,single_selection,The product of half the base of a triangle and its height is equals the area of the triangle.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Statistics,c470282464724d6ca5805afcee8bab98,single_selection,The area of a circle is $$154cm^2$$ . Find its diameter,3.5m,7m,14m,21m,,,14m,,,,,,,,
+Exercise_5_-_Statistics,e7c16f4d21be48e99aa88f9ebcadbff1,single_selection,"Find the Volume of a cylinder, given that the cross-sectioned area is $$20m^2$$ and height 4m.",$$24m^3$$,40 $$m^3$$,$$80m^3$$,$$240m^3$$,,,$$80m^3$$,,,,,,,,
 Exercise_5_-_Statistics,250a5c7f3aa14109b543875d2a06ea5a,single_selection,Total Surface area of a Cuboid includes the areas of,3 faces,4 faces,5 faces,6 faces,,,5 faces,,,,,,,,
-Exercise_5_-_Statistics,82f5523d26ca4924ba3b9781b0c1409f,single_selection,The base of an equivalent triangle is the same as its height.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Statistics,b5e500ab6671462b912cda1e7d87db06,single_selection,"A circle has radius 7cm, find its area. [π= $$\frac{22}{7}$$ ]", $$12cm^2$$, $$22cm^2$$, $$145cm^2$$, $$154cm^2$$,,, $$154cm^2$$,,,,,,,,
-Exercise_5_-_Statistics,6a2767a0df27428b918f35d98759a40a,single_selection,Given that the base area of a prism is  $$13cm^2$$ and the height is 6cm. Find the volume of the prism., $$19cm^3$$, $$36cm^3$$, $$78cm^3$$, $$169cm^3$$,,, $$78cm^3$$,,,,,,,,
-Exercise_5_-_Statistics,81ce1ffc49294669a1d3af67b59b519e,single_selection,Surface area of a cube having side 5cm is, $$25cm^2$$, $$30cm^2$$, $$125cm^2$$, $$150cm^2$$,,, $$150cm^2$$,,,,,,,,
-Exercise_5_-_Statistics,369a0d034ef84cc2beec58fb15b5f0f0,single_selection,Find the area of the triangle below. ![](exerciseimages/76acb3287dc41565440c74160c476ef8.png), $$36cm^2$$, $$48cm^2$$, $$72cm^2$$, $$96cm^2$$,,, $$96cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,82f5523d26ca4924ba3b9781b0c1409f,single_selection,The base of an equivalent triangle is the same as its height.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Statistics,b5e500ab6671462b912cda1e7d87db06,single_selection,"A circle has radius 7cm, find its area. [π= $$\frac{22}{7}$$ ]",$$12cm^2$$,$$22cm^2$$,$$145cm^2$$,$$154cm^2$$,,,$$154cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,6a2767a0df27428b918f35d98759a40a,single_selection,Given that the base area of a prism is $$13cm^2$$ and the height is 6cm. Find the volume of the prism.,$$19cm^3$$,$$36cm^3$$,$$78cm^3$$,$$169cm^3$$,,,$$78cm^3$$,,,,,,,,
+Exercise_5_-_Statistics,81ce1ffc49294669a1d3af67b59b519e,single_selection,Surface area of a cube having side 5cm is,$$25cm^2$$,$$30cm^2$$,$$125cm^2$$,$$150cm^2$$,,,$$150cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,369a0d034ef84cc2beec58fb15b5f0f0,single_selection,Find the area of the triangle below. ![](exerciseimages/76acb3287dc41565440c74160c476ef8.png),$$36cm^2$$,$$48cm^2$$,$$72cm^2$$,$$96cm^2$$,,,$$96cm^2$$,,,,,,,,
 Exercise_5_-_Statistics,2721355107704260b013157d772686e3,single_selection,Which part of the formula for finding the area of a circle is a constant?,Radius,2r,2,πr,,,πr,,,,,,,,
 Exercise_5_-_Statistics,84fac7934eb945db944bf657c304d313,single_selection,"How many cubes of sugar can be packed in a rectangular container, if 7 cubes are arranged along the length and 3 cubes along the width and there are 6 layers?",126,162,216,261,,,126,,,,,,,,
-Exercise_5_-_Statistics,b016e4b109cd429f96204499efb6edde,single_selection,Total Surface area of a Cylinder opened at one end is,2πrh, $$2\pi r^2h$$,2πr(r+h),π(r+2h),,,π(r+2h),,,,,,,,
-Exercise_5_-_Statistics,2950f773639d4c2eb80640aaef7dc809,single_selection,Find the area of a triangle whose base is 10cm and height 7cm., $$17cm^2$$,35 $$cm^2$$,70 $$cm^2$$,105 $$cm^2$$,,, $$17cm^2$$,,,,,,,,
-Exercise_5_-_Statistics,aeae3e8bca134e0ca8fddcb04ca7bf06,single_selection,What is the formula for finding the area of a circle?,2πr, $$\pi r^2$$, $$2\pi r^2$$,πr,,, $$\pi r^2$$,,,,,,,,
-Exercise_5_-_Statistics,5204bc56fe0d42ee87228633135f3d58,single_selection,A cylinder is of height 3cm and radius 2cm. find its Volume.,6 $$cm^3$$, $$6\pi cm^3$$, $$12cm^3$$, $$12\pi cm^3$$,,, $$12\pi cm^3$$,,,,,,,,
+Exercise_5_-_Statistics,b016e4b109cd429f96204499efb6edde,single_selection,Total Surface area of a Cylinder opened at one end is,2πrh,$$2\pi r^2h$$,2πr(r+h),π(r+2h),,,π(r+2h),,,,,,,,
+Exercise_5_-_Statistics,2950f773639d4c2eb80640aaef7dc809,single_selection,Find the area of a triangle whose base is 10cm and height 7cm.,$$17cm^2$$,35 $$cm^2$$,70 $$cm^2$$,105 $$cm^2$$,,,$$17cm^2$$,,,,,,,,
+Exercise_5_-_Statistics,aeae3e8bca134e0ca8fddcb04ca7bf06,single_selection,What is the formula for finding the area of a circle?,2πr,$$\pi r^2$$,$$2\pi r^2$$,πr,,,$$\pi r^2$$,,,,,,,,
+Exercise_5_-_Statistics,5204bc56fe0d42ee87228633135f3d58,single_selection,A cylinder is of height 3cm and radius 2cm. find its Volume.,6 $$cm^3$$,$$6\pi cm^3$$,$$12cm^3$$,$$12\pi cm^3$$,,,$$12\pi cm^3$$,,,,,,,,
 Exercise_5_-_Statistics,61cd98bc022e4d879916a52bafa8a6bf,single_selection,How many groups of equal faces does a Cuboid have ?,3,4,5,6,,,3,,,,,,,,
 Exercise_5_-_Statistics,193cbdbbe877494eb630d9c324c500f3,single_selection,"If two triangles are formed from a rectangle, what is the relationship between the area of the rectangle and that of one of the triangles.",half the area of the rectangle equals area of the triangle,half the area of the triangle equals area of the rectangle,thrice the area of the rectangle equals area of the triangle,thrice the area of the triangle equals area of the rectangle,,,half the area of the rectangle equals area of the triangle,,,,,,,,
 Exercise_5_-_Statistics,f71aeced09c949caafc92443955c2a6f,single_selection,The amount of space inside the boundary of a plane shape is known as its,Perimeter,Volume,Area,Size,,,Area,,,,,,,,
-Exercise_5_-_Statistics,3ed1e63d09f640b7929cb6c26938192a,single_selection,What is the Volume of a cube of sides 5cm?, $$5cm^3$$, $$15cm^3$$, $$25cm^3$$, $$125cm^3$$,,, $$125cm^3$$,,,,,,,,
+Exercise_5_-_Statistics,3ed1e63d09f640b7929cb6c26938192a,single_selection,What is the Volume of a cube of sides 5cm?,$$5cm^3$$,$$15cm^3$$,$$25cm^3$$,$$125cm^3$$,,,$$125cm^3$$,,,,,,,,
 Exercise_5_-_Statistics,2e5aeae0e3ea46429832b97954f5a6a8,single_selection,How many Faces has a closed Cylindrical Object?,1,2,3,4,,,3,,,,,,,,
-Exercise_5_-_Statistics,a2d95c506ced483d8e27e3514a15793e,single_selection,Which one of these is the formula for finding the area of a triangle?,A= $$lb$$,A= $$\frac{c}{b}$$,A= $$\frac{bh}{2}$$, $$A=L^2$$,,,A= $$\frac{bh}{2}$$,,,,,,,,
+Exercise_5_-_Statistics,a2d95c506ced483d8e27e3514a15793e,single_selection,Which one of these is the formula for finding the area of a triangle?,A= $$lb$$,A= $$\frac{c}{b}$$,A= $$\frac{bh}{2}$$,$$A=L^2$$,,,A= $$\frac{bh}{2}$$,,,,,,,,
 Exercise_5_-_Statistics,d7e94d56f90445d1808f70f834198b73,single_selection,A circle has a radius of 3.5m. What will its diameter be?,3.5m,7.0m,14.0m,35.0m,,,7.0m,,,,,,,,
 Exercise_5_-_Statistics,59685220d60b4645b1fb2ad42b5090cb,single_selection,"Select the correct options.
 
-Find the Volume of a cuboid of sides 15m by 10m by 2m.", $$30m^3$$,20 $$m^3$$,150 $$m^3$$, $$300m^3$$,,, $$300m^3$$,,,,,,,,
-Exercise_5_-_Statistics,ea35f8c8eec54d93986fb09b3f22eb15,single_selection,"Select the correct options.  
+Find the Volume of a cuboid of sides 15m by 10m by 2m.",$$30m^3$$,20 $$m^3$$,150 $$m^3$$,$$300m^3$$,,,$$300m^3$$,,,,,,,,
+Exercise_5_-_Statistics,ea35f8c8eec54d93986fb09b3f22eb15,single_selection,"Select the correct options. 
 
 Which of the following is the net of a cube. ![](exerciseimages/9891e178c537ca50cd763f1ea9d179ae.png)",A,B,C,D,,,B,,,,,,,,
-Exercise_5_-_Statistics,ca168681df864da3a27edbba51968c32,single_selection,Given the area of the rectangle ABCD is $$40m^2.$$ Find the area of the triangle ABC., $$4m^2$$, $$10m^2$$, $$20m^2$$, $$30m^2$$,,, $$20m^2$$,,,,,,,,
+Exercise_5_-_Statistics,ca168681df864da3a27edbba51968c32,single_selection,Given the area of the rectangle ABCD is $$40m^2.$$ Find the area of the triangle ABC.,$$4m^2$$,$$10m^2$$,$$20m^2$$,$$30m^2$$,,,$$20m^2$$,,,,,,,,
 Exercise_5_-_Statistics,d9dcf8e43ab14586b23d840b18df5e59,single_selection,"Select the correct options
 
 The diameter of a circular tray is 28cm. Find the radius of the tray.",3.14cm,14.00cm,28.00cm,56.00cm,,,14.00cm,,,,,,,,
-Exercise_5_-_Mixtures,98033eefe16e4c139ac59fb5e8bd9c92,single_selection,What is the formula of magnesium nitride?,MgN, $$Mg_2N_2$$, $$Mg_2N_3$$, $$Mg_3N_2$$,,, $$Mg_3N_2$$,,,,,,,,
-Exercise_5_-_Mixtures,07e95d98af644cde8502c29f3084cbf1,single_selection,What is the valency of sulphur in $$Al_2S_3$$ ?,2,3,5,6,,,2,,,,,,,,
-Exercise_5_-_Mixtures,7f8c74e76ccc455d838beae458434b3c,single_selection,What is the chemical name of the compound $$Na_4C$$ ?,Sodium Carbide,Sodium Chloride,Sodium Carbonate,Sodium Carbonite,,,Sodium Carbide,,,,,,,,
-Exercise_5_-_Mixtures,2e69d258289444a29dcd69348bf893b4,single_selection,What is the chemical formula of Beryllium fluoride?,BeF, $$BeF_2$$,BaF, $$BaF_2$$,,, $$BeF_2$$,,,,,,,,
-Exercise_5_-_Mixtures,ef0c39f9364046b887f345d67bed473d,single_selection,Which is the chemical formula of sodium hydroxide?,NaOH, $$Na_2OH$$, $$Na\left(OH\right)_2$$, $$Na_2\left(OH\right)_2$$,,,NaOH,,,,,,,,
-Exercise_5_-_Mixtures,5b97a00e77e04efe87ea5d5efb74b84e,single_selection,What is the correct chemical formula of potassium sulphide?,KS, $$K_2S$$, $$KS_2$$, $$KSO_4$$,,, $$KS_2$$,,,,,,,,
+Exercise_5_-_Mixtures,98033eefe16e4c139ac59fb5e8bd9c92,single_selection,What is the formula of magnesium nitride?,MgN,$$Mg_2N_2$$,$$Mg_2N_3$$,$$Mg_3N_2$$,,,$$Mg_3N_2$$,,,,,,,,
+Exercise_5_-_Mixtures,07e95d98af644cde8502c29f3084cbf1,single_selection,What is the valency of sulphur in $$Al_2S_3$$ ?,2,3,5,6,,,2,,,,,,,,
+Exercise_5_-_Mixtures,7f8c74e76ccc455d838beae458434b3c,single_selection,What is the chemical name of the compound $$Na_4C$$ ?,Sodium Carbide,Sodium Chloride,Sodium Carbonate,Sodium Carbonite,,,Sodium Carbide,,,,,,,,
+Exercise_5_-_Mixtures,2e69d258289444a29dcd69348bf893b4,single_selection,What is the chemical formula of Beryllium fluoride?,BeF,$$BeF_2$$,BaF,$$BaF_2$$,,,$$BeF_2$$,,,,,,,,
+Exercise_5_-_Mixtures,ef0c39f9364046b887f345d67bed473d,single_selection,Which is the chemical formula of sodium hydroxide?,NaOH,$$Na_2OH$$,$$Na\left(OH\right)_2$$,$$Na_2\left(OH\right)_2$$,,,NaOH,,,,,,,,
+Exercise_5_-_Mixtures,5b97a00e77e04efe87ea5d5efb74b84e,single_selection,What is the correct chemical formula of potassium sulphide?,KS,$$K_2S$$,$$KS_2$$,$$KSO_4$$,,,$$KS_2$$,,,,,,,,
 Exercise_5_-_Mixtures,6aa687275f1147afa93c9b761a2b0a58,single_selection,Non-reactive metals are preferred in making ornaments and jewellery because they,are attractive,don't react with atmospheric oxygen,don't retain lustre,are corrosive,,,don't react with atmospheric oxygen,,,,,,,,
-Exercise_5_-_Mixtures,c9cd7c18f2a74ba7a2d4268f91c73372,single_selection,What is the name of $$MgCl_2$$,Magnesium Chloride,Magnesium Chlorate,Manganese Chloride,Manganese Chlorate,,,Magnesium Chloride,,,,,,,,
+Exercise_5_-_Mixtures,c9cd7c18f2a74ba7a2d4268f91c73372,single_selection,What is the name of $$MgCl_2$$,Magnesium Chloride,Magnesium Chlorate,Manganese Chloride,Manganese Chlorate,,,Magnesium Chloride,,,,,,,,
 Exercise_5_-_Mixtures,29a1a909990b4c2398fe41be9153941c,single_selection,The property of metal that allows it to be drawn into wire is called,Ductility,Maleability,Sonorous,Lustre,,,Ductility,,,,,,,,
-Exercise_5_-_Mixtures,999309a9215546d3a85b69ee400ed916,single_selection,Which is the correct chemical formula of aluminum oxide?,AlO, $$Al_3O_2$$, $$Al_2O_3$$, $$Al_2O_2$$,,, $$Al_2O_3$$,,,,,,,,
+Exercise_5_-_Mixtures,999309a9215546d3a85b69ee400ed916,single_selection,Which is the correct chemical formula of aluminum oxide?,AlO,$$Al_3O_2$$,$$Al_2O_3$$,$$Al_2O_2$$,,,$$Al_2O_3$$,,,,,,,,
 Exercise_5_-_Mixtures,ada5e8747ebd4523b7f0b117a7ecd2b1,single_selection,Which of the following elements is brittle?,Sodium,Lead,Magnesium,Sulphur,,,Sulphur,,,,,,,,
 Exercise_5_-_Mixtures,ba9fcd081bc84fac846633921cc81b1e,single_selection,What is the valency of oxygen?,1,2,3,6,,,2,,,,,,,,
 Exercise_5_-_Mixtures,500af3be2a3045429d38dc28ce17db54,single_selection,Which of the following elements exist in the liquid state at room temperature?,Lead,Gold,Mercury,Sodium,,,Mercury,,,,,,,,
 Exercise_5_-_Mixtures,961f6b5f7f914b8c89ffb71f19a2ab56,single_selection,What is the valency of magnesium?,1,2,3,4,,,2,,,,,,,,
 Exercise_5_-_Mixtures,39792dd6fb9641d7be426f31ddf4ba0d,single_selection,"Iron, gold and zinc are metals. Which of the following is a correct description of their properties?",They are soft,They have low density,They are poor conductors of heat,They are good conductors of electricity,,,They are good conductors of electricity,,,,,,,,
-Exercise_5_-_Mixtures,aa6bc782f67442008ec1e5f0bde2ca6a,single_selection,Compounds are held together by covalent bonds.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Mixtures,4f33694a8513483cb6e66fce5debf421,single_selection,Non metals are ductile and shiny.,True,False,,,,,False,,,,,,,,
+Exercise_5_-_Mixtures,aa6bc782f67442008ec1e5f0bde2ca6a,single_selection,Compounds are held together by covalent bonds.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Mixtures,4f33694a8513483cb6e66fce5debf421,single_selection,Non metals are ductile and shiny.,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Mixtures,e3dafc456a73432fba29392c1684b7a7,single_selection,Which of the following is formed when an atom loses electron?,Negative ion,Neutral ion,Positive ion,Neutral ion,,,Positive ion,,,,,,,,
 Exercise_5_-_Mixtures,c02678e4b03544b7bf0531a203c46af0,single_selection,Which of the following is an element?,Brass,Copper,Magnesium Oxide,Water,,,Copper,,,,,,,,
-Exercise_5_-_Mixtures,a3907ccc2079481e94ba89bc5cc7b3c2,single_selection,Formation of a compound is accompanied by heat.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Mixtures,a68241f5edfc43d292eaafe1031bd4bd,single_selection,The ability of a material to be beaten into different shapes is called malleability.,True,False,,,,,True,,,,,,,,
+Exercise_5_-_Mixtures,a3907ccc2079481e94ba89bc5cc7b3c2,single_selection,Formation of a compound is accompanied by heat.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Mixtures,a68241f5edfc43d292eaafe1031bd4bd,single_selection,The ability of a material to be beaten into different shapes is called malleability.,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Mixtures,77c86148e1c0420ba87973382f228662,single_selection,Which of the following shells in an atom has the lowest energy?,K,L,M,N,,,K,,,,,,,,
 Exercise_5_-_Mixtures,7ae5c485d21f4acaba7ea1e306f5879a,single_selection,Which of the following substances has a different physical state from the others under ordinary conditions?,Aluminium,Iron,Mercury,Zinc,,,Mercury,,,,,,,,
-Exercise_5_-_Mixtures,0fd1cc6ecc194e7bbd3d52302a31b6e9,single_selection,All compounds have high melting points.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Mixtures,371426a3d64f4f428ba6702c039b064f,single_selection,All metals are sonorous.,True,False,,,,,False,,,,,,,,
+Exercise_5_-_Mixtures,0fd1cc6ecc194e7bbd3d52302a31b6e9,single_selection,All compounds have high melting points.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Mixtures,371426a3d64f4f428ba6702c039b064f,single_selection,All metals are sonorous.,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Mixtures,b30b05b4accd4a4f8dfa430327925b09,single_selection,Which of the following is formed when an atom gains electron?,Anion,Cation,Neutral ion,Radical,,,Anion,,,,,,,,
 Exercise_5_-_Mixtures,e4280ed7dcc04db8bfb1061deab0783a,single_selection,Which of the following substances is a mixture?,Carbon Dioxide,Sugar Solution,Sodium Chloride,Sulphur Dioxide,,,Sugar Solution,,,,,,,,
-Exercise_5_-_Mixtures,6577e1aa46a24f30bc8ef1d07daf31b5,single_selection,Compounds have similar physical properties as the component elements.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Mixtures,31750d7327224a379190c73dc03c13de,single_selection,Diamond is a non metal and therefore has low melting.,True,False,,,,,False,,,,,,,,
+Exercise_5_-_Mixtures,6577e1aa46a24f30bc8ef1d07daf31b5,single_selection,Compounds have similar physical properties as the component elements.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Mixtures,31750d7327224a379190c73dc03c13de,single_selection,Diamond is a non metal and therefore has low melting.,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Mixtures,021b8ac2f9454a92a0ebf904637ae35d,single_selection,"An atom has 4 protons and 5 neutrons in its nucleus, how many electrons are present in the atom?",3,4,5,9,,,4,,,,,,,,
 Exercise_5_-_Mixtures,f4f10bb8c8bc427bb5f9aceb2ec9503b,single_selection,The chemical symbol for potassium is,K,P,Pb,Po,,,K,,,,,,,,
-Exercise_5_-_Mixtures,c270be3671084aaabb2fb80bf687efae,single_selection,Compounds have fixed ratio of component elements.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Mixtures,aafe73b51c76447f8de3e0694454004c,single_selection,Metals conduct electricity due to free electrons.,True,False,,,,,True,,,,,,,,
+Exercise_5_-_Mixtures,c270be3671084aaabb2fb80bf687efae,single_selection,Compounds have fixed ratio of component elements.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Mixtures,aafe73b51c76447f8de3e0694454004c,single_selection,Metals conduct electricity due to free electrons.,TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Mixtures,e92c7a432cec4bcb9b8664ce067321e6,single_selection,Which of the following particles can be found in the nucleus of an atom?,Electron and protons,Electron and shells,Neutrons and electrons,Neutrons and protons,,,Neutrons and protons,,,,,,,,
 Exercise_5_-_Mixtures,57631a1f26a94e858cd45bd087bb9e60,single_selection,Which of the following is made up of the same kind of atoms?,A compound,A mixture,An element,A solution,,,An element,,,,,,,,
 Exercise_5_-_Mixtures,23929364c0014ad585e5e0d6bfe90168,single_selection,They are separated by ……………………………. means.,Constituents,Bonds,Atoms,Chemical,,,Chemical,,,,,,,,
@@ -548,19 +548,19 @@ Exercise_5_-_Mixtures,c5bc65b025b0440ca99f72c894dfba3d,single_selection,They hav
 Exercise_5_-_Mixtures,c139a57c46c24512a49d1a3a7038f7f4,multiple_selection,Metal readily ………………………. electrons while non metals readily ………………….. electrons,Loss,Mercury,Gain,High,,,Loss,Gain,,,,,,,
 Exercise_5_-_Mixtures,2e095ac077c54752a4f1225afd025389,multiple_selection,The nucleus is positively charged because it contains ---------- which is positively charge and -------------- which is neutral.,Proton,K,Neutron,Electron,,,Proton,Neutron,,,,,,,
 Exercise_5_-_Mixtures,d0d610e698e847a68d491206e65feeff,single_selection,Elements have unique ----------------- and ---------------------------,"Simpler, chemical means or method","Name, Symbol","Different, bond",Pure,,,"Name, Symbol",,,,,,,,
-Exercise_5_-_Mixtures,ed5d0af3961c46ca87549e4fd62b6b30,multiple_selection,"Select the right options.  
+Exercise_5_-_Mixtures,ed5d0af3961c46ca87549e4fd62b6b30,multiple_selection,"Select the right options. 
 
 Compounds are substances made up of two or more different ……………….. held together by a …………………….",Atoms,Unique,Bonds,Fixed,,,Atoms,Bonds,,,,,,,
-Exercise_5_-_Mixtures,4d7869125e484d5896a1523e54681ff4,single_selection,"Select the correct options.  
+Exercise_5_-_Mixtures,4d7869125e484d5896a1523e54681ff4,single_selection,"Select the correct options. 
 
 Most elements in the periodic table are …………………………….",Loss,Gain,Mercury,Metals,,,Metals,,,,,,,,
 Exercise_5_-_Mixtures,f50b7ff105db48a599a3b0ad0e3ec1e5,single_selection,"Select the correct options.
 
 Atoms have ----------- in the middle of it.",Proton,Nucleus,Electron,Neutron,,,Nucleus,,,,,,,,
-Exercise_5_-_Mixtures,2ef4348dd4844be88a589b9fe57967d0,single_selection,"Select the correct options.  
+Exercise_5_-_Mixtures,2ef4348dd4844be88a589b9fe57967d0,single_selection,"Select the correct options. 
 
 Elements cannot be split up into anything --------------- by ------------------","Different, bond",Pure,"Simpler, chemical means or method",Physically,,,"Simpler, chemical means or method",,,,,,,,
-Exercise_5_-_Mixtures,f61725af0d834562a0e29fd7cc3be3d3,single_selection,"Select the correct options.  
+Exercise_5_-_Mixtures,f61725af0d834562a0e29fd7cc3be3d3,single_selection,"Select the correct options. 
 
 Elements cannot be split up into anything --------------- by ------------------","Different, bond",Pure,"Simpler, chemical means or method",Physically,,,"Simpler, chemical means or method",,,,,,,,
 Exercise_5_-_Mixtures,23f85cfd82b145038732dfdb890b144b,single_selection,Which of the following processes can be used to obtain local gin from palm wine?,Condensation,Distillation,Filtration,Evaporation,,,Distillation,,,,,,,,
@@ -568,121 +568,121 @@ Exercise_5_-_Mixtures,80e43269fe9f43479a0766a57f1acd6c,single_selection,Smoke is
 Exercise_5_-_Mixtures,1cf543c3d8694e26b63f2b6c02a4ca60,single_selection,Which of the following mixture can be separated by filtration?,Oil in Water,Salt in Water,Sand in Water,Sugar in Water,,,Sand in Water,,,,,,,,
 Exercise_5_-_Mixtures,c83889cc781441679214c1b867084df8,single_selection,The process by which hot saturated solution is cooled to obtain some of the solute is called,Condensation,Crystallization,Evaporation,Distillation,,,Crystallization,,,,,,,,
 Exercise_5_-_Mixtures,e8174e2e69b94636acaa8b1299c1285c,single_selection,Which of the following methods will be most suitable for separating a mixture of iron filling and sulphur powder?,Decanting,Distillation,Evaporation,Magnetization,,,Magnetization,,,,,,,,
-Exercise_5_-_Mixtures,2383aca74567495ebd0144691fa2e611,single_selection,The substances in a mixture can be present in any proportion by mass.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Mixtures,4a4ff8ea0feb4e0f99ad218da3941c89,single_selection,Properties of a mixture are the average of the properties of the components.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Mixtures,bf7dc81b26404fd49df6802d51b98b24,single_selection,Heat is lost or absorbed in forming a mixture.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Mixtures,0bfd9d105c47479f8bceafdc9052a7b4,single_selection,Mixtures are separated into its components by physical means.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Mixtures,19ba7b0972214f15ba5fa580b49b26d5,single_selection,Mixtures have fixed boiling and melting points.,True,False,,,,,False,,,,,,,,
+Exercise_5_-_Mixtures,2383aca74567495ebd0144691fa2e611,single_selection,The substances in a mixture can be present in any proportion by mass.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Mixtures,4a4ff8ea0feb4e0f99ad218da3941c89,single_selection,Properties of a mixture are the average of the properties of the components.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Mixtures,bf7dc81b26404fd49df6802d51b98b24,single_selection,Heat is lost or absorbed in forming a mixture.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Mixtures,0bfd9d105c47479f8bceafdc9052a7b4,single_selection,Mixtures are separated into its components by physical means.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Mixtures,19ba7b0972214f15ba5fa580b49b26d5,single_selection,Mixtures have fixed boiling and melting points.,TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Mixtures,8d44dd6da1fe43ad9f176468e4459fa4,single_selection,Mixtures have melting points ……………. from the melting point of component elements.,Physically,Retain,Different,Separated,,,Different,,,,,,,,
 Exercise_5_-_Mixtures,1d1eea64e5914343a21d423afb68a296,single_selection,Rocks contain a …………………. of minerals.,Mixture,Separated,Retain,Physically,,,Mixture,,,,,,,,
 Exercise_5_-_Mixtures,745e7921fe714661b2cfc5392544ec2c,single_selection,Mixtures are ……………………….. by physical means into its components.,Retain,Physically,Different,Separated,,,Separated,,,,,,,,
 Exercise_5_-_Mixtures,ade7074b20be42b1940e2872c7c54bb2,single_selection,Component elements in a mixture ………………………. their properties.,Retain,Separated,Different,Physically,,,Retain,,,,,,,,
 Exercise_5_-_Mixtures,3e10ebfcaa274c449b0d6a7ff2934102,single_selection,Mixtures are made up of two or more different substances …………………… combined.,Retain,Separated,Physically,Chemically,,,Physically,,,,,,,,
-Exercise_5_-_Properties_of_polygons,7de0356cbce34b6f835f2c90c3dd9c42,single_selection,Number of members in neither A nor B is 50.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,0ba5f36c2e3c4dd5ad524b8612d1e8c1,single_selection,Number of members in A or B or both is 45,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,dcaca917c15445f3b1b6d30cf7ddaa1f,single_selection,Y’  $$\cap$$  Y = y,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,767921cb93ab4d499d6d5894ce6d0562,single_selection,Number of members in both A and B is 35,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,55fb26c3686a48eeb11bec4c025f7d99,single_selection,X’  $$\cup$$  X =  $$\bigcup$$,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,ec25425f998d40e19b32557dddf593e8,single_selection,Number of members in B but not A is 15,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,07b60198a18f4879938a053d0d37f191,single_selection,X’ $$\cup$$ Y’ = (X  $$\cap$$  Y)’,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,9f5b7c1950254d6dbe98c04817f23cf6,single_selection,"![](exerciseimages/6c5229949257db8ef14d1bacdf032d59.png)  
-Number of members in A but not B is 20.",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,3612473a9d6d4f60b6fba85faf18f572,single_selection,X'  $$\cap$$  X = X,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,00d90ba585d94958bcc7855155a04b15,single_selection,$$\left(a-1\right)^2$$  is equal to (a-1) (a-1),True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,e841792c72004c9ebf4c49f398af966f,single_selection,"If a = -3, then b = 9",True,False,,,,,False,,,,,,,,
+Exercise_5_-_Properties_of_polygons,7de0356cbce34b6f835f2c90c3dd9c42,single_selection,Number of members in neither A nor B is 50.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,0ba5f36c2e3c4dd5ad524b8612d1e8c1,single_selection,Number of members in A or B or both is 45,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,dcaca917c15445f3b1b6d30cf7ddaa1f,single_selection,Y’ $$\cap$$ Y = y,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,767921cb93ab4d499d6d5894ce6d0562,single_selection,Number of members in both A and B is 35,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,55fb26c3686a48eeb11bec4c025f7d99,single_selection,X’ $$\cup$$ X = $$\bigcup$$,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,ec25425f998d40e19b32557dddf593e8,single_selection,Number of members in B but not A is 15,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,07b60198a18f4879938a053d0d37f191,single_selection,X’ $$\cup$$ Y’ = (X $$\cap$$ Y)’,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,9f5b7c1950254d6dbe98c04817f23cf6,single_selection,"![](exerciseimages/6c5229949257db8ef14d1bacdf032d59.png) 
+Number of members in A but not B is 20.",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,3612473a9d6d4f60b6fba85faf18f572,single_selection,X' $$\cap$$ X = X,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,00d90ba585d94958bcc7855155a04b15,single_selection,$$\left(a-1\right)^2$$ is equal to (a-1) (a-1),TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,e841792c72004c9ebf4c49f398af966f,single_selection,"If a = -3, then b = 9",TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Properties_of_polygons,66938771617e446c99daf85dd5146d9a,single_selection,How many subsets has U?,1,2,3,4,,,4,,,,,,,,
-Exercise_5_-_Properties_of_polygons,dee43362c067464dbd894ff311486e31,single_selection,X’  $$\cap$$  Y’ =(X  $$\cap$$  Y),True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,bb87afe181c74aeda9c7e529dafc6b32,single_selection,(X +2y)(x-3) and (x-2y)(x+3) gives the same product.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,33e69e07455a411192f4f50b12704fdc,single_selection,"If a = 3, then b = 0",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,56bae5fcfc7144ba8e1daace9423dab1,single_selection,"Given that U = {2,4}, use this information to answer question 9 and 10.  
+Exercise_5_-_Properties_of_polygons,dee43362c067464dbd894ff311486e31,single_selection,X’ $$\cap$$ Y’ =(X $$\cap$$ Y),TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,bb87afe181c74aeda9c7e529dafc6b32,single_selection,(X +2y)(x-3) and (x-2y)(x+3) gives the same product.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,33e69e07455a411192f4f50b12704fdc,single_selection,"If a = 3, then b = 0",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,56bae5fcfc7144ba8e1daace9423dab1,single_selection,"Given that U = {2,4}, use this information to answer question 9 and 10. 
 
 Which of the subsets of U is also a subset of all other sets.",{},{2},{4},"{2,4}",,,{},,,,,,,,
-Exercise_5_-_Properties_of_polygons,7a0c0effde014c15949b64587af151f6,single_selection,X’  $$\cap$$  Y’ =(X Y)’,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,932addf7e60d4a7cb9c3340f31e0edda,single_selection,(5w+3) is a factor of 30vw+ 18v,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,37f925daf6d7480192d9ae357cf33be5,single_selection,"If a = 1, then b = 12",True,False,,,,,True,,,,,,,,
+Exercise_5_-_Properties_of_polygons,7a0c0effde014c15949b64587af151f6,single_selection,X’ $$\cap$$ Y’ =(X Y)’,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,932addf7e60d4a7cb9c3340f31e0edda,single_selection,(5w+3) is a factor of 30vw+ 18v,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,37f925daf6d7480192d9ae357cf33be5,single_selection,"If a = 1, then b = 12",TRUE,FALSE,,,,,TRUE,,,,,,,,
 Exercise_5_-_Properties_of_polygons,df9d7d83a5194a53a2d0eb730d7447c4,single_selection,"If the number of subsets of a set A, is given as 25\. How many members are in the set set A.",2,5,7,10,,,5,,,,,,,,
-Exercise_5_-_Properties_of_polygons,54e0559102c84e8eb025be0f98e91326,single_selection,Y’  $$\cap$$  y = { },True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,58b73c2c7c704f609ced2efe811e4910,single_selection,$$3ab^2$$  is a factor of $$6a^2b$$,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,4f964c00e023404c8ece65b0cdb871fa,single_selection,"If a = -1, then b = 8",True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,cbd086a4201e47e0a5be1c9eda49ac44,single_selection,"Set P is called ………….of set Q when all the members of set P are also  
+Exercise_5_-_Properties_of_polygons,54e0559102c84e8eb025be0f98e91326,single_selection,Y’ $$\cap$$ y = { },TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,58b73c2c7c704f609ced2efe811e4910,single_selection,$$3ab^2$$ is a factor of $$6a^2b$$,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,4f964c00e023404c8ece65b0cdb871fa,single_selection,"If a = -1, then b = 8",TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,cbd086a4201e47e0a5be1c9eda49ac44,single_selection,"Set P is called ………….of set Q when all the members of set P are also 
 members of set Q.",A universal set,A union set,A null set,A subset,,,A subset,,,,,,,,
-Exercise_5_-_Properties_of_polygons,5ecb9012cb764c8789693a6ba5525f28,single_selection,"Given that X = {1,3,5,7,9}  
-Y= {2,3,5,7}  
-U ={Counting numbers less than 10}  
-If X and Y are Subsets of U, State whether or not the Statements in Question 13 to 20 are true or false:  
+Exercise_5_-_Properties_of_polygons,5ecb9012cb764c8789693a6ba5525f28,single_selection,"Given that X = {1,3,5,7,9} 
+Y= {2,3,5,7} 
+U ={Counting numbers less than 10} 
+If X and Y are Subsets of U, State whether or not the Statements in Question 13 to 20 are true or false: 
 
-X  $$\cup$$  {} = { }",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,8b3fa33bc4994daebf227eeec9e5316e,single_selection,"For question 6-10, state whether or not the statement is true or false.  
+X $$\cup$$ {} = { }",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,8b3fa33bc4994daebf227eeec9e5316e,single_selection,"For question 6-10, state whether or not the statement is true or false. 
 
-The highest common factor of  $$3m^2$$  and  $$9m^2$$  is  $$9m^3$$  .",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,728e39910fee4dc397ebb3706fedf0b8,single_selection,"For question 6 to 10, state whether or not the statement is true or false, given that b = (3 – a) (a +3)  
+The highest common factor of $$3m^2$$ and $$9m^2$$ is $$9m^3$$ .",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,728e39910fee4dc397ebb3706fedf0b8,single_selection,"For question 6 to 10, state whether or not the statement is true or false, given that b = (3 – a) (a +3) 
 
-If a = 4, then b = 7",True,False,,,,,False,,,,,,,,
+If a = 4, then b = 7",TRUE,FALSE,,,,,FALSE,,,,,,,,
 Exercise_5_-_Properties_of_polygons,0fbd3d2c302e4e409cb530efa9c2d880,single_selection,"If A = {0,1}. Which one of the following is a subset of A.",{},{d},{61},{10},,,{},,,,,,,,
-Exercise_5_-_Properties_of_polygons,63996ebe0ddf4780a711f57329d4827b,single_selection,What is (T  $$\cup$$  S)’?,"{4,6,8,10}","{1,2,3,,5,7,9}","{2,4,6,8,10}","{1,2,3,4,5,6,7,8,9,10}",,,"{4,6,8,10}",,,,,,,,
-Exercise_5_-_Properties_of_polygons,6a4b184239894b45b359ab6640c6ff04,single_selection,Simplify $$(5x-2)^2$$, $$5x^2-20x+4$$, $$5x2^2+20x+4$$, $$25x^2-20x+4$$, $$25x^2+20x+4$$,,, $$25x^2-20x+4$$,,,,,,,,
-Exercise_5_-_Properties_of_polygons,a524c48b238b4033838208cff0463ea4,single_selection,Make M the subject of $$P=\frac{3M+1}{M}$$,M = 3P – 1, $$M=\frac{1}{P-M}$$,M= 3P + 1, $$M=\frac{1}{3-P}$$,,, $$M=\frac{1}{P-M}$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,63996ebe0ddf4780a711f57329d4827b,single_selection,What is (T $$\cup$$ S)’?,"{4,6,8,10}","{1,2,3,,5,7,9}","{2,4,6,8,10}","{1,2,3,4,5,6,7,8,9,10}",,,"{4,6,8,10}",,,,,,,,
+Exercise_5_-_Properties_of_polygons,6a4b184239894b45b359ab6640c6ff04,single_selection,Simplify $$(5x-2)^2$$,$$5x^2-20x+4$$,$$5x2^2+20x+4$$,$$25x^2-20x+4$$,$$25x^2+20x+4$$,,,$$25x^2-20x+4$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,a524c48b238b4033838208cff0463ea4,single_selection,Make M the subject of $$P=\frac{3M+1}{M}$$,M = 3P – 1,$$M=\frac{1}{P-M}$$,M= 3P + 1,$$M=\frac{1}{3-P}$$,,,$$M=\frac{1}{P-M}$$,,,,,,,,
 Exercise_5_-_Properties_of_polygons,a766ef4b1df04d33a814d60384d44850,single_selection,How many pupils failed both subjects,15,20,35,45,,,15,,,,,,,,
-Exercise_5_-_Properties_of_polygons,bec24ce774624868a3693925595ed24b,single_selection,What are the members of  $$\left(T\cap S\right)^1$$  ?,"{3,5,7}","{4,6,8,10}","{1,2,4,6,8,9,10}",{2},,,"{1,2,4,6,8,9,10}",,,,,,,,
-Exercise_5_-_Properties_of_polygons,d955906863c44a498d13338df6acbc0f,single_selection,1\. Factorize the expression ( x+y)4a + (x+y)(a+3b),(x+y)(5a – 3b), $$(x+y)(4a^2-3b)$$,(x+y)( 4a-3b),(x+y)(5a+3b),,,(x+y)(5a+3b),,,,,,,,
-Exercise_5_-_Properties_of_polygons,35f954d4dd0b40fe88f64c28de1bc77a,single_selection,"1\. If  $$y=-\frac{1}{2}x+4$$  , find y when x = 2",-5,-3,3,5,,,3,,,,,,,,
+Exercise_5_-_Properties_of_polygons,bec24ce774624868a3693925595ed24b,single_selection,What are the members of $$\left(T\cap S\right)^1$$ ?,"{3,5,7}","{4,6,8,10}","{1,2,4,6,8,9,10}",{2},,,"{1,2,4,6,8,9,10}",,,,,,,,
+Exercise_5_-_Properties_of_polygons,d955906863c44a498d13338df6acbc0f,single_selection,1\. Factorize the expression ( x+y)4a + (x+y)(a+3b),(x+y)(5a – 3b),$$(x+y)(4a^2-3b)$$,(x+y)( 4a-3b),(x+y)(5a+3b),,,(x+y)(5a+3b),,,,,,,,
+Exercise_5_-_Properties_of_polygons,35f954d4dd0b40fe88f64c28de1bc77a,single_selection,"1\. If $$y=-\frac{1}{2}x+4$$ , find y when x = 2",-5,-3,3,5,,,3,,,,,,,,
 Exercise_5_-_Properties_of_polygons,96cefd18f00144da8589e13b798f9cb3,single_selection,Find the number of pupils who passed at least one subject.,15,20,35,45,,,45,,,,,,,,
-Exercise_5_-_Properties_of_polygons,cfd9812fe82443c59b956a9e07ddc945,single_selection,"Use the information below to answer question 4 to 6  
+Exercise_5_-_Properties_of_polygons,cfd9812fe82443c59b956a9e07ddc945,single_selection,"Use the information below to answer question 4 to 6 
 
-Given that ={1,2,3,4,5,6,7,8,9,10}  
-T={2,3,5,7}  
-S={1,3,5,7,9}  
+Given that ={1,2,3,4,5,6,7,8,9,10} 
+T={2,3,5,7} 
+S={1,3,5,7,9} 
 
-Where S and T are Subset of u.  
+Where S and T are Subset of u. 
 
-List the elements of  $$T^1$$","{1,3,5,7,9}","{1,4,6,8,9,10}","{2,3,5,7}","{1,2,3,4,5,6,7,8,9}",,,"{1,4,6,8,9,10}",,,,,,,,
-Exercise_5_-_Properties_of_polygons,fb7f9b60fdf546988de95427b7a79f08,single_selection,Which of the following is a factor of the expression $$x^2-2x-3x+6$$ ?,(x+2),(x-2),(x+6),(x-6),,,(x+6),,,,,,,,
-Exercise_5_-_Properties_of_polygons,73991da6163f4eadb87637909a2f75d1,single_selection,"Make T the subject of   
-$$L^2=\frac{4\pi^2T}{g}$$", $$T=\frac{gL}{2\pi}$$, $$T=\frac{gL^2}{2\pi}$$, $$T=\frac{L^2}{4g}$$, $$T=\frac{gL^2}{4\pi^2}$$,,, $$T=\frac{gL^2}{4\pi^2}$$,,,,,,,,
+List the elements of $$T^1$$","{1,3,5,7,9}","{1,4,6,8,9,10}","{2,3,5,7}","{1,2,3,4,5,6,7,8,9}",,,"{1,4,6,8,9,10}",,,,,,,,
+Exercise_5_-_Properties_of_polygons,fb7f9b60fdf546988de95427b7a79f08,single_selection,Which of the following is a factor of the expression $$x^2-2x-3x+6$$ ?,(x+2),(x-2),(x+6),(x-6),,,(x+6),,,,,,,,
+Exercise_5_-_Properties_of_polygons,73991da6163f4eadb87637909a2f75d1,single_selection,"Make T the subject of 
+$$L^2=\frac{4\pi^2T}{g}$$",$$T=\frac{gL}{2\pi}$$,$$T=\frac{gL^2}{2\pi}$$,$$T=\frac{L^2}{4g}$$,$$T=\frac{gL^2}{4\pi^2}$$,,,$$T=\frac{gL^2}{4\pi^2}$$,,,,,,,,
 Exercise_5_-_Properties_of_polygons,6f56c99c87384c0eabcb2506fb387cef,single_selection,How many pupils passed exactly one subject?,15,20,35,45,,,35,,,,,,,,
-Exercise_5_-_Properties_of_polygons,9e5aacb080d043ac85fbe0436d891436,single_selection,Which region represent prime factors of 35,P, $$P\cap Q$$,P only, $$P\cup Q$$,,, $$P\cap Q$$,,,,,,,,
-Exercise_5_-_Properties_of_polygons,8c359392f42944119e433b417a8cde74,single_selection,Find the product of (a-5) and (a-7), $$a^2-12a+35$$, $$a^2+12a+35$$, $$a^2-12a-35$$, $$a^2+12a-36$$,,, $$a^2-12a+35$$,,,,,,,,
-Exercise_5_-_Properties_of_polygons,155140ce9ca24078be8dfe0e3b22a175,single_selection,"If y = 2x – 6, find x in terms of y.",x= 2y – 6,2x = y + 6, $$x=\frac{y+6}{2}$$, $$x=\frac{y-6}{2}$$,,, $$x=\frac{y+6}{2}$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,9e5aacb080d043ac85fbe0436d891436,single_selection,Which region represent prime factors of 35,P,$$P\cap Q$$,P only,$$P\cup Q$$,,,$$P\cap Q$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,8c359392f42944119e433b417a8cde74,single_selection,Find the product of (a-5) and (a-7),$$a^2-12a+35$$,$$a^2+12a+35$$,$$a^2-12a-35$$,$$a^2+12a-36$$,,,$$a^2-12a+35$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,155140ce9ca24078be8dfe0e3b22a175,single_selection,"If y = 2x – 6, find x in terms of y.",x= 2y – 6,2x = y + 6,$$x=\frac{y+6}{2}$$,$$x=\frac{y-6}{2}$$,,,$$x=\frac{y+6}{2}$$,,,,,,,,
 Exercise_5_-_Properties_of_polygons,42649f43acc54eb4915601a46e103fb0,single_selection,How many pupils passed mathematics but not English.,15,20,25,30,,,20,,,,,,,,
 Exercise_5_-_Properties_of_polygons,ed534a19732d46a3abe22f8af5af1e9a,single_selection,List the members of set Q,{2},"{1,3,5,7,9}","{1,9}","{2,3,5,7}",,,"{1,3,5,7,9}",,,,,,,,
-Exercise_5_-_Properties_of_polygons,c272af82e0d244059398182396e523a4,single_selection,"Select the correct options.  
+Exercise_5_-_Properties_of_polygons,c272af82e0d244059398182396e523a4,single_selection,"Select the correct options. 
 
-Expand ( a+2b) (a-2b)", $$a^2-4ab-4b^2$$, $$a^2+4ab-4b^2$$, $$a^2-4ab$$, $$a^2+4ab$$,,, $$a^2-4ab$$,,,,,,,,
-Exercise_5_-_Properties_of_polygons,02722147cdc848f984101b0c70becdf4,single_selection,"Select the correct options.  
+Expand ( a+2b) (a-2b)",$$a^2-4ab-4b^2$$,$$a^2+4ab-4b^2$$,$$a^2-4ab$$,$$a^2+4ab$$,,,$$a^2-4ab$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,02722147cdc848f984101b0c70becdf4,single_selection,"Select the correct options. 
 
 Find the value of 3xy – x when x = 2 and y = -3",-20,-16,16,20,,,-20,,,,,,,,
-Exercise_5_-_Properties_of_polygons,7bcc67c958a740708f6d1ebb67290471,single_selection,"For question 1 to 10, select the correct option.  
+Exercise_5_-_Properties_of_polygons,7bcc67c958a740708f6d1ebb67290471,single_selection,"For question 1 to 10, select the correct option. 
 
-In a school of 60 pupils, 25 passed English and 30 passed in Mathematics. 10 pupils passed both English and Mathematics.  
-Use this information to answer questions 1 to 5  
+In a school of 60 pupils, 25 passed English and 30 passed in Mathematics. 10 pupils passed both English and Mathematics. 
+Use this information to answer questions 1 to 5 
 What is the total number of pupils who passed English only?",15,20,25,30,,,15,,,,,,,,
-Exercise_5_-_Properties_of_polygons,27a0e884d5ce4568910165075b1f3593,single_selection,"Select the correct options ![](exerciseimages/dafaa61ddec2c853192cbc3c53dd7262.png)  
+Exercise_5_-_Properties_of_polygons,27a0e884d5ce4568910165075b1f3593,single_selection,"Select the correct options ![](exerciseimages/dafaa61ddec2c853192cbc3c53dd7262.png) 
 
 What are the members of set P.",{2},"{1,3,5,7,9}","{1,9}","{2, 3,5,7}",,,"{2, 3,5,7}",,,,,,,,
-Exercise_5_-_Properties_of_polygons,b30bef2814734c05a02b9fae432a7567,single_selection,The type of triangle with 3 obtuse angles is called obtuse- angled triangle.,True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,8969b104abca48288a54f28b9c8b968e,single_selection,The exterior angle of a regular polygon is given  $$\frac{360}{n}$$  .,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,065889944946480d83e3f88e5decdb39,single_selection,The sum of the exterior angle of a polygon is 180(n-2),True,False,,,,,True,,,,,,,,
-Exercise_5_-_Properties_of_polygons,7e308b8481e045c790168aa073bd67a3,single_selection,The number of triangles in a polygon with 'n' sides is '(n-2)'.,True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,bb9369abff344f0f8975cf13e17d92fd,single_selection,"For question 6 to 10, state whether or not the statement is true or false  
+Exercise_5_-_Properties_of_polygons,b30bef2814734c05a02b9fae432a7567,single_selection,The type of triangle with 3 obtuse angles is called obtuse- angled triangle.,TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,8969b104abca48288a54f28b9c8b968e,single_selection,The exterior angle of a regular polygon is given $$\frac{360}{n}$$ .,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,065889944946480d83e3f88e5decdb39,single_selection,The sum of the exterior angle of a polygon is 180(n-2),TRUE,FALSE,,,,,TRUE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,7e308b8481e045c790168aa073bd67a3,single_selection,The number of triangles in a polygon with 'n' sides is '(n-2)'.,TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,bb9369abff344f0f8975cf13e17d92fd,single_selection,"For question 6 to 10, state whether or not the statement is true or false 
 
-Three exterior angles of a regular triangle is equal to the sum of its interior angle.",True,False,,,,,False,,,,,,,,
-Exercise_5_-_Properties_of_polygons,105d58dd353c4f95b6e5a28b1b93e5ea,single_selection,"The exterior angles of a polygon are  $$25^o,43^o,142^o,4x^o$$  and  $$x^o$$  . Find the value of x.", $$15^o$$, $$20^o$$, $$25^o$$,  $$30^o$$,,, $$25^o$$,,,,,,,,
-Exercise_5_-_Properties_of_polygons,e31501a8d76d48d09968ff34c4f41f4c,single_selection,Two of the interior angles of a pentagon are each 1200\. Find the remaining three angles if they are equal., $$80^o$$, $$90^o$$, $$100^o$$, $$120^o$$,,, $$120^o$$,,,,,,,,
-Exercise_5_-_Properties_of_polygons,ed51c1fd5d714c6bb9a37f524dd3d0ba,single_selection,"Calculate the exterior angle of a regular polygon with 6 sides.  
+Three exterior angles of a regular triangle is equal to the sum of its interior angle.",TRUE,FALSE,,,,,FALSE,,,,,,,,
+Exercise_5_-_Properties_of_polygons,105d58dd353c4f95b6e5a28b1b93e5ea,single_selection,"The exterior angles of a polygon are $$25^o,43^o,142^o,4x^o$$ and $$x^o$$ . Find the value of x.",$$15^o$$,$$20^o$$,$$25^o$$,$$30^o$$,,,$$25^o$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,e31501a8d76d48d09968ff34c4f41f4c,single_selection,Two of the interior angles of a pentagon are each 1200\. Find the remaining three angles if they are equal.,$$80^o$$,$$90^o$$,$$100^o$$,$$120^o$$,,,$$120^o$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,ed51c1fd5d714c6bb9a37f524dd3d0ba,single_selection,"Calculate the exterior angle of a regular polygon with 6 sides. 
 
-<div>A. 600 B. 6 X 1800 C. 800 D. 8 X 1800</div>", $$60^o$$, $$6\times180^o$$, $$80^o$$, $$8\times180^o$$,,, $$60^o$$,,,,,,,,
-Exercise_5_-_Properties_of_polygons,a2ef5a93e17843ea93c237e17b82c064,single_selection,The sum of the interior angle of a polygon with 8 sides is equal to;, $$8\times180^{\circ}$$, $$6\times180^o$$, $$8\times360^o$$, $$6\times360^o$$,,, $$8\times360^o$$,,,,,,,,
+<div>A. 600 B. 6 X 1800 C. 800 D. 8 X 1800</div>",$$60^o$$,$$6\times180^o$$,$$80^o$$,$$8\times180^o$$,,,$$60^o$$,,,,,,,,
+Exercise_5_-_Properties_of_polygons,a2ef5a93e17843ea93c237e17b82c064,single_selection,The sum of the interior angle of a polygon with 8 sides is equal to;,$$8\times180^{\circ}$$,$$6\times180^o$$,$$8\times360^o$$,$$6\times360^o$$,,,$$8\times360^o$$,,,,,,,,
 Exercise_5_-_Properties_of_polygons,8250388cb544496fbb514bf37ed2cea1,single_selection,"Given that the interior angle of a regular polygon is 1200, how many sides has the polygon?",6,8,10,12,,,10,,,,,,,,
 Exercise_5_-_Dentition_in_humans,2a3e091ad5ad45c0b23be0c4ea467752,single_selection,Which is the furthest planet from the sun?,Earth,Pluto,Mars,Mercury,,,Pluto,,,,,,,,
-Exercise_5_-_Dentition_in_humans,521cca5066484eec898d3843a3b51ef9,single_selection,"Which of the following factors can lead to soil nutrient depletion?  
+Exercise_5_-_Dentition_in_humans,521cca5066484eec898d3843a3b51ef9,single_selection,"Which of the following factors can lead to soil nutrient depletion? 
 
- I. Leaching
+ I. Leaching
 
 II. Overgrazing
 
- III. Mulching
+ III. Mulching
 
- IV. Erosion",I and II only,"II, III and IV only","I, II and IV only","I, II, III and IV",,,"II, III and IV only",,,,,,,,
+ IV. Erosion",I and II only,"II, III and IV only","I, II and IV only","I, II, III and IV",,,"II, III and IV only",,,,,,,,
 Exercise_5_-_Dentition_in_humans,c6fa17e3760e4916a6cb2d46fd88bc4c,single_selection,The sun is the source of heat and light on earth. What powers the sun’s energy?,Nuclear fusion,Heat,Pressure,Chemical reaction,,,Nuclear fusion,,,,,,,,
 Exercise_5_-_Dentition_in_humans,691b8adc3a794cae8e2d002fd7412800,single_selection,Which of the following is not a component of soil?,Ammonia,Micro organisms,Mineral salts,Water,,,Ammonia,,,,,,,,
 Exercise_5_-_Dentition_in_humans,d74699f8987443db81bd77080a3632d3,single_selection,Which of the following constitute the galaxies and everything in it?,Comets,Milky Way,Solar System,Universe,,,Universe,,,,,,,,
@@ -706,30 +706,30 @@ $$HCl+KOH\longrightarrow KCl+H_2O$$",Condensation,Combination,Neutralization,Oxi
 Exercise_5_-_Dentition_in_humans,56097f7ec6e84cd49ed3a740fd0808a8,single_selection,The moon is a ……….body.,Light,Non-luminous,Gravity,Satellite,,,Non-luminous,,,,,,,,
 Exercise_5_-_Dentition_in_humans,d051678813894285a9815c52b189ae11,single_selection,Comets travel around the sun in __________________ orbits.,Elliptical,Pluto,Star,Gas,,,Elliptical,,,,,,,,
 Exercise_5_-_Dentition_in_humans,a9070998e93946a89aa73fbb46913749,single_selection,The physical and chemical substance effective for plant growth is called………..,Top soil,Gully,Soil resources,Conservation,,,Soil resources,,,,,,,,
-Exercise_5_-_Dentition_in_humans,241cacea8873472f8647346030ab0edf,single_selection,Which hazard symbol has the following description **“chemical pouring on metal and hand”?**,Corrosive, Flammable,Harmful,Toxic,,,Corrosive,,,,,,,,
+Exercise_5_-_Dentition_in_humans,241cacea8873472f8647346030ab0edf,single_selection,Which hazard symbol has the following description **“chemical pouring on metal and hand”?**,Corrosive,Flammable,Harmful,Toxic,,,Corrosive,,,,,,,,
 Exercise_5_-_Dentition_in_humans,c962512e96f048deb1b68ef3a34b3923,multiple_selection,The earth has ………..moon which orbits the earth in every ……… days,Satellite,28,orbits,One,,,28,One,,,,,,,
 Exercise_5_-_Dentition_in_humans,8ef0a376a61542bb9ebd5c49c8904ca0,single_selection,_______________ _is the outermost planet is believed to be made of rock and ice.,Elliptical,Pluto,Star,Solar System,,,Pluto,,,,,,,,
 Exercise_5_-_Dentition_in_humans,005627054db94e46b5bd4c39d09ef08e,single_selection,"Splash ,rill and ……….are types of erosion",Gully,Top soil,Soil resources,wind,,,Gully,,,,,,,,
 Exercise_5_-_Dentition_in_humans,cf6568ac92f2421683886afdc6651c38,single_selection,The following are household items. Which of them will change litmus paper blue?,Aspirin,lemon,Soap,Vinegar,,,Soap,,,,,,,,
-Exercise_5_-_Dentition_in_humans,5765ab7ca8c148b0929c239d828ea169,multiple_selection,"Select the correct options.  
+Exercise_5_-_Dentition_in_humans,5765ab7ca8c148b0929c239d828ea169,multiple_selection,"Select the correct options. 
 
 A moon is a natural……………that ………..around a planet.",orbits,Light,Satellite,One,,,orbits,Satellite,,,,,,,
-Exercise_5_-_Dentition_in_humans,0d2b8c4c426c494f86f79ec7e23bbb02,single_selection,"Select the correct options.  
+Exercise_5_-_Dentition_in_humans,0d2b8c4c426c494f86f79ec7e23bbb02,single_selection,"Select the correct options. 
 
 The sun is a _____________________ and a source of light.",Elliptical,Pluto,Star,Gas,,,Star,,,,,,,,
-Exercise_5_-_Dentition_in_humans,9235ff7735b848ef9e1c5ebbcce02c37,multiple_selection,"Select the corrections.  
+Exercise_5_-_Dentition_in_humans,9235ff7735b848ef9e1c5ebbcce02c37,multiple_selection,"Select the corrections. 
 
 Soil erosion involves the removal of ……..and ………..needed for plant growth.",Gully,Top soil,water,nutrients,,,Top soil,nutrients,,,,,,,
 Exercise_5_-_Dentition_in_humans,8c0f30472540424dbb59063549590fe3,single_selection,Which of the following substances contains an acid?,Common Salt,Milk of Magnesia,Over cleaner,Vinegar,,,Vinegar,,,,,,,,
 Exercise_5_-_Dentition_in_humans,3b271fc679f948239ee79dcec51af20b,single_selection,Which of the following type of teeth is used for chewing and grinding?,Canines,Incisors,Premolars,Molars,,,Canines,,,,,,,,
 Exercise_5_-_Dentition_in_humans,9a4cbd8ff373416f968d0b7974cce73c,single_selection,The type of teeth used for biting and cutting are the,Canines,Incisors,Premolars,Molars,,,Incisors,,,,,,,,
-Exercise_5_-_Dentition_in_humans,6f074e8ce07544288023637b21ceac83,single_selection,"The following are types of the teeth.  
+Exercise_5_-_Dentition_in_humans,6f074e8ce07544288023637b21ceac83,single_selection,"The following are types of the teeth. 
 
-I. incisor  
+I. incisor 
 
-II. Canine  
+II. Canine 
 
-III. Premolar  
+III. Premolar 
 
 IV. Molars
 
@@ -739,7 +739,7 @@ Exercise_5_-_Dentition_in_humans,e134e03c21f04e9687afa6c0ee5f0fe3,single_selecti
 Exercise_5_-_Dentition_in_humans,bc0d47691c904d9aa20b2e5a53e06366,single_selection,Pulp cavity is located inside the ………………………….,Dentine,Root,Enamel,Crown,,,Dentine,,,,,,,,
 Exercise_5_-_Dentition_in_humans,2817f151cdca448993a67d2bbb53bc64,single_selection,…………………………. Is found between the gum and the jaw bone.,Dentine,Root,Crown,Neck,,,Root,,,,,,,,
 Exercise_5_-_Dentition_in_humans,acad3fe076b24575bd06462baf86c527,multiple_selection,Neck is found between the ………………….. and the ………………………,Neck,Root,Enamel,Crown,,,Root,Crown,,,,,,,
-Exercise_5_-_Dentition_in_humans,5e8b5cf69c4846c08dd9b4873e3d88d8,single_selection,"Select the correct options.  
+Exercise_5_-_Dentition_in_humans,5e8b5cf69c4846c08dd9b4873e3d88d8,single_selection,"Select the correct options. 
 
 ………………….. is the outermost part of the human tooth.",Root,Dentine,Enamel,Crown,,,Enamel,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",8600a639fb85439383b55952182d5229,single_selection,Rita,Common noun,Proper noun,,,,,Proper noun,,,,,,,,
@@ -757,7 +757,7 @@ Exercise_5_-_Dentition_in_humans,5e8b5cf69c4846c08dd9b4873e3d88d8,single_selecti
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",337ac139a35e4318b8f2bccebfd38d7d,single_selection,"Select the correct options
 
 My record player is quite different from ____________________",Hers,Him,,,,,Hers,,,,,,,,
-"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",b5743a3dc0f844498c1e94d645b003c9,single_selection,"Match the following under proper or common nouns.  
+"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",b5743a3dc0f844498c1e94d645b003c9,single_selection,"Match the following under proper or common nouns. 
 
 Gladys",Proper noun,Common noun,,,,,Proper noun,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",7ad4202477ec4adfb5dac886ccf85331,multiple_selection,"This knapsack is mine, said Sheila. “You must have left yours back at the campsite, Frank.",Mine,You,Yours,Frank,,,Mine,You,Yours,,,,,,
@@ -774,25 +774,25 @@ Gladys",Proper noun,Common noun,,,,,Proper noun,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",a42ed09b262c4feaa55aae3fd2c37064,single_selection,Half,Halves,Halfs,,,,,Halves,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",a0b153684db24cd8a9270337af7e45eb,single_selection,The ______________ is irrevocable.,Students,Men,Decision,Boxes,,,Decision,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",298573b5a2c349b799ece175e76acd3f,single_selection,The ___________ says the building will be completed next month.,Doctor,Singer,Architect,Principal,,,Architect,,,,,,,,
-"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",8bb080e6e95e465e90cc04ec0cc849be,multiple_selection,"Identify all the pronouns in the following sentences.  
+"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",8bb080e6e95e465e90cc04ec0cc849be,multiple_selection,"Identify all the pronouns in the following sentences. 
 
 Mike hit a home run today; it is his first at this school.",It,His,A,Is,,,It,His,,,,,,,
-"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",ae3fa52aa17740bd94138664eeaec512,single_selection,"Select the correct plural forms of the following nouns.  
+"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",ae3fa52aa17740bd94138664eeaec512,single_selection,"Select the correct plural forms of the following nouns. 
 Star",Stares,Stars,,,,,Stars,,,,,,,,
-"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",37dc8c5127b949c0b745ff8fb436be3e,single_selection,"Select the correct options.  
+"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",37dc8c5127b949c0b745ff8fb436be3e,single_selection,"Select the correct options. 
 
 Do you know Achebe’s ___________?",Works,Decision,Students,Boxes,,,Works,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",b46c42aa512c4e6cb740fcd277860f73,single_selection,The ­­­­_____________ asked a student to write an essay.,Architect,Doctor,Singer,Teacher,,,Teacher,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",013e9c5bfaba4bc58db373692907bcd7,single_selection,This is your bag.,Your,This,,,,,This,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",4e3ab6fa424040379327a147634f1e30,single_selection,That is my friend’s house.,That,My,,,,,My,,,,,,,,
-"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",6279d77d7ebf44cfa3127139abbf82ff,single_selection,"Select the demonstrative pronouns in the following sentences.  
+"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",6279d77d7ebf44cfa3127139abbf82ff,single_selection,"Select the demonstrative pronouns in the following sentences. 
 
 These boys are from my home town.",These,My,,,,,These,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",6611478d5d61403e921e211256c73c98,single_selection,Kofi uses the piano to play music himself.,Kofi,Himself,,,,,Himself,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",beadbe990d354359b42c67af611c6355,single_selection,I imagine myself a highlife singer.,I,Myself,,,,,Myself,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",f694d824898c4e4cb137ae9921574592,single_selection,We went there ourselves.,We,Ourselves,,,,,Ourselves,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",725a7ea416f24e5089a07f8d3c87d594,single_selection,You must give the tune yourself.,You,Yourself,,,,,Yourself,,,,,,,,
-"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",caa7459f0a0147f281800fbb66df3498,single_selection,"Select the reflexive pronouns in the sentences below.  
+"Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",caa7459f0a0147f281800fbb66df3498,single_selection,"Select the reflexive pronouns in the sentences below. 
 
 He taught himself driving slowly.",He,Himself,,,,,Himself,,,,,,,,
 "Exercise_5_-_Reflexive,_intensive_and_demonstrative_pronouns",3356bfe8462e421abef07be3f6ec484b,single_selection,Give me those books.,Me,Those,,,,,Those,,,,,,,,
@@ -804,7 +804,7 @@ Exercise_5_-_Self_identity_II,1244d9aa9ed4475a8f5306e3624ec1fc,single_selection,
 Exercise_5_-_Self_identity_II,015cc50d4f7c4829abd44cf371f3e959,single_selection,The self concept determines ………..,The race of a person,The shape of a person,Who a person is,The physical health of a person,,,Who a person is,,,,,,,,
 Exercise_5_-_Self_identity_II,c415eecc1dd945c3a29f2e43becd7cd3,single_selection,The mahogany tree is regarded as an ecosystem because it,Forms part of terrestrial ecology,Serves as habitat for plants and animals,has no definite boundaries,is not affected by biotic factors,,,Serves as habitat for plants and animals,,,,,,,,
 Exercise_5_-_Self_identity_II,9d2a15cd85da4aa6baf238a1b5d14ccd,single_selection,A student who aims at becoming a medical doctor has a …………………,Group goal,Family goal,Long-term goal,Long-term value,,,Long-term goal,,,,,,,,
-Exercise_5_-_Self_identity_II,cf54e43e2ac24bc38544c884bfbf1438,single_selection,"Which of following factors controls the living conditions of the aquatic ecosystem?  
+Exercise_5_-_Self_identity_II,cf54e43e2ac24bc38544c884bfbf1438,single_selection,"Which of following factors controls the living conditions of the aquatic ecosystem? 
 
 I.PH
 
@@ -816,12 +816,12 @@ IV.Altitude.","I, II, and III only","II, III, and IV only","I,III AND IV ONLY",I
 Exercise_5_-_Self_identity_II,c8c35629408349a599ae0dd246056047,single_selection,"Generally, the way you look at yourself is your ……………………",Identity,Social environment,Self conception,Loves to compete,,,Identity,,,,,,,,
 Exercise_5_-_Self_identity_II,5235de2ac144491b8d40168ea0338a52,single_selection,The interrelationship between man and his surroundings is known as,Biosphere,Human ecology,Ecosystem,Environment,,,Ecosystem,,,,,,,,
 Exercise_5_-_Self_identity_II,c6fcc207d85742ff931db366e0a4a13f,single_selection,Which of the following characteristics will be true of a person with positive self image?,Believes in herself,Gets work done,Spends energy in competing,Loves to compete,,,Believes in herself,,,,,,,,
-Exercise_5_-_Self_identity_II,7c54c9a3565a4f86b31c9fbcff9421fe,single_selection,"1\. The scientific principles underlying the invention of the aeroplane are ………………  
+Exercise_5_-_Self_identity_II,7c54c9a3565a4f86b31c9fbcff9421fe,single_selection,"1\. The scientific principles underlying the invention of the aeroplane are ……………… 
 
-I. Law of floatation  
-II. Principles of air lift  
-III. Aerodynamics  
-IV. Hydrolysis",I and II only,II and III only,"I, III and IV only"," II, III and IV only",,,II and III only,,,,,,,,
+I. Law of floatation 
+II. Principles of air lift 
+III. Aerodynamics 
+IV. Hydrolysis",I and II only,II and III only,"I, III and IV only","II, III and IV only",,,II and III only,,,,,,,,
 Exercise_5_-_Self_identity_II,f2900e6a8b4d4556885a61fb40707c89,single_selection,Environment education is important for everybody because it helps to,Keep our environment clean,understand ways of putting out fire,understand the implications of destroying the environment,understanding the implications of having a large population,,,understand the implications of destroying the environment,,,,,,,,
 Exercise_5_-_Self_identity_II,a7860d6ff09f4c20ab1b0b290aa65f68,single_selection,Self identity implies personal ……………..,Physical appearance,Acquisition of skills,Heredity traits,Awareness and consciousness,,,Awareness and consciousness,,,,,,,,
 Exercise_5_-_Self_identity_II,afd82c8a857145e482bbc07c55e93a75,single_selection,The name given to improved form of crop is ………………….,Grafting,Budding,Hybrid,Potash,,,Hybrid,,,,,,,,
@@ -832,7 +832,7 @@ Exercise_5_-_Self_identity_II,2482f324acc54dedb3f9cccf261f9dd8,single_selection,
 Exercise_5_-_Self_identity_II,dc126bf5efcb4fdbb13d663c75471cfe,single_selection,"If one wants to develop one’s self, one must begin with ……………..",Identify one's potential,Getting support from family members,Acquiring formal education,Establishing one's personality traits,,,Identify one's potential,,,,,,,,
 Exercise_5_-_Self_identity_II,a53c39824997404ba608219c009613ae,single_selection,Scientific knowledge is based on …………………,Tested facts,Traditional beliefs,One's instincts,Religious beliefs,,,Tested facts,,,,,,,,
 Exercise_5_-_Self_identity_II,13c07e1a6b1f470ea9a3d5181f39df0f,single_selection,Some human activities in Ghana are often regulated by the physical environment because the people,are superstitious,lack technology,are uneducated,lack engineers,,,lack technology,,,,,,,,
-Exercise_5_-_Self_identity_II,0d1fe74001ec4d5ba5d4fece8ae7b5a9,single_selection,Self identity refers to ……………..,the sum total of a person's education,the sum total of a person’s wealth and position in society,the sum total of a person's perceptions and beliefs,one's  name and the tribe one belongs to,,,the sum total of a person's perceptions and beliefs,,,,,,,,
+Exercise_5_-_Self_identity_II,0d1fe74001ec4d5ba5d4fece8ae7b5a9,single_selection,Self identity refers to ……………..,the sum total of a person's education,the sum total of a person’s wealth and position in society,the sum total of a person's perceptions and beliefs,one's name and the tribe one belongs to,,,the sum total of a person's perceptions and beliefs,,,,,,,,
 Exercise_5_-_Self_identity_II,8813b69caa454c7fbe488b24466ef2dc,single_selection,The Cocoa Research Institute of Ghana (CRIG) ……………………….,conducts research on the marketing of cocoa,helps to produce high yielding cocoa seedlings,Conducts research to increase the output of cocoa products,offers scholarship to children of cocoa children,,,conducts research on the marketing of cocoa,,,,,,,,
 Exercise_5_-_Self_identity_II,d4df7107984c43ba8da87ffb21698cd7,single_selection,The term environment refers to,the cultural and social surroundings of human beings,the interaction and occurrence of organisms,living organisms and their surroundings,the immediate social and physical surroundings,,,the immediate social and physical surroundings,,,,,,,,
 Exercise_5_-_Self_identity_II,d24a7493b7a745df9fc2b353bf1c2dcd,single_selection,The factors which greatly ……………….. against the work of scientific research in Ghana is,Apathy of government,Lack of scientists,Inadequate funding,Brain drain,,,Lack of scientists,,,,,,,,
@@ -866,16 +866,16 @@ Exercise_5_-_Self_identity_II,2e7b2045dbb346e99ce93f52da84d94e,single_selection,
 Exercise_5_-_Self_identity_II,f1355146df7540a5a10c96958d9f9582,single_selection,All the following are benefits of the study of science except ………………,Reliable weather forecasting,Production of arms for war,Improvement in agricultural technology,Efficient dissemination of information,,,Production of arms for war,,,,,,,,
 Exercise_5_-_Self_identity_II,2d425d8307074c3a994cf2ce85a5524d,single_selection,Adolescence health problems are mainly caused by,Inadequate health facilities for adolescents,Lack of sex education within the family,Physical changes taking place in the adolescence,Inadequate recreational centers in the family,,,Lack of sex education within the family,,,,,,,,
 Exercise_5_-_Self_identity_II,3c47909a9a84423989a2dbceef4d4e2b,single_selection,The most important source of power for domestic and industrial use in Ghana is,solar power,thermal power,hydro-electric power,liquefied petroleum gas,,,hydro-electric power,,,,,,,,
-Exercise_5_-_Self_identity_II,0ae65d30eddc478da76e7914d1b7ec39,single_selection,"Select the correct options.  
+Exercise_5_-_Self_identity_II,0ae65d30eddc478da76e7914d1b7ec39,single_selection,"Select the correct options. 
 
 An individual’s unique characteristic is collectively called ………….",The ego,The ideal self,Personality,Heridity,,,The ideal self,,,,,,,,
-Exercise_5_-_Self_identity_II,4b64bb117e874879b3c6bc9c6cac7b81,single_selection,"Select the correct options.  
+Exercise_5_-_Self_identity_II,4b64bb117e874879b3c6bc9c6cac7b81,single_selection,"Select the correct options. 
 
 Why is it necessary to know oneself?",To relate and interact better with other people,To compete and win a national award,To get a very good job in the future,To be admired by others,,,To relate and interact better with other people,,,,,,,,
-Exercise_5_-_Self_identity_II,a8ede92c16f94faf9de8db4b53dc9f0e,single_selection,"Select the correct options.  
+Exercise_5_-_Self_identity_II,a8ede92c16f94faf9de8db4b53dc9f0e,single_selection,"Select the correct options. 
 
 The process by which scientific knowledge is utilized to the benefit of man is ……………….",Production,Consumption,Pacification,Technology,,,Technology,,,,,,,,
-Exercise_5_-_Self_identity_II,a9002e0ede0042178f9012489a231ad0,single_selection,"During adolescence, females experience",widening pelvis,deepening of voice, enlarged biceps,decrease in weight,,,widening pelvis,,,,,,,,
+Exercise_5_-_Self_identity_II,a9002e0ede0042178f9012489a231ad0,single_selection,"During adolescence, females experience",widening pelvis,deepening of voice,enlarged biceps,decrease in weight,,,widening pelvis,,,,,,,,
 Exercise_5_-_Self_identity_II,632c826123d549f4bf3a0e79358d9825,single_selection,A natural cause of desertification is,Overgrazing,Dry Weather Condition,Over cultivation,Annual Bush burning,,,Dry Weather Condition,,,,,,,,
 Exercise_5_-_Self_identity_II,b6ee0ff8871b4ade8583942e3ca058fc,single_selection,The potential of an individual is best developed through …………………..,Family financial support,Ingenuity and creativity,Education and training,Guidance and counselling,,,Ingenuity and creativity,,,,,,,,
 Exercise_5_-_Self_identity_II,8471fec9fffe487b8f3ac49b783fc79f,single_selection,The self-concept of an individual is influenced by people during …………….,Adolescence,Adulthood,Old-age,Marriage,,,Adolescence,,,,,,,,
@@ -892,10 +892,10 @@ Exercise_5_-_Clauses,5440d9e5a0f249eaaaa6946f218ed8b2,single_selection,________ 
 Exercise_5_-_Clauses,df35065f478d4d3cba4874fffcf9c2c2,single_selection,What an excellent performance!,Simple sentence,Compound sentence,Complex sentence,Compound-complex sentence,,,Simple sentence,,,,,,,,
 Exercise_5_-_Clauses,f16bc2d2093e48b4a34fcd30f41da132,single_selection,Someone _______ a kite with a giant flower.,Seems,has,have,is,,,has,,,,,,,,
 Exercise_5_-_Clauses,20ff0bf4858446f2a457486c71e32a1d,single_selection,Give me liberty or death.,Simple sentence,Compound sentence,Complex sentence,Compound-complex sentence,,,Compound sentence,,,,,,,,
-Exercise_5_-_Clauses,825dfc84049f44c1ab10594e56cc5173,single_selection,"Select the correct options  
+Exercise_5_-_Clauses,825dfc84049f44c1ab10594e56cc5173,single_selection,"Select the correct options 
 
 Everyone _________ to be flying kites these days.",Seems,Seem,is,are,,,Seems,,,,,,,,
-Exercise_5_-_Clauses,f096ea0f2b9342639363814dba111eee,single_selection,"Identify the types of sentence according to structure (simple, Compound, complex, compound- complex)  
+Exercise_5_-_Clauses,f096ea0f2b9342639363814dba111eee,single_selection,"Identify the types of sentence according to structure (simple, Compound, complex, compound- complex) 
 
 We caught the thief who was plucking maize in our farm.",Simple sentence,Compound sentence,Complex sentence,Compound-complex sentence,,,Simple sentence,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,2b2f942ca0d54ff39fd1e13973a97618,single_selection,The act of relying on one another for needs or supports is known as …………………,Independence,Co-operation,Dependence,Self-sufficiency,,,Dependence,,,,,,,,
@@ -904,22 +904,21 @@ Exercise_5_-_Individual_obligation_in_the_family,596c6ee0ea7846d6b238409cbe5fd9e
 Exercise_5_-_Individual_obligation_in_the_family,446bf35325064b5db6daf7d52ceaf9a4,single_selection,The main function of a leader in a traditional society is …………………,Offering sacrifices to the ancestors,Protecting ancestral lands,Ensuring peaceful co-existence,Leading people to battle,,,Ensuring peaceful co-existence,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,7c7bbb4e6e9045b5a3f97e0e7995b46d,single_selection,All the following are characteristics of a buoyant economy except …………….,Availability of skilled personnel,Low rate of population growth,Political stability,High rate of population growth,,,High rate of population growth,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,6bbd1ece6bef434cbb3436ca45f15d6b,single_selection,The term siblings refers to …………………,Mothers and fathers,Uncles and aunts,Brothers and sisters,Peers and mates,,,Brothers and sisters,,,,,,,,
-Exercise_5_-_Individual_obligation_in_the_family,88c7a7c4cf664758b6c7d8ec5f920144,single_selection,"Which of the following forms part of leadership problems in Ghana?  
-I. The tendency of leaders lording over followers  
-II. Sycophancy of followers  
-III. Absence of charismatic leaders  
+Exercise_5_-_Individual_obligation_in_the_family,88c7a7c4cf664758b6c7d8ec5f920144,single_selection,"Which of the following forms part of leadership problems in Ghana? 
+I. The tendency of leaders lording over followers 
+II. Sycophancy of followers 
+III. Absence of charismatic leaders 
 IV. Lack of ideological training for Ghanaian leaders",I and II only,I and III only,II and III only,"I, II, III and IV",,,"I, II, III and IV",,,,,,,,
-Exercise_5_-_Individual_obligation_in_the_family,94ebd0b2b9214a7d90a4fa4cad44ec8a,single_selection,"1\. Which of the following factors indicate why people live below the poverty line?  
+Exercise_5_-_Individual_obligation_in_the_family,94ebd0b2b9214a7d90a4fa4cad44ec8a,single_selection,"1\. Which of the following factors indicate why people live below the poverty line? 
 
-I. High population growth rate  
+I. High population growth rate 
 
-II. High illiteracy rate  
+II. High illiteracy rate 
 
-III. High productivity rate  
+III. High productivity rate 
 
 IV. High unemployment rate","I, II, and III only","I, II and IV only","II, III and IV only","I, III and IV only",,,"I, III and IV only",,,,,,,,
-Exercise_5_-_Individual_obligation_in_the_family,4df931595b1f49d88be2288afdfc1076,single_selection,Parents and their children make up ……………………..,Lineage,A clan,"  
-An extended family",A nuclear family,,,A nuclear family,,,,,,,,
+Exercise_5_-_Individual_obligation_in_the_family,4df931595b1f49d88be2288afdfc1076,single_selection,Parents and their children make up ……………………..,Lineage,A clan,An extended family,A nuclear family,,,A nuclear family,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,20aa6b5859cc4127a0fe959ae8a9dbbb,single_selection,All the following are qualities of a good follower except ……………….,Initiation,Loyalty,Humility,Co-operation,,,Initiation,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,f1f7a2977b0c4432a1db8b4ee9e3a64e,single_selection,The first agent of socialization for the new-born baby is the …………….,Society,Family,Peers,School,,,Family,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,a2ec4c0e88a64b69a09670b6cb433906,single_selection,A development problem facing Ghana is …………………,High standard of living,Low cost of living,High literacy rate,High poverty rate,,,High poverty rate,,,,,,,,
@@ -946,28 +945,28 @@ Exercise_5_-_Individual_obligation_in_the_family,31e0ee40952346259950cc4fe033731
 Exercise_5_-_Individual_obligation_in_the_family,daf87f873855403bbcf07f1c47840fd3,single_selection,The unique feature of an individual which is not inherited is ……………,Knowledge,Height,Blood group,Eye colour,,,Knowledge,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,919a07db22e3483ba379135f6c3c0971,single_selection,What leaders require from their followers in order to achieve success is to …………….,Sing their praises,Avoid criticizing them,Be loyal and co-operative,Have formal education,,,Be loyal and co-operative,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,6b5ffe69694645b3a54cce8cef908551,single_selection,Primary socialization is necessary for ……………….,Socially fitting into peer groups,Identifying age of character,The individual’s emotional stability,The preservation of peer pressure,,,The individual’s emotional stability,,,,,,,,
-Exercise_5_-_Individual_obligation_in_the_family,2e167f8ee0344987a4df09cb4727235b,single_selection,"The term infrastructure embraces ………………..  
+Exercise_5_-_Individual_obligation_in_the_family,2e167f8ee0344987a4df09cb4727235b,single_selection,"The term infrastructure embraces ……………….. 
 
-I. Power supply  
+I. Power supply 
 
-II. Factories  
+II. Factories 
 
-III. Roads  
+III. Roads 
 
 IV. Spare parts",I and II only,II and III only,III and IV only,I and III only,,,II and III only,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,267e9a9c2e4f478e9dddf8e51e8423c8,single_selection,One attribute of a good leader is …………………….,Self-centered in decision making,Insistent on followers abiding by is rules,Reliant on followers for direction,Effective in organizing his followers,,,Effective in organizing his followers,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,c929203cd191421abe65f0fd6aca0eed,single_selection,The family acts as an agent of education through training the child to …………………,Acquire employable skills,Acquire social values,Perform household chores,Know western values,,,Acquire social values,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,e2503a8bd2314fd0998bcd92468ef516,single_selection,A qualitative change in all aspects of the life of a people is described as ……………….,Growth,Inflation,Deflation,Development,,,Development,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,8a01840d212649eda6c510d270acc2ad,single_selection,"In the traditional economic system, the recognized bread winner of the family is the ………………..",Father,Mother,Uncle,Elders,,,Father,,,,,,,,
-Exercise_5_-_Individual_obligation_in_the_family,a95e9e7e5c3e45e3bcfabb682c21be6e,single_selection,"Which of the following are the attributes of a good leader?  
-I. Effective organizer  
+Exercise_5_-_Individual_obligation_in_the_family,a95e9e7e5c3e45e3bcfabb682c21be6e,single_selection,"Which of the following are the attributes of a good leader? 
+I. Effective organizer 
 
 II. Self-centered
 
-III. Dedication to duty  
+III. Dedication to duty 
 
 IV. Respect for others",I and II only,II and III only,"I, II and IV only","I, III and IV only",,,"I, III and IV only",,,,,,,,
-Exercise_5_-_Individual_obligation_in_the_family,eade0ee3089d4a148532f31cffa79f2a,single_selection,One of the main functions of socialization is …………………,Training the individual to be a wealthy person,Giving the individual the knowledge he needs,Giving the individual his heritage,Preparing the individual for his role in  society,,,Preparing the individual for his role in  society,,,,,,,,
+Exercise_5_-_Individual_obligation_in_the_family,eade0ee3089d4a148532f31cffa79f2a,single_selection,One of the main functions of socialization is …………………,Training the individual to be a wealthy person,Giving the individual the knowledge he needs,Giving the individual his heritage,Preparing the individual for his role in society,,,Preparing the individual for his role in society,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,3a5e4de8874e4a17a998ef19dd5a3466,single_selection,A negative ***effect*** of Ghana’s economic co-operation with the developed world is that ………………………..,Standard of living falls,Political instability is promoted,Political sovereignty is lost,Local initiative is destroyed,,,Political sovereignty is lost,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,76cc0685375c4524ab6d59d21cb14ff1,single_selection,The stages a family passes through are called …………………..,Socialization process,Family life cycle,Initiation process,Family orientation,,,Family life cycle,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,3e9c9ab6da4947a996b5d8f85d0c7dd6,single_selection,A leader can play a major role in nation building by ………………..,Being friendly with followers,Being authoritarian,Getting rid of opponents,Initiating policies,,,Initiating policies,,,,,,,,
@@ -995,7 +994,7 @@ Exercise_5_-_Individual_obligation_in_the_family,277f1607278440d7bde301d93ea4a2c
 Exercise_5_-_Individual_obligation_in_the_family,a7f41883aa524b08be94b9a9f7fced8e,single_selection,An economy that works efficiently and brings about improvement in the quality of life of the people is described as ………………….,Traditional,Buoyant,Developing,Centralized,,,Buoyant,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,f8866c7734224c9dbe0616b2f6bd6b2a,single_selection,One of the benefits of belonging to a family is that it ………………….,Makes one popular,Provides security,There is equality,Provides job security,,,Provides security,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,af5412aeb4cb4475821f27aca2afa4d1,single_selection,Good leaders are,Oppressive,Tolerant,Self-praising,Pessimistic,,,Tolerant,,,,,,,,
-Exercise_5_-_Individual_obligation_in_the_family,9e1a83ee6d164af19136258bd293e2a1,single_selection,"Select the correct options.  
+Exercise_5_-_Individual_obligation_in_the_family,9e1a83ee6d164af19136258bd293e2a1,single_selection,"Select the correct options. 
 
 The process of cultural transmission in a given society is known as ……………..",Social interaction,Social communication,Socialization,Diffusion,,,Socialization,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,ba53029dc11f4445b0f62a3cf1a20526,single_selection,Ghana is classified as less developed in the world because of her low …………………,Population growth,Level of illiteracy,Level of mining,per capita income,,,per capita income,,,,,,,,
@@ -1004,63 +1003,63 @@ Exercise_5_-_Individual_obligation_in_the_family,388c6b20acf244e6b9d40178e52d4af
 Exercise_5_-_Individual_obligation_in_the_family,f05130cac6c44da4a38cf499942ecbe1,single_selection,One disadvantage of the extended family system is that,One has to spend a lot of money on funerals,People inherit the physical features of grand parents,Any elder can discipline the youth,The youth are forced to learn the family norms,,,One has to spend a lot of money on funerals,,,,,,,,
 Exercise_5_-_Individual_obligation_in_the_family,a426306ce77e49f498390bc84eafcbde,single_selection,Which of the following is not a primary group?,Family,Siblings,School,Home,,,School,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,22055286731b47c0acbef51b698da26e,single_selection,Write an article for publication in your school magazine discussing the views that extra or private classes should be abolished in your country.,,,,,,,,,,,,,,,
-Exercise_5_-_How_to_write_a_good_summary_II,ee9dd8e2669c44c6b34f7882e0a80c95,single_selection,"Read the passage below and summarise in two sentences the features of Mr. Asante’s questions.  
+Exercise_5_-_How_to_write_a_good_summary_II,ee9dd8e2669c44c6b34f7882e0a80c95,single_selection,"Read the passage below and summarise in two sentences the features of Mr. Asante’s questions. 
 
 “The English exercises given by our English teacher have always been difficult, complex, sophisticated, complicated, mind-boggling and intricate questions which are always lengthy and long. Mr. Asante had always set these for us with pharisee strictness and epucurean relish. No wonder, days on which we have English have always been days on which I have a baptism on fire.",,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,6e006aff166e49c5bacb04ec0a36367c,single_selection,Write an article for publication in a national newspaper on the problems of youth employment and suggest how this can be promoted by the various sectors of the economy.,,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,4c60f7832a964447a75b81fd2d0a0e58,single_selection,"As the main speaker, write a speech for or against the motion “Chiefs should be allowed to take part in active politics”.",,,,,,,,,,,,,,,
-Exercise_5_-_How_to_write_a_good_summary_II,7327cd1008464748a26c4040095fe6d0,single_selection,"We have studied five elements of Prose/ novel namely setting, subject matter, plot, theme and character and how each is presented in the story.  
+Exercise_5_-_How_to_write_a_good_summary_II,7327cd1008464748a26c4040095fe6d0,single_selection,"We have studied five elements of Prose/ novel namely setting, subject matter, plot, theme and character and how each is presented in the story. 
 
 Equipped with this technical background, we can now read the entire novel by Ama Ata Aidoo, “No Sweetness Here”",,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,1653eac73fd54ca790b9a707d265d400,single_selection,"*I*n **three** sentences, summarize how the mining industry can be made more beneficial to the local community and the nation",,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,b8eea40e30b2448ba836024ec555e0b0,single_selection,"In **one** sentence, summarize the negative effect of mining on the environment.",,,,,,,,,,,,,,,
-Exercise_5_-_How_to_write_a_good_summary_II,463cd614579545919416aa50e2e5dd02,single_selection,"*Read the following passage carefully and answer in your own words, as far as possible, the questions on it.*  
+Exercise_5_-_How_to_write_a_good_summary_II,463cd614579545919416aa50e2e5dd02,single_selection,"*Read the following passage carefully and answer in your own words, as far as possible, the questions on it.* 
 
-Our land is blessed with many rich mineral resources – gold, diamond, bauxite, manganese and oil. Mining, therefore, contributes immensely to the national income. Communities from where these resources are derived should not be adversely affected by their extraction. Unfortunately, that appears to be the lot of many mining communities in the country which now face poverty, deprivation and squalor as a result of the extraction processes.  
+Our land is blessed with many rich mineral resources – gold, diamond, bauxite, manganese and oil. Mining, therefore, contributes immensely to the national income. Communities from where these resources are derived should not be adversely affected by their extraction. Unfortunately, that appears to be the lot of many mining communities in the country which now face poverty, deprivation and squalor as a result of the extraction processes. 
 
-The typical scene that confronts any visitor to a mining community is the sharp contrast between the beauty that adorns the settlements of the mining executives and the squalor of the communities in which those mineral resources are located. The many years of neglect of the communities by the mining companies has brought about environmental degradation and health hazards for the people. The concerns of the mining communities were recently articulated by the President of the country when he received a delegation from a mining company. He said that he appreciated what they had done so far and appealed to them to do more to enhance the development of the local communities. There is no doubt that mining companies have built clinics and schools, made some donations and provided electricity. As of now, the mining sector has employed some people and contributes to 30% of the national export revenue. That notwithstanding, considering the wealth generated from the extraction of mineral resources, it is quite clear that the mining companies have relegated the welfare of the people to the periphery of their activities.  
+The typical scene that confronts any visitor to a mining community is the sharp contrast between the beauty that adorns the settlements of the mining executives and the squalor of the communities in which those mineral resources are located. The many years of neglect of the communities by the mining companies has brought about environmental degradation and health hazards for the people. The concerns of the mining communities were recently articulated by the President of the country when he received a delegation from a mining company. He said that he appreciated what they had done so far and appealed to them to do more to enhance the development of the local communities. There is no doubt that mining companies have built clinics and schools, made some donations and provided electricity. As of now, the mining sector has employed some people and contributes to 30% of the national export revenue. That notwithstanding, considering the wealth generated from the extraction of mineral resources, it is quite clear that the mining companies have relegated the welfare of the people to the periphery of their activities. 
 
-A recent study has indicated that most of the people affected by mining operations are not satisfied with their compensation packages. Compensation should cover not only the payment of cash but also land allocation for farming activities and financial aid. The message to the mining companies is simple: they should do more than they have done so far. They should initiate programmes which can minimize the environmental hazards caused by their activities and ensure that the people benefit from their operations.  
+A recent study has indicated that most of the people affected by mining operations are not satisfied with their compensation packages. Compensation should cover not only the payment of cash but also land allocation for farming activities and financial aid. The message to the mining companies is simple: they should do more than they have done so far. They should initiate programmes which can minimize the environmental hazards caused by their activities and ensure that the people benefit from their operations. 
 
-A piece of welcome news would be the establishment of a mining fund devoted to the development of the mining communities. In addition, the mining laws should be critically re-examined. Those that deal with the payment of compensation for land, crops and buildings should protect the interest of the people. For instance, the percentage of mineral revenue paid as royalty should be adjusted upwards.  
+A piece of welcome news would be the establishment of a mining fund devoted to the development of the mining communities. In addition, the mining laws should be critically re-examined. Those that deal with the payment of compensation for land, crops and buildings should protect the interest of the people. For instance, the percentage of mineral revenue paid as royalty should be adjusted upwards. 
 
-While attention is being focused on the broad legal framework guiding mining operations, the government should take steps to see that these recommendations are implemented. There should be joint efforts between the players in the mining sector and government to find lasting solutions to the plight of the mining communities.</div>  
+While attention is being focused on the broad legal framework guiding mining operations, the government should take steps to see that these recommendations are implemented. There should be joint efforts between the players in the mining sector and government to find lasting solutions to the plight of the mining communities.</div> 
 
-Questions on the Passage  
+Questions on the Passage 
 
 In **two** sentences, summarize the benefits derived from the mining industry.",,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,9f62a87c4e6e4f11b5091eb58dd5e549,single_selection,"In **three** sentences, summarize how the mining industry can be made more beneficial to the local community and the nation",,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,549c600e017e4196a84ed1124bcbc85c,single_selection,"In **one** sentence, summarize the negative effect of mining on the environment.",,,,,,,,,,,,,,,
-Exercise_5_-_How_to_write_a_good_summary_II,84719fb7ce2b4362985dd4a5dad405aa,single_selection,"*Read the following passage carefully and answer in your own words, as far as possible, the questions on it.*  
+Exercise_5_-_How_to_write_a_good_summary_II,84719fb7ce2b4362985dd4a5dad405aa,single_selection,"*Read the following passage carefully and answer in your own words, as far as possible, the questions on it.* 
 
-Our land is blessed with many rich mineral resources – gold, diamond, bauxite, manganese and oil. Mining, therefore, contributes immensely to the national income. Communities from where these resources are derived should not be adversely affected by their extraction. Unfortunately, that appears to be the lot of many mining communities in the country which now face poverty, deprivation and squalor as a result of the extraction processes.  
+Our land is blessed with many rich mineral resources – gold, diamond, bauxite, manganese and oil. Mining, therefore, contributes immensely to the national income. Communities from where these resources are derived should not be adversely affected by their extraction. Unfortunately, that appears to be the lot of many mining communities in the country which now face poverty, deprivation and squalor as a result of the extraction processes. 
 
-The typical scene that confronts any visitor to a mining community is the sharp contrast between the beauty that adorns the settlements of the mining executives and the squalor of the communities in which those mineral resources are located. The many years of neglect of the communities by the mining companies has brought about environmental degradation and health hazards for the people. The concerns of the mining communities were recently articulated by the President of the country when he received a delegation from a mining company. He said that he appreciated what they had done so far and appealed to them to do more to enhance the development of the local communities. There is no doubt that mining companies have built clinics and schools, made some donations and provided electricity. As of now, the mining sector has employed some people and contributes to 30% of the national export revenue. That notwithstanding, considering the wealth generated from the extraction of mineral resources, it is quite clear that the mining companies have relegated the welfare of the people to the periphery of their activities.  
+The typical scene that confronts any visitor to a mining community is the sharp contrast between the beauty that adorns the settlements of the mining executives and the squalor of the communities in which those mineral resources are located. The many years of neglect of the communities by the mining companies has brought about environmental degradation and health hazards for the people. The concerns of the mining communities were recently articulated by the President of the country when he received a delegation from a mining company. He said that he appreciated what they had done so far and appealed to them to do more to enhance the development of the local communities. There is no doubt that mining companies have built clinics and schools, made some donations and provided electricity. As of now, the mining sector has employed some people and contributes to 30% of the national export revenue. That notwithstanding, considering the wealth generated from the extraction of mineral resources, it is quite clear that the mining companies have relegated the welfare of the people to the periphery of their activities. 
 
-A recent study has indicated that most of the people affected by mining operations are not satisfied with their compensation packages. Compensation should cover not only the payment of cash but also land allocation for farming activities and financial aid. The message to the mining companies is simple: they should do more than they have done so far. They should initiate programmes which can minimize the environmental hazards caused by their activities and ensure that the people benefit from their operations.  
+A recent study has indicated that most of the people affected by mining operations are not satisfied with their compensation packages. Compensation should cover not only the payment of cash but also land allocation for farming activities and financial aid. The message to the mining companies is simple: they should do more than they have done so far. They should initiate programmes which can minimize the environmental hazards caused by their activities and ensure that the people benefit from their operations. 
 
-A piece of welcome news would be the establishment of a mining fund devoted to the development of the mining communities. In addition, the mining laws should be critically re-examined. Those that deal with the payment of compensation for land, crops and buildings should protect the interest of the people. For instance, the percentage of mineral revenue paid as royalty should be adjusted upwards.  
+A piece of welcome news would be the establishment of a mining fund devoted to the development of the mining communities. In addition, the mining laws should be critically re-examined. Those that deal with the payment of compensation for land, crops and buildings should protect the interest of the people. For instance, the percentage of mineral revenue paid as royalty should be adjusted upwards. 
 
-While attention is being focused on the broad legal framework guiding mining operations, the government should take steps to see that these recommendations are implemented. There should be joint efforts between the players in the mining sector and government to find lasting solutions to the plight of the mining communities.</div>  
+While attention is being focused on the broad legal framework guiding mining operations, the government should take steps to see that these recommendations are implemented. There should be joint efforts between the players in the mining sector and government to find lasting solutions to the plight of the mining communities.</div> 
 
-Questions on the Passage  
+Questions on the Passage 
 
 In **two** sentences, summarize the benefits derived from the mining industry.",,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,2e0c6ff8f1f94aa0a3cc2c708045e9df,single_selection,"*I*n **three** sentences, summarize how the mining industry can be made more beneficial to the local community and the nation",,,,,,,,,,,,,,,
 Exercise_5_-_How_to_write_a_good_summary_II,32f3405adae44643a38cf1e729a1a905,single_selection,"In **one** sentence, summarize the negative effect of mining on the environment.",,,,,,,,,,,,,,,
-Exercise_5_-_How_to_write_a_good_summary_II,6dc1e8c3d6e34c20abc13408146cf205,single_selection,"*Read the following passage carefully and answer in your own words, as far as possible, the questions on it.*  
+Exercise_5_-_How_to_write_a_good_summary_II,6dc1e8c3d6e34c20abc13408146cf205,single_selection,"*Read the following passage carefully and answer in your own words, as far as possible, the questions on it.* 
 
-Our land is blessed with many rich mineral resources – gold, diamond, bauxite, manganese and oil. Mining, therefore, contributes immensely to the national income. Communities from where these resources are derived should not be adversely affected by their extraction. Unfortunately, that appears to be the lot of many mining communities in the country which now face poverty, deprivation and squalor as a result of the extraction processes.  
+Our land is blessed with many rich mineral resources – gold, diamond, bauxite, manganese and oil. Mining, therefore, contributes immensely to the national income. Communities from where these resources are derived should not be adversely affected by their extraction. Unfortunately, that appears to be the lot of many mining communities in the country which now face poverty, deprivation and squalor as a result of the extraction processes. 
 
-The typical scene that confronts any visitor to a mining community is the sharp contrast between the beauty that adorns the settlements of the mining executives and the squalor of the communities in which those mineral resources are located. The many years of neglect of the communities by the mining companies has brought about environmental degradation and health hazards for the people. The concerns of the mining communities were recently articulated by the President of the country when he received a delegation from a mining company. He said that he appreciated what they had done so far and appealed to them to do more to enhance the development of the local communities. There is no doubt that mining companies have built clinics and schools, made some donations and provided electricity. As of now, the mining sector has employed some people and contributes to 30% of the national export revenue. That notwithstanding, considering the wealth generated from the extraction of mineral resources, it is quite clear that the mining companies have relegated the welfare of the people to the periphery of their activities.  
+The typical scene that confronts any visitor to a mining community is the sharp contrast between the beauty that adorns the settlements of the mining executives and the squalor of the communities in which those mineral resources are located. The many years of neglect of the communities by the mining companies has brought about environmental degradation and health hazards for the people. The concerns of the mining communities were recently articulated by the President of the country when he received a delegation from a mining company. He said that he appreciated what they had done so far and appealed to them to do more to enhance the development of the local communities. There is no doubt that mining companies have built clinics and schools, made some donations and provided electricity. As of now, the mining sector has employed some people and contributes to 30% of the national export revenue. That notwithstanding, considering the wealth generated from the extraction of mineral resources, it is quite clear that the mining companies have relegated the welfare of the people to the periphery of their activities. 
 
-A recent study has indicated that most of the people affected by mining operations are not satisfied with their compensation packages. Compensation should cover not only the payment of cash but also land allocation for farming activities and financial aid. The message to the mining companies is simple: they should do more than they have done so far. They should initiate programmes which can minimize the environmental hazards caused by their activities and ensure that the people benefit from their operations.  
+A recent study has indicated that most of the people affected by mining operations are not satisfied with their compensation packages. Compensation should cover not only the payment of cash but also land allocation for farming activities and financial aid. The message to the mining companies is simple: they should do more than they have done so far. They should initiate programmes which can minimize the environmental hazards caused by their activities and ensure that the people benefit from their operations. 
 
-A piece of welcome news would be the establishment of a mining fund devoted to the development of the mining communities. In addition, the mining laws should be critically re-examined. Those that deal with the payment of compensation for land, crops and buildings should protect the interest of the people. For instance, the percentage of mineral revenue paid as royalty should be adjusted upwards.  
+A piece of welcome news would be the establishment of a mining fund devoted to the development of the mining communities. In addition, the mining laws should be critically re-examined. Those that deal with the payment of compensation for land, crops and buildings should protect the interest of the people. For instance, the percentage of mineral revenue paid as royalty should be adjusted upwards. 
 
-While attention is being focused on the broad legal framework guiding mining operations, the government should take steps to see that these recommendations are implemented. There should be joint efforts between the players in the mining sector and government to find lasting solutions to the plight of the mining communities.</div>  
+While attention is being focused on the broad legal framework guiding mining operations, the government should take steps to see that these recommendations are implemented. There should be joint efforts between the players in the mining sector and government to find lasting solutions to the plight of the mining communities.</div> 
 
-Questions on the Passage  
+Questions on the Passage 
 
 In **two** sentences, summarize the benefits derived from the mining industry.",,,,,,,,,,,,,,,
 Exercise_5_-_Youth_and_national_development,14b6b350e15049fd90d7912af8c54d17,single_selection,Businessmen receive profits for ………………..,Risk bearing,Management,Investing,Borrowing,,,Investing,,,,,,,,
@@ -1081,13 +1080,13 @@ Exercise_5_-_Youth_and_national_development,cfc40f202a174b61a777be35e7fa17f6,sin
 Exercise_5_-_Youth_and_national_development,e2e9680b5d764b4d8e0264215e174bc6,single_selection,Entrepreneurs engage in productive activities in order to ………………,Earn salaries,Develop their talents,Make profit,Gain salary experience,,,Make profit,,,,,,,,
 Exercise_5_-_Youth_and_national_development,08f444121b974bf897a43c5f8c2e6c7b,single_selection,The value of education is measured by …………………,Excellence academic performance,One’s ability to earn a living,One’s contribution towards societal development,How intelligent a person can be,,,One’s contribution towards societal development,,,,,,,,
 Exercise_5_-_Youth_and_national_development,b1c3fc3f1d574c7d986f413a564e7398,single_selection,One of the aims of the National Service Scheme in Ghana is to ………………,Instill in the youth a sense of patriotism,Discourage migration of the youth,Help the youth to know the rural areas,Empower the youth for development,,,Instill in the youth a sense of patriotism,,,,,,,,
-Exercise_5_-_Youth_and_national_development,88fb217cfb14499692625cd5b2efe6cb,single_selection,"The main source of finance available to a private entrepreneur are ………………..  
+Exercise_5_-_Youth_and_national_development,88fb217cfb14499692625cd5b2efe6cb,single_selection,"The main source of finance available to a private entrepreneur are ……………….. 
 
-I. Personal savings  
+I. Personal savings 
 
-II. Commercial bank loan  
+II. Commercial bank loan 
 
-III. Government treasury bill  
+III. Government treasury bill 
 
 IV. World bank loan",I and IV only,II and III only,"II, III and IV only",I and II only,,,I and II only,,,,,,,,
 Exercise_5_-_Youth_and_national_development,6c9e44415dfa46a4b723340c4a202e02,single_selection,Girl-child education is necessary because it enhances all the following except ……………………….,The maintenance of peace,Effective parenting,Honest leadership,The training of teachers,,,The maintenance of peace,,,,,,,,
@@ -1097,9 +1096,7 @@ Exercise_5_-_Youth_and_national_development,48c6dd17ed9046e1ac05e8e41f222d07,sin
 Exercise_5_-_Youth_and_national_development,e942c63162754208ad2acc15683ed619,single_selection,All the following are different ways by which the youth wrongly dissipate energies except ……………,Sporting activity,Drug abuse,Prostitution,Armed robbery,,,Sporting activity,,,,,,,,
 Exercise_5_-_Youth_and_national_development,3e19e472c31c4ad48789d8a8a9cd36eb,single_selection,One of the most significant functions of the entrepreneur is ………………..,Employment generation,Dividend sharing,Risk bearing,Investment promotion,,,Risk bearing,,,,,,,,
 Exercise_5_-_Youth_and_national_development,cb6d0ff41dd3421182bae38b82e4eaed,single_selection,The most important aim of formal education to the society is ………………..,Acquire higher academic excellence,Acquire vocational skills,Helping the individual secure a well paid job in the community,Making the individual fit well into the community,,,Making the individual fit well into the community,,,,,,,,
-Exercise_5_-_Youth_and_national_development,0f87f2dd750444d1a5bdbc9e1519a126,single_selection,The following are the characteristics of the youth except that they …………..,Manifest energy and exuberance,Desire for change,Inborn love for activity,"  
-Tend to be very conservative",,,"  
-Tend to be very conservative",,,,,,,,
+Exercise_5_-_Youth_and_national_development,0f87f2dd750444d1a5bdbc9e1519a126,single_selection,The following are the characteristics of the youth except that they …………..,Manifest energy and exuberance,Desire for change,Inborn love for activity,Tend to be very conservative,,,Tend to be very conservative,,,,,,,,
 Exercise_5_-_Youth_and_national_development,3115ebca018d4bf6bfa3c116a3b32b86,single_selection,All the following are functions of the entrepreneur except ……………….,Provision of capital,Managing the enterprise,Seeing to the welfare of workers,Promoting trade union activity,,,Promoting trade union activity,,,,,,,,
 Exercise_5_-_Youth_and_national_development,428bc226eaf54d1da77e0d6f3153b64b,single_selection,Western education has partially failed to tackle the process of socialization in Ghana because it emphasizes ………………,Development values,Acquisition of knowledge,Character training,Attitude training,,,Acquisition of knowledge,,,,,,,,
 Exercise_5_-_Youth_and_national_development,f9dea00095eb4873aa77467b8707c129,single_selection,The differences in value system of the youth and adults is termed as…………………,Social changes,Conflict gap,Generation gap,Linking gap,,,Generation gap,,,,,,,,
