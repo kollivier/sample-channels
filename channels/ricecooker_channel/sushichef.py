@@ -327,6 +327,53 @@ class SampleChef(SushiChef):
         )
         exercices_folder.add_child(exercise2b_dhanam4)
 
+        exercise2arabic = ExerciseNode(
+            source_id='exercise2arabic',
+            title='الأسئلة الأساسية',
+            author='فريق محتوى LE',
+            description='عرض التمارين البسيطة المدعومة من قِبل Ricecooker و Studio',
+            language=getlang('ar').code,
+            license=get_license(licenses.CC_BY, copyright_holder='Copyright holder name'),
+            thumbnail=None,
+            exercise_data={
+                'mastery_model': exercises.M_OF_N,         # or exercises.DO_ALL
+                'randomize': True,
+                'm': 2,
+                'n': 3,
+            },
+            questions=[
+                MultipleSelectQuestion(
+                        id='ex2aQ1',
+                        question = "ما هي الأرقام حتى؟",
+                        correct_answers = ["2", "4",],
+                        all_answers = ["1", "2", "3", "4", "5"],
+                        # hints?
+                ),
+                SingleSelectQuestion(
+                        id='ex2aQ2',
+                        question = "ما هو 2 مرات 3؟",
+                        correct_answer = "6",
+                        all_answers = ["2", "3", "5", "6"],
+                        # hints?
+                ),
+                InputQuestion(
+                        id='ex2aQ3',
+                        question = "اسم عامل 10",
+                        answers = ["1", "2", "5", "10"],
+                        # hints?
+                ),
+                SingleSelectQuestion(
+                        id='ex2aQ4',
+                        question = """هذا هو فقرة أطول مع بعض النص فيه. أنا فقط أكتب أشياء عشوائية عن نظرية الاحتمالات والإحصاءات هنا بحيث ينتهي بها المطاف إلى أن تكون باراجاة طويلة جدا. الهدف من كتابة هذه الفقرة الطويلة هو معرفة ما يحدث عندما يكون السؤال طويلاً أو يحتوي على تنسيق مثل * bold *.\n\nهنا فقرة ثانية.\n\nهنا صورة:\n\n![](content/ricecooker-channel-files/html5_vuejs.jpg)""",
+                        correct_answer = "Correct",
+                        all_answers = ["Correct", "هذا هو نص طويل","هذا نص أطول لمعرفة ما إذا كان سينتقل إلى السطر التالي التالي. الإجابة الطويلة جدًا ، ليست هذه هي الإجابة الصحيحة"],
+                        # hints?
+                ),
+            ]
+        )
+        exercices_folder.add_child(exercise2arabic)
+        
+
 
 if __name__ == '__main__':
     """
