@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from le_utils.constants import licenses, exercises
+from le_utils.constants import licenses, exercises, roles
 from le_utils.constants.languages import getlang  # see also getlang_by_name, getlang_by_alpha2
 from ricecooker.chefs import SushiChef
 from ricecooker.classes.nodes import TopicNode
@@ -44,6 +44,7 @@ class SampleChef(SushiChef):
         channel = self.get_channel(*args, **kwargs)   # create ChannelNode from data in self.channel_info
         self.create_content_nodes(channel)
         self.create_exercise_nodes(channel)
+        self.create_coach_content_nodes(channel)
         raise_for_invalid_channel(channel)
         return channel
 
@@ -326,6 +327,68 @@ class SampleChef(SushiChef):
                 ]
         )
         exercices_folder.add_child(exercise2b_dhanam4)
+
+
+
+    def create_coach_content_nodes(self, channel):
+        """
+        Add a folder of "Extra" material of additional or supplementary materials
+        visible only to coach role.
+        """
+
+        # COACH CONTENT
+        extra_folder = TopicNode(
+            source_id='someuuuniqqqid',
+            title='Coach Content',
+            description='This folder is only visible to teachers.',
+            author=None,
+            language=getlang('en').id,
+            thumbnail=None,
+            role=roles.COACH,
+        )
+        channel.add_child(extra_folder)
+
+        exercise_node = ExerciseNode(
+            source_id='ea1',
+            title='Review question',
+            author='LE content team',
+            description='This exercise will check your prior knowlesage on the ...',
+            language=getlang('en').id,
+            license=get_license(licenses.CC_BY, copyright_holder='Copyright holder name'),
+            thumbnail=None,
+            exercise_data={
+                'mastery_model': exercises.M_OF_N,         # or exercises.DO_ALL
+                'randomize': True,
+                'm': 1,
+                'n': 1,
+            },
+            questions=[
+                SingleSelectQuestion(
+                        id='ea1:Q1',
+                        question = "What is 2 times 3?",
+                        correct_answer = "6",
+                        all_answers = ["2", "3", "5", "6"],
+                )
+            ]
+        )
+        extra_folder.add_child(exercise_node)
+        
+        document_node = DocumentNode(
+            source_id='https://www.maa.org/external_archive/devlin/LockhartsLament.pdf',
+            title='A Mathematician’s Lament',
+            author='Paul Lockhart',
+            description='An article about how the focus on teaching arithmetic calculations is prevneting students form forming a meaningful connection with the subject.',
+            language=getlang('en').id,
+            license=get_license(licenses.CC_BY, copyright_holder='Paul Lockhart'),
+            thumbnail=None,
+            role=roles.COACH,
+            files=[DocumentFile(
+                        path='./content/ricecooker-channel-files/LockhartsLament.pdf',
+                        language=getlang('en').id
+                )]
+        )
+        extra_folder.add_child(document_node)
+
 
 
 if __name__ == '__main__':
