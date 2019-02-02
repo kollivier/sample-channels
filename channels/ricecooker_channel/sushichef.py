@@ -344,7 +344,7 @@ class SampleChef(SushiChef):
             author=None,
             language=getlang('en').id,
             thumbnail=None,
-            role=roles.COACH,
+            # role=roles.COACH,
         )
         channel.add_child(extra_folder)
 
